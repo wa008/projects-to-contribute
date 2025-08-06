@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Source Contribution-Minded Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Open Source Contribution-Minded Dashboard</h1>
+        <p class="subtitle">Find projects that need your help</p>
+    </header>
+    <main>
+        <div class="filters">
+            <input type="text" id="language-filter" placeholder="Filter by language...">
+            <input type="text" id="keyword-filter" placeholder="Filter by keyword...">
+        </div>
+        <div id="loader" class="loader"></div>
+        <table id="projects-table">
+            <thead>
+                <tr>
+                    <th data-sort="rank">Rank</th>
+                    <th data-sort="name">Project</th>
+                    <th data-sort="stars">Stars</th>
+                    <th data-sort="new_stars_30d">New Stars (30d)</th>
+                    <th data-sort="new_open_issues">New Issues (30d)</th>
+                    <th data-sort="contributors">Contributors</th>
+                    <th data-sort="demand_index">Demand Index</th>
+                    <th data-sort="language">Language</th>
+                    <th>Keywords</th>
+                    <th>Date Fetched</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Project data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <p>Last updated: <span id="last-updated"></span></p>
+    </footer>
+    <button id="back-to-top" title="Go to top">Top</button>
+    <script src="script.js"></script>
+</body>
+</html>
