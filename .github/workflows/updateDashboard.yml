@@ -1,0 +1,48 @@
+name: update dashboard
+
+# easy to collect spam link, Temporarily pause
+on:
+  push:
+    branches:
+      - main
+  # schedule:
+  #   - cron: '0 0 1 * *'
+
+jobs:
+  build:
+    name: "update dashboard"
+    # comment
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout actions
+        uses: actions/checkout@v1
+        
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      # - name: install packages
+      #   run: "pip install --upgrade pip && pip install -r ./requirements.txt"
+  
+      - name: Update rss
+        run: |
+          sudo apt update 
+          python -m pip install requests python-dotenv
+          python -u scripts/fetch_data.py
+        timeout-minutes: 3600
+
+      - name: Commit report
+        env:
+            GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          git config --global user.name 'wa008'
+          git config --global user.email 'huzhipeng1024@outlook.com'
+          git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
+          # git pull
+          git checkout -b main
+          git branch
+          git add ./projects.json
+          git commit -m "github workflows auto update projects"
+          git push origin main
