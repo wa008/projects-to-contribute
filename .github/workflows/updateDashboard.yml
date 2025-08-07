@@ -23,9 +23,6 @@ jobs:
         with:
           python-version: '3.10'
 
-      # - name: install packages
-      #   run: "pip install --upgrade pip && pip install -r ./requirements.txt"
-  
       - name: Update rss
         run: |
           sudo apt update 
@@ -37,8 +34,8 @@ jobs:
         env:
             GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          git config --global user.name 'wa008'
-          git config --global user.email 'zphu1024@outlook.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
           # git pull
           git checkout -b main

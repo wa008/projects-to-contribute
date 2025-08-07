@@ -149,7 +149,7 @@ class GitHubAPI:
         """
         Fetches and decodes the README content for a repository.
         """
-        url = f"{self.BASE_URL}/repos/{repo_full_name}/readme"
+        url = f"{self.BASE_URL}/repos/{repo_full_name}/README.md"
         response = self._make_request(url)
         if not response:
             return ""
@@ -161,10 +161,14 @@ class GitHubAPI:
             return ""
 
 def load_progress():
-    if os.path.exists(PROGRESS_FILE):
-        with open(PROGRESS_FILE, 'r') as f:
+    if not os.path.exists(PROGRESS_FILE):
+        return {'last_repo_id': 0, 'projects': {}}
+    with open(PROGRESS_FILE, 'r') as f:
+        try:
             return json.load(f)
-    return {'last_repo_id': 0, 'projects': {}}
+        except json.JSONDecodeError:
+            logging.warning(f"Could not decode {PROGRESS_FILE}. Starting from scratch.")
+            return {'last_repo_id': 0, 'projects': {}}
 
 def save_progress(last_repo_id, projects):
     with open(PROGRESS_FILE, 'w') as f:
