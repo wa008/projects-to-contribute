@@ -32,6 +32,8 @@ jobs:
         timeout-minutes: 3600
 
       - name: Commit and Push changes
+        env:
+            GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name 'wa008'
           git config --global user.email 'huzhipeng1024@outlook.com'
