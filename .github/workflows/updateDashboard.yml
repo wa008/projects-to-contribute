@@ -30,7 +30,7 @@ jobs:
         run: |
           sudo apt update 
           python -m pip install requests python-dotenv
-          python -u scripts/fetch_data.py
+          python -u scripts/fetch_data.py --token "{{ secrets.ACCESS_TOKEN }}"
         timeout-minutes: 3600
 
       - name: Commit report
@@ -38,7 +38,7 @@ jobs:
             GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name 'wa008'
-          git config --global user.email 'huzhipeng1024@outlook.com'
+          git config --global user.email 'zphu1024@outlook.com'
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
           # git pull
           git checkout -b main
