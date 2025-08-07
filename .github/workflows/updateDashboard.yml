@@ -1,6 +1,5 @@
 name: update dashboard
 
-# easy to collect spam link, Temporarily pause
 on:
   push:
     branches:
@@ -11,15 +10,16 @@ on:
 jobs:
   build:
     name: "update dashboard"
-    # comment
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: checkout actions
-        uses: actions/checkout@v1
-        
+        uses: actions/checkout@v3
+
       - name: Set up Python 3.10
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
@@ -27,20 +27,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          sudo apt update 
           python -m pip install requests python-dotenv
           python -u scripts/fetch_data.py --token "${{ secrets.ACCESS_TOKEN }}"
         timeout-minutes: 3600
 
       - name: Commit report
-        env:
-            GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
-          git checkout -b main
-          git branch
           git add ./projects.json
-          git commit -m "github workflows auto update projects"
-          git push origin main
+          git commit -m "github workflows auto update projects" || echo "No changes to commit"
+          git push
