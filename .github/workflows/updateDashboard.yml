@@ -33,12 +33,18 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'wa008'
+          git config --global user.email 'huzhipeng1024@outlook.com'
+          git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
+          git checkout -b main
+          git branch
           git add ./projects.json
+
+          # git config --global user.name 'github-actions[bot]'
+          # git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "github workflows auto update projects"
-            git push
+            git push origin main
           fi
