@@ -149,16 +149,18 @@ class GitHubAPI:
         """
         Fetches and decodes the README content for a repository.
         """
-        url = f"{self.BASE_URL}/repos/{repo_full_name}/README.md"
-        response = self._make_request(url)
-        if not response:
-            return ""
-        try:
-            content_b64 = response.json()['content']
-            return base64.b64decode(content_b64).decode('utf-8')
-        except (KeyError, UnicodeDecodeError) as e:
-            logging.error(f"Could not fetch or decode README for {repo_full_name}: {e}")
-            return ""
+        for readme_name in ('README.md', 'readme', 'README', 'readme.md'):
+            url = f"{self.BASE_URL}/repos/{repo_full_name}/{readme_name}"
+            response = self._make_request(url)
+            if not response:
+                logging.info(f"{readme_name} doesn't exist")
+                continue
+            try:
+                content_b64 = response.json()['content']
+                return base64.b64decode(content_b64).decode('utf-8')
+            except (KeyError, UnicodeDecodeError) as e:
+                logging.info(f"Could not fetch or decode {readme_name} for {repo_full_name}: {e}")
+        return ""
 
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
