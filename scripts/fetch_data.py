@@ -272,9 +272,16 @@ def main():
         default='projects.json',
         help='The output file for the project data.'
     )
+    parser.add_argument(
+        '--token',
+        help='GH TOKEN'
+    )
     args = parser.parse_args()
-
-    token = os.environ.get('GH_TOKEN')
+    if args.token is not None:
+        token = args.token
+    else:
+        token = os.environ.get('GH_TOKEN')
+    print (f"token: {token}")
     github_client = GitHubAPI(token)
     
     progress = load_progress()
