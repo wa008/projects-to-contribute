@@ -34,7 +34,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 100
+MAX_REQUESTS = 10
 
 class GitHubAPI:
     """
@@ -285,7 +285,6 @@ def main():
         token = args.token
     else:
         token = os.environ.get('GH_TOKEN')
-    print (f"token: {len(token)}, {token[: 5]}, {token[-5: ]}")
     github_client = GitHubAPI(token)
     
     progress = load_progress()
