@@ -36,7 +36,7 @@ jobs:
           git config --global user.name 'wa008'
           git config --global user.email 'huzhipeng1024@outlook.com'
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
-          git checkout -b main
+          # git checkout -b main
           git branch
           git add ./projects.json
 
