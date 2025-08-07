@@ -34,7 +34,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 10
+MAX_REQUESTS = 500
 
 class GitHubAPI:
     """
@@ -52,7 +52,7 @@ class GitHubAPI:
         if self.request_count >= MAX_REQUESTS:
             raise Exception("Request limit reached")
         self.request_count += 1
-        time.sleep(1)
+        time.sleep(5)
         try:
             response = requests.get(url, headers=self._headers, params=params)
             logging.info(f"Request to {url} with params {params} returned status {response.status_code}")
