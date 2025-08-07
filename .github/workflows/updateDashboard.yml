@@ -23,7 +23,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Update rss
+      - name: Update projects
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           sudo apt update 
           python -m pip install requests python-dotenv
@@ -37,7 +39,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
-          # git pull
           git checkout -b main
           git branch
           git add ./projects.json
