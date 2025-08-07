@@ -11,8 +11,6 @@ jobs:
   build:
     name: "update dashboard"
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: checkout actions
@@ -28,13 +26,20 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           python -m pip install requests python-dotenv
-          python -u scripts/fetch_data.py --token "${{ secrets.ACCESS_TOKEN }}"
+          python -u scripts/fetch_data.py --token "$GH_TOKEN"
         timeout-minutes: 3600
 
-      - name: Commit report
+      - name: Commit and Push changes
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}
           git add ./projects.json
-          git commit -m "github workflows auto update projects" || echo "No changes to commit"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "github workflows auto update projects"
+            git push origin HEAD:main
+          fi
