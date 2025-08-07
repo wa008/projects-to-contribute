@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-07T02:51:07.732555+00:00",
+    "last_updated": "2025-08-07T03:07:46.923230+00:00",
     "projects": [
         {
             "id": 68,
@@ -318,6 +318,22 @@
             "demand_index": 0,
             "last_updated_repo": "2024-10-18T16:26:51Z",
             "date_fetched": "2025-08-07T02:33:26.939055+00:00"
+        },
+        {
+            "id": 71,
+            "name": "jamesgolick/resource_controller",
+            "url": "https://github.com/jamesgolick/resource_controller",
+            "stars": 498,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "demand_index": 0,
+            "last_updated_repo": "2025-03-14T19:23:06Z",
+            "date_fetched": "2025-08-07T03:07:41.733167+00:00"
         }
     ]
 }
