@@ -285,6 +285,7 @@ def main():
         token = args.token
     else:
         token = os.environ.get('GH_TOKEN')
+    print (f"token: {len(token)}, {token[: 5]}, {token[-5: ]}")
     github_client = GitHubAPI(token)
     
     progress = load_progress()
