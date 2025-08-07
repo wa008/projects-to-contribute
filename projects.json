@@ -1,6 +1,22 @@
 {
-    "last_updated": "2025-08-07T03:37:03.890987+00:00",
+    "last_updated": "2025-08-07T04:05:34.694414+00:00",
     "projects": [
+        {
+            "id": 144,
+            "name": "mojombo/chronic",
+            "url": "https://github.com/mojombo/chronic",
+            "stars": 3249,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 3,
+            "contributors": 68,
+            "demand_index": 0.3333333333333333,
+            "last_updated_repo": "2025-08-04T14:56:35Z",
+            "date_fetched": "2025-08-07T03:57:52.364928+00:00"
+        },
         {
             "id": 68,
             "name": "macournoyer/thin",
@@ -18,6 +34,24 @@
             "demand_index": 0.25,
             "last_updated_repo": "2025-08-06T09:56:42Z",
             "date_fetched": "2025-08-07T02:33:35.859311+00:00"
+        },
+        {
+            "id": 363,
+            "name": "collectiveidea/audited",
+            "url": "https://github.com/collectiveidea/audited",
+            "stars": 3461,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Database",
+                "CLI"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 12,
+            "contributors": 162,
+            "demand_index": 0.08333333333333333,
+            "last_updated_repo": "2025-08-07T03:02:04Z",
+            "date_fetched": "2025-08-07T04:04:54.148128+00:00"
         },
         {
             "id": 1,
@@ -333,7 +367,1275 @@
             "contributors": 10,
             "demand_index": 0,
             "last_updated_repo": "2025-03-14T19:23:06Z",
-            "date_fetched": "2025-08-07T03:36:59.273485+00:00"
+            "date_fetched": "2025-08-07T03:55:00.231951+00:00"
+        },
+        {
+            "id": 73,
+            "name": "jamesgolick/markaby",
+            "url": "https://github.com/jamesgolick/markaby",
+            "stars": 26,
+            "language": "Ruby",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:55:07.874206+00:00"
+        },
+        {
+            "id": 74,
+            "name": "jamesgolick/enum_field",
+            "url": "https://github.com/jamesgolick/enum_field",
+            "stars": 55,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-10-09T02:52:56Z",
+            "date_fetched": "2025-08-07T03:55:15.540966+00:00"
+        },
+        {
+            "id": 75,
+            "name": "defunkt/subtlety",
+            "url": "https://github.com/defunkt/subtlety",
+            "stars": 16,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:34Z",
+            "date_fetched": "2025-08-07T03:55:25.698656+00:00"
+        },
+        {
+            "id": 92,
+            "name": "defunkt/zippy",
+            "url": "https://github.com/defunkt/zippy",
+            "stars": 18,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:55:33.356470+00:00"
+        },
+        {
+            "id": 93,
+            "name": "defunkt/cache_fu",
+            "url": "https://github.com/defunkt/cache_fu",
+            "stars": 259,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 8,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-03T15:09:50Z",
+            "date_fetched": "2025-08-07T03:55:41.062520+00:00"
+        },
+        {
+            "id": 95,
+            "name": "KirinDave/phosphor",
+            "url": "https://github.com/KirinDave/phosphor",
+            "stars": 10,
+            "language": null,
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:34Z",
+            "date_fetched": "2025-08-07T03:55:48.669622+00:00"
+        },
+        {
+            "id": 98,
+            "name": "bmizerany/sinatra",
+            "url": "https://github.com/bmizerany/sinatra",
+            "stars": 913,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Security",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 170,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-20T20:49:11Z",
+            "date_fetched": "2025-08-07T03:55:56.480935+00:00"
+        },
+        {
+            "id": 102,
+            "name": "jnewland/gsa-prototype",
+            "url": "https://github.com/jnewland/gsa-prototype",
+            "stars": 14,
+            "language": "JavaScript",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-12T21:45:29Z",
+            "date_fetched": "2025-08-07T03:56:04.073174+00:00"
+        },
+        {
+            "id": 105,
+            "name": "technoweenie/duplikate",
+            "url": "https://github.com/technoweenie/duplikate",
+            "stars": 26,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:34Z",
+            "date_fetched": "2025-08-07T03:56:11.840223+00:00"
+        },
+        {
+            "id": 118,
+            "name": "jnewland/lazy_record",
+            "url": "https://github.com/jnewland/lazy_record",
+            "stars": 16,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:34Z",
+            "date_fetched": "2025-08-07T03:56:19.625942+00:00"
+        },
+        {
+            "id": 119,
+            "name": "jnewland/gsa-feeds",
+            "url": "https://github.com/jnewland/gsa-feeds",
+            "stars": 9,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:35Z",
+            "date_fetched": "2025-08-07T03:56:27.240068+00:00"
+        },
+        {
+            "id": 120,
+            "name": "jnewland/votigoto",
+            "url": "https://github.com/jnewland/votigoto",
+            "stars": 10,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-09-26T13:31:23Z",
+            "date_fetched": "2025-08-07T03:56:34.964020+00:00"
+        },
+        {
+            "id": 127,
+            "name": "defunkt/mofo",
+            "url": "https://github.com/defunkt/mofo",
+            "stars": 92,
+            "language": "JavaScript",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-03T15:10:04Z",
+            "date_fetched": "2025-08-07T03:56:42.622619+00:00"
+        },
+        {
+            "id": 129,
+            "name": "jnewland/xhtmlize",
+            "url": "https://github.com/jnewland/xhtmlize",
+            "stars": 12,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:56:50.336506+00:00"
+        },
+        {
+            "id": 130,
+            "name": "ruby-git/ruby-git",
+            "url": "https://github.com/ruby-git/ruby-git",
+            "stars": 1772,
+            "language": "Ruby",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 119,
+            "demand_index": 0.0,
+            "last_updated_repo": "2025-08-04T17:09:32Z",
+            "date_fetched": "2025-08-07T03:56:58.364981+00:00"
+        },
+        {
+            "id": 131,
+            "name": "ezmobius/bmhsearch",
+            "url": "https://github.com/ezmobius/bmhsearch",
+            "stars": 11,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:57:06.102603+00:00"
+        },
+        {
+            "id": 137,
+            "name": "uggedal/mofo",
+            "url": "https://github.com/uggedal/mofo",
+            "stars": 5,
+            "language": "JavaScript",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:35Z",
+            "date_fetched": "2025-08-07T03:57:13.887311+00:00"
+        },
+        {
+            "id": 139,
+            "name": "mmower/simply_versioned",
+            "url": "https://github.com/mmower/simply_versioned",
+            "stars": 45,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-12-02T07:49:34Z",
+            "date_fetched": "2025-08-07T03:57:21.747187+00:00"
+        },
+        {
+            "id": 140,
+            "name": "abhay/gchart",
+            "url": "https://github.com/abhay/gchart",
+            "stars": 39,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:57:29.367918+00:00"
+        },
+        {
+            "id": 141,
+            "name": "benburkert/schemr",
+            "url": "https://github.com/benburkert/schemr",
+            "stars": 8,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-01-11T15:31:48Z",
+            "date_fetched": "2025-08-07T03:57:37.041527+00:00"
+        },
+        {
+            "id": 142,
+            "name": "abhay/calais",
+            "url": "https://github.com/abhay/calais",
+            "stars": 136,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 15,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:57:44.660689+00:00"
+        },
+        {
+            "id": 165,
+            "name": "sr/git-wiki",
+            "url": "https://github.com/sr/git-wiki",
+            "stars": 532,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "demand_index": 0,
+            "last_updated_repo": "2025-05-25T08:24:56Z",
+            "date_fetched": "2025-08-07T03:57:59.972285+00:00"
+        },
+        {
+            "id": 177,
+            "name": "queso/signal-wiki",
+            "url": "https://github.com/queso/signal-wiki",
+            "stars": 71,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 7,
+            "demand_index": 0,
+            "last_updated_repo": "2024-10-13T20:37:27Z",
+            "date_fetched": "2025-08-07T03:58:07.605490+00:00"
+        },
+        {
+            "id": 179,
+            "name": "drnic/ruby-on-rails-tmbundle",
+            "url": "https://github.com/drnic/ruby-on-rails-tmbundle",
+            "stars": 893,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 32,
+            "demand_index": 0.0,
+            "last_updated_repo": "2025-07-30T16:18:47Z",
+            "date_fetched": "2025-08-07T03:58:15.290986+00:00"
+        },
+        {
+            "id": 185,
+            "name": "danwrong/low-pro-for-jquery",
+            "url": "https://github.com/danwrong/low-pro-for-jquery",
+            "stars": 137,
+            "language": "JavaScript",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2025-03-14T16:36:36Z",
+            "date_fetched": "2025-08-07T03:58:22.981892+00:00"
+        },
+        {
+            "id": 186,
+            "name": "wayneeseguin/merb-core",
+            "url": "https://github.com/wayneeseguin/merb-core",
+            "stars": 7,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:35Z",
+            "date_fetched": "2025-08-07T03:58:30.664183+00:00"
+        },
+        {
+            "id": 190,
+            "name": "sr/dst",
+            "url": "https://github.com/sr/dst",
+            "stars": 11,
+            "language": "Ruby",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:35Z",
+            "date_fetched": "2025-08-07T03:58:38.313405+00:00"
+        },
+        {
+            "id": 191,
+            "name": "mojombo/yaws",
+            "url": "https://github.com/mojombo/yaws",
+            "stars": 43,
+            "language": "Erlang",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-03T15:10:40Z",
+            "date_fetched": "2025-08-07T03:58:46.048299+00:00"
+        },
+        {
+            "id": 192,
+            "name": "KirinDave/yaws",
+            "url": "https://github.com/KirinDave/yaws",
+            "stars": 11,
+            "language": "Erlang",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T03:58:53.758180+00:00"
+        },
+        {
+            "id": 193,
+            "name": "sr/tasks",
+            "url": "https://github.com/sr/tasks",
+            "stars": 9,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T03:59:03.912049+00:00"
+        },
+        {
+            "id": 195,
+            "name": "mattetti/ruby-on-rails-tmbundle",
+            "url": "https://github.com/mattetti/ruby-on-rails-tmbundle",
+            "stars": 6,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T03:59:14.057468+00:00"
+        },
+        {
+            "id": 199,
+            "name": "grempe/amazon-ec2",
+            "url": "https://github.com/grempe/amazon-ec2",
+            "stars": 436,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Database",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 45,
+            "demand_index": 0,
+            "last_updated_repo": "2025-07-02T16:30:15Z",
+            "date_fetched": "2025-08-07T03:59:21.687914+00:00"
+        },
+        {
+            "id": 203,
+            "name": "wayneeseguin/merblogger",
+            "url": "https://github.com/wayneeseguin/merblogger",
+            "stars": 20,
+            "language": "JavaScript",
+            "keywords": [
+                "JavaScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2025-06-12T17:28:03Z",
+            "date_fetched": "2025-08-07T03:59:29.482011+00:00"
+        },
+        {
+            "id": 204,
+            "name": "wayneeseguin/merbtastic",
+            "url": "https://github.com/wayneeseguin/merbtastic",
+            "stars": 9,
+            "language": null,
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2025-02-14T22:33:26Z",
+            "date_fetched": "2025-08-07T03:59:39.553677+00:00"
+        },
+        {
+            "id": 205,
+            "name": "wayneeseguin/alogr",
+            "url": "https://github.com/wayneeseguin/alogr",
+            "stars": 17,
+            "language": "Ruby",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-06-01T07:12:05Z",
+            "date_fetched": "2025-08-07T03:59:47.202002+00:00"
+        },
+        {
+            "id": 206,
+            "name": "wayneeseguin/autozest",
+            "url": "https://github.com/wayneeseguin/autozest",
+            "stars": 10,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2025-06-12T17:28:22Z",
+            "date_fetched": "2025-08-07T03:59:54.951902+00:00"
+        },
+        {
+            "id": 207,
+            "name": "wayneeseguin/rnginx",
+            "url": "https://github.com/wayneeseguin/rnginx",
+            "stars": 9,
+            "language": "Ruby",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2025-01-19T08:01:30Z",
+            "date_fetched": "2025-08-07T04:00:05.132695+00:00"
+        },
+        {
+            "id": 211,
+            "name": "bmizerany/simply_versioned",
+            "url": "https://github.com/bmizerany/simply_versioned",
+            "stars": 10,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T04:00:13.085969+00:00"
+        },
+        {
+            "id": 212,
+            "name": "peterc/switchpipe",
+            "url": "https://github.com/peterc/switchpipe",
+            "stars": 15,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2025-02-14T22:33:32Z",
+            "date_fetched": "2025-08-07T04:00:20.864288+00:00"
+        },
+        {
+            "id": 213,
+            "name": "hornbeck/arc",
+            "url": "https://github.com/hornbeck/arc",
+            "stars": 10,
+            "language": "Arc",
+            "keywords": [
+                "Arc"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T04:00:30.995429+00:00"
+        },
+        {
+            "id": 217,
+            "name": "up_the_irons/ebay4r",
+            "url": "https://github.com/up_the_irons/ebay4r",
+            "stars": 34,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T04:00:38.744573+00:00"
+        },
+        {
+            "id": 218,
+            "name": "wycats/merb-plugins",
+            "url": "https://github.com/wycats/merb-plugins",
+            "stars": 208,
+            "language": "JavaScript",
+            "keywords": [
+                "JavaScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 92,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T04:00:46.449792+00:00"
+        },
+        {
+            "id": 220,
+            "name": "up_the_irons/ram",
+            "url": "https://github.com/up_the_irons/ram",
+            "stars": 9,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:36Z",
+            "date_fetched": "2025-08-07T04:00:54.230425+00:00"
+        },
+        {
+            "id": 230,
+            "name": "defunkt/ambitious_activeldap",
+            "url": "https://github.com/defunkt/ambitious_activeldap",
+            "stars": 13,
+            "language": "Ruby",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-30T06:26:26Z",
+            "date_fetched": "2025-08-07T04:01:01.986317+00:00"
+        },
+        {
+            "id": 232,
+            "name": "atmos/fitter_happier",
+            "url": "https://github.com/atmos/fitter_happier",
+            "stars": 10,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Database",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:09.721725+00:00"
+        },
+        {
+            "id": 237,
+            "name": "brosner/oebfare",
+            "url": "https://github.com/brosner/oebfare",
+            "stars": 46,
+            "language": "JavaScript",
+            "keywords": [
+                "JavaScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:20.029505+00:00"
+        },
+        {
+            "id": 245,
+            "name": "up_the_irons/credit_card_tools",
+            "url": "https://github.com/up_the_irons/credit_card_tools",
+            "stars": 18,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:27.639693+00:00"
+        },
+        {
+            "id": 248,
+            "name": "jnicklas/rorem",
+            "url": "https://github.com/jnicklas/rorem",
+            "stars": 7,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:35.340450+00:00"
+        },
+        {
+            "id": 249,
+            "name": "cristibalan/braid",
+            "url": "https://github.com/cristibalan/braid",
+            "stars": 458,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 20,
+            "demand_index": 0,
+            "last_updated_repo": "2024-11-26T03:15:32Z",
+            "date_fetched": "2025-08-07T04:01:42.926109+00:00"
+        },
+        {
+            "id": 251,
+            "name": "jnicklas/uploadcolumn",
+            "url": "https://github.com/jnicklas/uploadcolumn",
+            "stars": 32,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:50.558044+00:00"
+        },
+        {
+            "id": 252,
+            "name": "simonjefford/ruby-on-rails-tmbundle",
+            "url": "https://github.com/simonjefford/ruby-on-rails-tmbundle",
+            "stars": 7,
+            "language": "Ruby",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:01:58.442302+00:00"
+        },
+        {
+            "id": 256,
+            "name": "leahneukirchen/rack-mirror",
+            "url": "https://github.com/leahneukirchen/rack-mirror",
+            "stars": 13,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:01Z",
+            "date_fetched": "2025-08-07T04:02:06.150886+00:00"
+        },
+        {
+            "id": 257,
+            "name": "leahneukirchen/coset-mirror",
+            "url": "https://github.com/leahneukirchen/coset-mirror",
+            "stars": 14,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:02Z",
+            "date_fetched": "2025-08-07T04:02:16.373737+00:00"
+        },
+        {
+            "id": 267,
+            "name": "drnic/javascript-unittest-tmbundle",
+            "url": "https://github.com/drnic/javascript-unittest-tmbundle",
+            "stars": 18,
+            "language": null,
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "demand_index": 0,
+            "last_updated_repo": "2024-01-12T00:00:43Z",
+            "date_fetched": "2025-08-07T04:02:24.217498+00:00"
+        },
+        {
+            "id": 273,
+            "name": "engineyard/eycap",
+            "url": "https://github.com/engineyard/eycap",
+            "stars": 117,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 59,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:02:32.053107+00:00"
+        },
+        {
+            "id": 279,
+            "name": "leahneukirchen/gitsum",
+            "url": "https://github.com/leahneukirchen/gitsum",
+            "stars": 68,
+            "language": "Emacs Lisp",
+            "keywords": [
+                "Emacs Lisp"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:02:39.723063+00:00"
+        },
+        {
+            "id": 293,
+            "name": "wayneeseguin/sequel-model",
+            "url": "https://github.com/wayneeseguin/sequel-model",
+            "stars": 10,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 7,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:02Z",
+            "date_fetched": "2025-08-07T04:02:47.473456+00:00"
+        },
+        {
+            "id": 305,
+            "name": "kevinclark/god",
+            "url": "https://github.com/kevinclark/god",
+            "stars": 6,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 13,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:02:55.167020+00:00"
+        },
+        {
+            "id": 307,
+            "name": "hornbeck/blerb-core",
+            "url": "https://github.com/hornbeck/blerb-core",
+            "stars": 30,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 17,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:03:02.910596+00:00"
+        },
+        {
+            "id": 312,
+            "name": "brosner/django-mptt",
+            "url": "https://github.com/brosner/django-mptt",
+            "stars": 62,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2025-01-15T00:12:22Z",
+            "date_fetched": "2025-08-07T04:03:10.724314+00:00"
+        },
+        {
+            "id": 314,
+            "name": "technomancy/bus-scheme",
+            "url": "https://github.com/technomancy/bus-scheme",
+            "stars": 37,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:03:18.486394+00:00"
+        },
+        {
+            "id": 319,
+            "name": "caged/javascript-bits",
+            "url": "https://github.com/caged/javascript-bits",
+            "stars": 35,
+            "language": "JavaScript",
+            "keywords": [
+                "JavaScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:03:28.654462+00:00"
+        },
+        {
+            "id": 320,
+            "name": "caged/groomlake",
+            "url": "https://github.com/caged/groomlake",
+            "stars": 7,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:37Z",
+            "date_fetched": "2025-08-07T04:03:36.375314+00:00"
+        },
+        {
+            "id": 322,
+            "name": "sevenwire/forgery",
+            "url": "https://github.com/sevenwire/forgery",
+            "stars": 788,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 60,
+            "demand_index": 0,
+            "last_updated_repo": "2025-04-14T20:41:59Z",
+            "date_fetched": "2025-08-07T04:03:44.215147+00:00"
+        },
+        {
+            "id": 324,
+            "name": "technicalpickles/ambitious-sphinx",
+            "url": "https://github.com/technicalpickles/ambitious-sphinx",
+            "stars": 18,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-12-07T15:38:37Z",
+            "date_fetched": "2025-08-07T04:03:51.844174+00:00"
+        },
+        {
+            "id": 329,
+            "name": "lazyatom/soup",
+            "url": "https://github.com/lazyatom/soup",
+            "stars": 20,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:38Z",
+            "date_fetched": "2025-08-07T04:03:59.503118+00:00"
+        },
+        {
+            "id": 332,
+            "name": "josh/rails",
+            "url": "https://github.com/josh/rails",
+            "stars": 38,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Database",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3258,
+            "demand_index": 0,
+            "last_updated_repo": "2024-10-13T20:37:22Z",
+            "date_fetched": "2025-08-07T04:04:07.781857+00:00"
+        },
+        {
+            "id": 334,
+            "name": "cdcarter/backpacking",
+            "url": "https://github.com/cdcarter/backpacking",
+            "stars": 62,
+            "language": "Io",
+            "keywords": [
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:38Z",
+            "date_fetched": "2025-08-07T04:04:15.459093+00:00"
+        },
+        {
+            "id": 339,
+            "name": "jnewland/capsize",
+            "url": "https://github.com/jnewland/capsize",
+            "stars": 42,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:02Z",
+            "date_fetched": "2025-08-07T04:04:23.192712+00:00"
+        },
+        {
+            "id": 351,
+            "name": "bs/starling",
+            "url": "https://github.com/bs/starling",
+            "stars": 26,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-24T22:53:33Z",
+            "date_fetched": "2025-08-07T04:04:30.921071+00:00"
+        },
+        {
+            "id": 360,
+            "name": "sr/ape",
+            "url": "https://github.com/sr/ape",
+            "stars": 12,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:38Z",
+            "date_fetched": "2025-08-07T04:04:38.599595+00:00"
+        },
+        {
+            "id": 362,
+            "name": "collectiveidea/awesomeness",
+            "url": "https://github.com/collectiveidea/awesomeness",
+            "stars": 50,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "demand_index": 0,
+            "last_updated_repo": "2024-12-01T00:23:52Z",
+            "date_fetched": "2025-08-07T04:04:46.377801+00:00"
+        },
+        {
+            "id": 364,
+            "name": "collectiveidea/acts_as_geocodable",
+            "url": "https://github.com/collectiveidea/acts_as_geocodable",
+            "stars": 208,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:02Z",
+            "date_fetched": "2025-08-07T04:05:01.934751+00:00"
+        },
+        {
+            "id": 365,
+            "name": "collectiveidea/acts_as_money",
+            "url": "https://github.com/collectiveidea/acts_as_money",
+            "stars": 48,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-06-27T16:48:27Z",
+            "date_fetched": "2025-08-07T04:05:09.809758+00:00"
+        },
+        {
+            "id": 367,
+            "name": "collectiveidea/calendar_builder",
+            "url": "https://github.com/collectiveidea/calendar_builder",
+            "stars": 45,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-09-18T08:16:58Z",
+            "date_fetched": "2025-08-07T04:05:17.641721+00:00"
+        },
+        {
+            "id": 368,
+            "name": "collectiveidea/clear_empty_attributes",
+            "url": "https://github.com/collectiveidea/clear_empty_attributes",
+            "stars": 13,
+            "language": "Ruby",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "demand_index": 0,
+            "last_updated_repo": "2024-08-12T19:19:02Z",
+            "date_fetched": "2025-08-07T04:05:25.506728+00:00"
+        },
+        {
+            "id": 369,
+            "name": "collectiveidea/css_naked_day",
+            "url": "https://github.com/collectiveidea/css_naked_day",
+            "stars": 7,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 2,
+            "demand_index": 0,
+            "last_updated_repo": "2024-04-19T19:07:38Z",
+            "date_fetched": "2025-08-07T04:05:33.346244+00:00"
         }
     ]
 }
