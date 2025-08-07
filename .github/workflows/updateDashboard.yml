@@ -40,6 +40,7 @@ jobs:
           git remote set-url origin https://wa008:${{ secrets.ACCESS_TOKEN }}@github.com/wa008/to-contribute-projects.git
           git branch
           git add ./projects.json
+          git add ./progress.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
