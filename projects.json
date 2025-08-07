@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-07T04:15:07.689343+00:00",
+    "last_updated": "2025-08-07T04:24:47.841802+00:00",
     "projects": [
         {
             "id": 144,
@@ -15,7 +15,7 @@
             "contributors": 68,
             "demand_index": 0.3333333333333333,
             "last_updated_repo": "2025-08-04T14:56:35Z",
-            "date_fetched": "2025-08-07T04:08:24.788116+00:00"
+            "date_fetched": "2025-08-07T04:18:01.689656+00:00"
         },
         {
             "id": 68,
@@ -42,16 +42,16 @@
             "stars": 3461,
             "language": "Ruby",
             "keywords": [
-                "CLI",
+                "Database",
                 "Testing",
-                "Database"
+                "CLI"
             ],
             "new_open_issues": 1,
             "new_stars_30d": 12,
             "contributors": 162,
             "demand_index": 0.08333333333333333,
             "last_updated_repo": "2025-08-07T03:02:04Z",
-            "date_fetched": "2025-08-07T04:14:32.381431+00:00"
+            "date_fetched": "2025-08-07T04:24:12.439243+00:00"
         },
         {
             "id": 1,
@@ -367,7 +367,7 @@
             "contributors": 10,
             "demand_index": 0,
             "last_updated_repo": "2025-03-14T19:23:06Z",
-            "date_fetched": "2025-08-07T04:05:53.074034+00:00"
+            "date_fetched": "2025-08-07T04:15:27.397718+00:00"
         },
         {
             "id": 73,
@@ -376,15 +376,15 @@
             "stars": 26,
             "language": "Ruby",
             "keywords": [
-                "Framework",
-                "Tool"
+                "Tool",
+                "Framework"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 5,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:05:59.916523+00:00"
+            "date_fetched": "2025-08-07T04:15:34.202088+00:00"
         },
         {
             "id": 74,
@@ -400,7 +400,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-10-09T02:52:56Z",
-            "date_fetched": "2025-08-07T04:06:06.597951+00:00"
+            "date_fetched": "2025-08-07T04:15:41.095378+00:00"
         },
         {
             "id": 75,
@@ -416,7 +416,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:34Z",
-            "date_fetched": "2025-08-07T04:06:15.441245+00:00"
+            "date_fetched": "2025-08-07T04:15:50.133359+00:00"
         },
         {
             "id": 92,
@@ -432,7 +432,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:06:22.220158+00:00"
+            "date_fetched": "2025-08-07T04:15:57.045864+00:00"
         },
         {
             "id": 93,
@@ -448,7 +448,7 @@
             "contributors": 8,
             "demand_index": 0,
             "last_updated_repo": "2025-04-03T15:09:50Z",
-            "date_fetched": "2025-08-07T04:06:28.935121+00:00"
+            "date_fetched": "2025-08-07T04:16:03.856682+00:00"
         },
         {
             "id": 95,
@@ -464,7 +464,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:34Z",
-            "date_fetched": "2025-08-07T04:06:35.646295+00:00"
+            "date_fetched": "2025-08-07T04:16:12.546129+00:00"
         },
         {
             "id": 98,
@@ -473,8 +473,8 @@
             "stars": 913,
             "language": "Ruby",
             "keywords": [
-                "Security",
                 "Testing",
+                "Security",
                 "Web"
             ],
             "new_open_issues": 0,
@@ -482,7 +482,7 @@
             "contributors": 170,
             "demand_index": 0,
             "last_updated_repo": "2025-04-20T20:49:11Z",
-            "date_fetched": "2025-08-07T04:06:42.584176+00:00"
+            "date_fetched": "2025-08-07T04:16:19.433293+00:00"
         },
         {
             "id": 102,
@@ -498,7 +498,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2025-04-12T21:45:29Z",
-            "date_fetched": "2025-08-07T04:06:49.286005+00:00"
+            "date_fetched": "2025-08-07T04:16:26.383315+00:00"
         },
         {
             "id": 105,
@@ -514,7 +514,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:34Z",
-            "date_fetched": "2025-08-07T04:06:56.079817+00:00"
+            "date_fetched": "2025-08-07T04:16:33.205948+00:00"
         },
         {
             "id": 118,
@@ -530,7 +530,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:34Z",
-            "date_fetched": "2025-08-07T04:07:02.798783+00:00"
+            "date_fetched": "2025-08-07T04:16:40.116826+00:00"
         },
         {
             "id": 119,
@@ -546,7 +546,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:35Z",
-            "date_fetched": "2025-08-07T04:07:09.612320+00:00"
+            "date_fetched": "2025-08-07T04:16:46.993224+00:00"
         },
         {
             "id": 120,
@@ -562,7 +562,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-09-26T13:31:23Z",
-            "date_fetched": "2025-08-07T04:07:16.651044+00:00"
+            "date_fetched": "2025-08-07T04:16:53.822370+00:00"
         },
         {
             "id": 127,
@@ -578,7 +578,7 @@
             "contributors": 5,
             "demand_index": 0,
             "last_updated_repo": "2025-04-03T15:10:04Z",
-            "date_fetched": "2025-08-07T04:07:23.359484+00:00"
+            "date_fetched": "2025-08-07T04:17:00.615612+00:00"
         },
         {
             "id": 129,
@@ -594,7 +594,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:07:30.268112+00:00"
+            "date_fetched": "2025-08-07T04:17:07.304869+00:00"
         },
         {
             "id": 130,
@@ -610,7 +610,7 @@
             "contributors": 119,
             "demand_index": 0.0,
             "last_updated_repo": "2025-08-04T17:09:32Z",
-            "date_fetched": "2025-08-07T04:07:37.335987+00:00"
+            "date_fetched": "2025-08-07T04:17:14.149091+00:00"
         },
         {
             "id": 131,
@@ -626,7 +626,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:07:44.065510+00:00"
+            "date_fetched": "2025-08-07T04:17:20.959370+00:00"
         },
         {
             "id": 137,
@@ -642,7 +642,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:35Z",
-            "date_fetched": "2025-08-07T04:07:50.926680+00:00"
+            "date_fetched": "2025-08-07T04:17:27.866974+00:00"
         },
         {
             "id": 139,
@@ -658,7 +658,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-12-02T07:49:34Z",
-            "date_fetched": "2025-08-07T04:07:57.954943+00:00"
+            "date_fetched": "2025-08-07T04:17:34.720035+00:00"
         },
         {
             "id": 140,
@@ -674,7 +674,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:08:04.705249+00:00"
+            "date_fetched": "2025-08-07T04:17:41.481595+00:00"
         },
         {
             "id": 141,
@@ -690,7 +690,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-01-11T15:31:48Z",
-            "date_fetched": "2025-08-07T04:08:11.421784+00:00"
+            "date_fetched": "2025-08-07T04:17:48.241236+00:00"
         },
         {
             "id": 142,
@@ -706,7 +706,7 @@
             "contributors": 15,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:08:18.056072+00:00"
+            "date_fetched": "2025-08-07T04:17:54.965343+00:00"
         },
         {
             "id": 165,
@@ -723,7 +723,7 @@
             "contributors": 9,
             "demand_index": 0,
             "last_updated_repo": "2025-05-25T08:24:56Z",
-            "date_fetched": "2025-08-07T04:08:31.592052+00:00"
+            "date_fetched": "2025-08-07T04:18:08.355649+00:00"
         },
         {
             "id": 177,
@@ -739,7 +739,7 @@
             "contributors": 7,
             "demand_index": 0,
             "last_updated_repo": "2024-10-13T20:37:27Z",
-            "date_fetched": "2025-08-07T04:08:38.309151+00:00"
+            "date_fetched": "2025-08-07T04:18:15.085897+00:00"
         },
         {
             "id": 179,
@@ -755,7 +755,7 @@
             "contributors": 32,
             "demand_index": 0.0,
             "last_updated_repo": "2025-07-30T16:18:47Z",
-            "date_fetched": "2025-08-07T04:08:45.045552+00:00"
+            "date_fetched": "2025-08-07T04:18:21.801041+00:00"
         },
         {
             "id": 185,
@@ -764,15 +764,15 @@
             "stars": 137,
             "language": "JavaScript",
             "keywords": [
-                "Framework",
-                "Tool"
+                "Tool",
+                "Framework"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2025-03-14T16:36:36Z",
-            "date_fetched": "2025-08-07T04:08:51.806331+00:00"
+            "date_fetched": "2025-08-07T04:18:28.455778+00:00"
         },
         {
             "id": 186,
@@ -788,7 +788,7 @@
             "contributors": 5,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:35Z",
-            "date_fetched": "2025-08-07T04:08:58.576636+00:00"
+            "date_fetched": "2025-08-07T04:18:35.118195+00:00"
         },
         {
             "id": 190,
@@ -804,7 +804,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:35Z",
-            "date_fetched": "2025-08-07T04:09:05.193798+00:00"
+            "date_fetched": "2025-08-07T04:18:41.846266+00:00"
         },
         {
             "id": 191,
@@ -821,7 +821,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2025-04-03T15:10:40Z",
-            "date_fetched": "2025-08-07T04:09:11.877360+00:00"
+            "date_fetched": "2025-08-07T04:18:48.462676+00:00"
         },
         {
             "id": 192,
@@ -838,7 +838,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:09:18.665786+00:00"
+            "date_fetched": "2025-08-07T04:18:55.119913+00:00"
         },
         {
             "id": 193,
@@ -854,7 +854,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:09:27.492018+00:00"
+            "date_fetched": "2025-08-07T04:19:03.883574+00:00"
         },
         {
             "id": 195,
@@ -870,7 +870,7 @@
             "contributors": 5,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:09:36.300290+00:00"
+            "date_fetched": "2025-08-07T04:19:12.759040+00:00"
         },
         {
             "id": 199,
@@ -888,7 +888,7 @@
             "contributors": 45,
             "demand_index": 0,
             "last_updated_repo": "2025-07-02T16:30:15Z",
-            "date_fetched": "2025-08-07T04:09:42.992191+00:00"
+            "date_fetched": "2025-08-07T04:19:19.432494+00:00"
         },
         {
             "id": 203,
@@ -904,7 +904,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2025-06-12T17:28:03Z",
-            "date_fetched": "2025-08-07T04:09:49.642202+00:00"
+            "date_fetched": "2025-08-07T04:19:26.060457+00:00"
         },
         {
             "id": 204,
@@ -920,7 +920,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2025-02-14T22:33:26Z",
-            "date_fetched": "2025-08-07T04:09:58.616640+00:00"
+            "date_fetched": "2025-08-07T04:19:34.902062+00:00"
         },
         {
             "id": 205,
@@ -936,7 +936,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-06-01T07:12:05Z",
-            "date_fetched": "2025-08-07T04:10:05.447837+00:00"
+            "date_fetched": "2025-08-07T04:19:41.560975+00:00"
         },
         {
             "id": 206,
@@ -952,7 +952,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2025-06-12T17:28:22Z",
-            "date_fetched": "2025-08-07T04:10:12.106167+00:00"
+            "date_fetched": "2025-08-07T04:19:48.376015+00:00"
         },
         {
             "id": 207,
@@ -961,15 +961,15 @@
             "stars": 9,
             "language": "Ruby",
             "keywords": [
-                "Framework",
-                "Tool"
+                "Tool",
+                "Framework"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2025-01-19T08:01:30Z",
-            "date_fetched": "2025-08-07T04:10:20.981288+00:00"
+            "date_fetched": "2025-08-07T04:19:57.187134+00:00"
         },
         {
             "id": 211,
@@ -985,7 +985,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:10:27.750627+00:00"
+            "date_fetched": "2025-08-07T04:20:04.014479+00:00"
         },
         {
             "id": 212,
@@ -1003,7 +1003,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2025-02-14T22:33:32Z",
-            "date_fetched": "2025-08-07T04:10:34.599573+00:00"
+            "date_fetched": "2025-08-07T04:20:10.945283+00:00"
         },
         {
             "id": 213,
@@ -1019,7 +1019,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:10:43.490556+00:00"
+            "date_fetched": "2025-08-07T04:20:19.855815+00:00"
         },
         {
             "id": 217,
@@ -1037,7 +1037,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:10:50.248736+00:00"
+            "date_fetched": "2025-08-07T04:20:26.688970+00:00"
         },
         {
             "id": 218,
@@ -1053,7 +1053,7 @@
             "contributors": 92,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:10:56.939328+00:00"
+            "date_fetched": "2025-08-07T04:20:33.524117+00:00"
         },
         {
             "id": 220,
@@ -1069,7 +1069,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:36Z",
-            "date_fetched": "2025-08-07T04:11:03.655228+00:00"
+            "date_fetched": "2025-08-07T04:20:40.279414+00:00"
         },
         {
             "id": 230,
@@ -1085,7 +1085,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-08-30T06:26:26Z",
-            "date_fetched": "2025-08-07T04:11:10.459060+00:00"
+            "date_fetched": "2025-08-07T04:20:47.125429+00:00"
         },
         {
             "id": 232,
@@ -1094,16 +1094,16 @@
             "stars": 10,
             "language": "Ruby",
             "keywords": [
-                "Web",
+                "Tool",
                 "Database",
-                "Tool"
+                "Web"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:17.172058+00:00"
+            "date_fetched": "2025-08-07T04:20:53.895160+00:00"
         },
         {
             "id": 237,
@@ -1119,7 +1119,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:26.036111+00:00"
+            "date_fetched": "2025-08-07T04:21:02.752497+00:00"
         },
         {
             "id": 245,
@@ -1135,7 +1135,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:32.691077+00:00"
+            "date_fetched": "2025-08-07T04:21:09.540178+00:00"
         },
         {
             "id": 248,
@@ -1151,7 +1151,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:39.344732+00:00"
+            "date_fetched": "2025-08-07T04:21:16.433004+00:00"
         },
         {
             "id": 249,
@@ -1160,16 +1160,16 @@
             "stars": 458,
             "language": "Ruby",
             "keywords": [
+                "Tool",
                 "Testing",
-                "Framework",
-                "Tool"
+                "Framework"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 20,
             "demand_index": 0,
             "last_updated_repo": "2024-11-26T03:15:32Z",
-            "date_fetched": "2025-08-07T04:11:45.993082+00:00"
+            "date_fetched": "2025-08-07T04:21:23.188349+00:00"
         },
         {
             "id": 251,
@@ -1178,16 +1178,16 @@
             "stars": 32,
             "language": "Ruby",
             "keywords": [
+                "Tool",
                 "Database",
-                "Framework",
-                "Tool"
+                "Framework"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:52.633151+00:00"
+            "date_fetched": "2025-08-07T04:21:30.595061+00:00"
         },
         {
             "id": 252,
@@ -1203,7 +1203,7 @@
             "contributors": 6,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:11:59.403161+00:00"
+            "date_fetched": "2025-08-07T04:21:37.462268+00:00"
         },
         {
             "id": 256,
@@ -1221,7 +1221,7 @@
             "contributors": 10,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:01Z",
-            "date_fetched": "2025-08-07T04:12:06.139011+00:00"
+            "date_fetched": "2025-08-07T04:21:44.404487+00:00"
         },
         {
             "id": 257,
@@ -1237,7 +1237,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:02Z",
-            "date_fetched": "2025-08-07T04:12:14.936855+00:00"
+            "date_fetched": "2025-08-07T04:21:53.242997+00:00"
         },
         {
             "id": 267,
@@ -1253,7 +1253,7 @@
             "contributors": 1,
             "demand_index": 0,
             "last_updated_repo": "2024-01-12T00:00:43Z",
-            "date_fetched": "2025-08-07T04:12:21.616136+00:00"
+            "date_fetched": "2025-08-07T04:22:00.071879+00:00"
         },
         {
             "id": 273,
@@ -1270,7 +1270,7 @@
             "contributors": 59,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:12:28.414928+00:00"
+            "date_fetched": "2025-08-07T04:22:06.986837+00:00"
         },
         {
             "id": 279,
@@ -1286,7 +1286,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:12:35.053738+00:00"
+            "date_fetched": "2025-08-07T04:22:13.721197+00:00"
         },
         {
             "id": 293,
@@ -1303,7 +1303,7 @@
             "contributors": 7,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:02Z",
-            "date_fetched": "2025-08-07T04:12:41.785118+00:00"
+            "date_fetched": "2025-08-07T04:22:20.456525+00:00"
         },
         {
             "id": 305,
@@ -1312,15 +1312,15 @@
             "stars": 6,
             "language": "Ruby",
             "keywords": [
-                "Web",
-                "Framework"
+                "Framework",
+                "Web"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 13,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:12:48.619004+00:00"
+            "date_fetched": "2025-08-07T04:22:27.332968+00:00"
         },
         {
             "id": 307,
@@ -1336,7 +1336,7 @@
             "contributors": 17,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:12:55.325643+00:00"
+            "date_fetched": "2025-08-07T04:22:34.067191+00:00"
         },
         {
             "id": 312,
@@ -1352,7 +1352,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2025-01-15T00:12:22Z",
-            "date_fetched": "2025-08-07T04:13:02.150853+00:00"
+            "date_fetched": "2025-08-07T04:22:40.849531+00:00"
         },
         {
             "id": 314,
@@ -1370,7 +1370,7 @@
             "contributors": 10,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:13:08.965017+00:00"
+            "date_fetched": "2025-08-07T04:22:47.567299+00:00"
         },
         {
             "id": 319,
@@ -1386,7 +1386,7 @@
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:13:17.841001+00:00"
+            "date_fetched": "2025-08-07T04:22:56.589517+00:00"
         },
         {
             "id": 320,
@@ -1402,7 +1402,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:37Z",
-            "date_fetched": "2025-08-07T04:13:24.629936+00:00"
+            "date_fetched": "2025-08-07T04:23:03.343851+00:00"
         },
         {
             "id": 322,
@@ -1419,7 +1419,7 @@
             "contributors": 60,
             "demand_index": 0,
             "last_updated_repo": "2025-04-14T20:41:59Z",
-            "date_fetched": "2025-08-07T04:13:31.545000+00:00"
+            "date_fetched": "2025-08-07T04:23:10.213606+00:00"
         },
         {
             "id": 324,
@@ -1436,7 +1436,7 @@
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-12-07T15:38:37Z",
-            "date_fetched": "2025-08-07T04:13:38.215316+00:00"
+            "date_fetched": "2025-08-07T04:23:17.043482+00:00"
         },
         {
             "id": 329,
@@ -1452,7 +1452,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:38Z",
-            "date_fetched": "2025-08-07T04:13:45.083297+00:00"
+            "date_fetched": "2025-08-07T04:23:23.892522+00:00"
         },
         {
             "id": 332,
@@ -1461,16 +1461,16 @@
             "stars": 38,
             "language": "Ruby",
             "keywords": [
-                "Web",
                 "Database",
-                "Framework"
+                "Framework",
+                "Web"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 3258,
             "demand_index": 0,
             "last_updated_repo": "2024-10-13T20:37:22Z",
-            "date_fetched": "2025-08-07T04:13:51.874592+00:00"
+            "date_fetched": "2025-08-07T04:23:31.193091+00:00"
         },
         {
             "id": 334,
@@ -1487,7 +1487,7 @@
             "contributors": 5,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:38Z",
-            "date_fetched": "2025-08-07T04:13:58.539316+00:00"
+            "date_fetched": "2025-08-07T04:23:38.031746+00:00"
         },
         {
             "id": 339,
@@ -1503,7 +1503,7 @@
             "contributors": 6,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:02Z",
-            "date_fetched": "2025-08-07T04:14:05.274266+00:00"
+            "date_fetched": "2025-08-07T04:23:44.896223+00:00"
         },
         {
             "id": 351,
@@ -1519,7 +1519,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-08-24T22:53:33Z",
-            "date_fetched": "2025-08-07T04:14:11.963288+00:00"
+            "date_fetched": "2025-08-07T04:23:51.756578+00:00"
         },
         {
             "id": 360,
@@ -1536,7 +1536,7 @@
             "contributors": 9,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:38Z",
-            "date_fetched": "2025-08-07T04:14:18.719072+00:00"
+            "date_fetched": "2025-08-07T04:23:58.507895+00:00"
         },
         {
             "id": 362,
@@ -1545,15 +1545,15 @@
             "stars": 50,
             "language": "Ruby",
             "keywords": [
-                "Web",
-                "Tool"
+                "Tool",
+                "Web"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 4,
             "demand_index": 0,
             "last_updated_repo": "2024-12-01T00:23:52Z",
-            "date_fetched": "2025-08-07T04:14:25.453217+00:00"
+            "date_fetched": "2025-08-07T04:24:05.395304+00:00"
         },
         {
             "id": 364,
@@ -1569,7 +1569,7 @@
             "contributors": 9,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:02Z",
-            "date_fetched": "2025-08-07T04:14:39.166080+00:00"
+            "date_fetched": "2025-08-07T04:24:19.272199+00:00"
         },
         {
             "id": 365,
@@ -1578,15 +1578,15 @@
             "stars": 48,
             "language": "Ruby",
             "keywords": [
-                "Database",
-                "Tool"
+                "Tool",
+                "Database"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-06-27T16:48:27Z",
-            "date_fetched": "2025-08-07T04:14:45.956381+00:00"
+            "date_fetched": "2025-08-07T04:24:26.174630+00:00"
         },
         {
             "id": 367,
@@ -1602,7 +1602,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-09-18T08:16:58Z",
-            "date_fetched": "2025-08-07T04:14:52.818933+00:00"
+            "date_fetched": "2025-08-07T04:24:33.038101+00:00"
         },
         {
             "id": 368,
@@ -1618,7 +1618,7 @@
             "contributors": 3,
             "demand_index": 0,
             "last_updated_repo": "2024-08-12T19:19:02Z",
-            "date_fetched": "2025-08-07T04:14:59.595705+00:00"
+            "date_fetched": "2025-08-07T04:24:39.875740+00:00"
         },
         {
             "id": 369,
@@ -1627,15 +1627,15 @@
             "stars": 7,
             "language": "Ruby",
             "keywords": [
-                "Web",
-                "Tool"
+                "Tool",
+                "Web"
             ],
             "new_open_issues": 0,
             "new_stars_30d": 0,
             "contributors": 2,
             "demand_index": 0,
             "last_updated_repo": "2024-04-19T19:07:38Z",
-            "date_fetched": "2025-08-07T04:15:06.435844+00:00"
+            "date_fetched": "2025-08-07T04:24:46.662237+00:00"
         }
     ]
 }
