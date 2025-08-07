@@ -52,7 +52,7 @@ class GitHubAPI:
         if self.request_count >= MAX_REQUESTS:
             raise Exception("Request limit reached")
         self.request_count += 1
-        time.sleep(5)
+        time.sleep(1)
         try:
             response = requests.get(url, headers=self._headers, params=params)
             logging.info(f"Request to {url} with params {params} returned status {response.status_code}")
