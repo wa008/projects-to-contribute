@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: checkout actions
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
@@ -30,16 +32,13 @@ jobs:
         timeout-minutes: 3600
 
       - name: Commit and Push changes
-        env:
-          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}
           git add ./projects.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "github workflows auto update projects"
-            git push origin HEAD:main
+            git push
           fi
