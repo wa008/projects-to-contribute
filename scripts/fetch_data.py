@@ -66,8 +66,13 @@ class GitHubAPI:
         """
         Lists all public repositories.
         """
-        url = f"{self.BASE_URL}/repositories"
-        params = {'since': since, 'q': 'stars:>50'}
+        min_stars = 50
+        one_year_ago = datetime.now() - timedelta(days=180)
+        date_str = one_year_ago.strftime('%Y-%m-%d') # Format as YYYY-MM-DD
+
+        query = f'stars:>{min_stars} pushed:>{date_str}'
+        url = f"{self.BASE_URL}/search/repositories"
+        params = {'q': query} 
         response = self._make_request(url, params)
         return response.json() if response else []
 
