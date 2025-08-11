@@ -67,7 +67,7 @@ class GitHubAPI:
         Lists all public repositories.
         """
         url = f"{self.BASE_URL}/repositories"
-        params = {'since': since}
+        params = {'since': since, 'q': 'stars:>50'}
         response = self._make_request(url, params)
         return response.json() if response else []
 
