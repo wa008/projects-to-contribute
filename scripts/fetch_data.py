@@ -34,7 +34,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 12000
+MAX_REQUESTS = 1000
 
 class GitHubAPI:
     """
@@ -52,7 +52,7 @@ class GitHubAPI:
         if self.request_count >= MAX_REQUESTS:
             raise Exception("Request limit reached")
         self.request_count += 1
-        # time.sleep(0.001)
+        time.sleep(1)
         try:
             response = requests.get(url, headers=self._headers, params=params)
             logging.info(f"Request to {url} with params {params} returned status {response.status_code}")
@@ -62,19 +62,18 @@ class GitHubAPI:
             logging.error(f"API request failed: {e}")
             return None
 
-    def list_repositories(self, since=0):
+    def list_repositories(self, created_date_str, pushed_date_str, page=1, per_page=100):
         """
-        Lists all public repositories.
+        Lists all public repositories created on a specific date and pushed recently.
         """
         min_stars = 50
-        one_year_ago = datetime.now() - timedelta(days=180)
-        date_str = one_year_ago.strftime('%Y-%m-%d') # Format as YYYY-MM-DD
-
-        query = f'stars:>{min_stars} pushed:>{date_str}'
+        query = f'stars:>{min_stars} created:{created_date_str} pushed:>{pushed_date_str}'
         url = f"{self.BASE_URL}/search/repositories"
-        params = {'q': query} 
+        params = {'q': query, 'page': page, 'per_page': per_page, 'sort': 'created', 'order': 'asc'}
         response = self._make_request(url, params)
-        return response.json() if response else []
+        if response:
+            return response.json().get('items', [])
+        return []
 
     def search_repositories(self, query, sort='stars', order='desc', per_page=100, page=1):
         """
@@ -169,17 +168,34 @@ class GitHubAPI:
 
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
-        return {'last_repo_id': 0, 'projects': {}}
+        start_date = '2008-01-01'
+        return {'last_processed_created_date': start_date, 'projects': {}}
     with open(PROGRESS_FILE, 'r') as f:
         try:
-            return json.load(f)
+            data = json.load(f)
+            if 'last_processed_created_date' not in data:
+                start_date = '2008-01-01'
+                data['last_processed_created_date'] = start_date
         except json.JSONDecodeError:
             logging.warning(f"Could not decode {PROGRESS_FILE}. Starting from scratch.")
-            return {'last_repo_id': 0, 'projects': {}}
+            start_date = '2008-01-01'
+            data = {'last_processed_created_date': start_date}
 
-def save_progress(last_repo_id, projects):
+    projects = {}
+    if os.path.exists('projects.json'):
+        with open('projects.json', 'r') as f:
+            try:
+                projects_data = json.load(f)
+                if 'projects' in projects_data:
+                    projects = {str(p['id']): p for p in projects_data['projects']}
+            except json.JSONDecodeError:
+                logging.warning("Could not decode projects.json. Starting with an empty project list.")
+
+    return {'last_processed_created_date': data['last_processed_created_date'], 'projects': projects}
+
+def save_progress(last_processed_created_date):
     with open(PROGRESS_FILE, 'w') as f:
-        json.dump({'last_repo_id': last_repo_id, 'projects': projects}, f, indent=4)
+        json.dump({'last_processed_created_date': last_processed_created_date}, f, indent=4)
 
 def calculate_demand_index(new_stars, new_open_issues):
     """
@@ -295,28 +311,50 @@ def main():
     github_client = GitHubAPI(token)
     
     progress = load_progress()
-    projects = progress['projects']
-    last_repo_id = progress['last_repo_id']
+    projects = progress.get('projects', {})
+    last_processed_created_date_str = progress.get('last_processed_created_date')
 
+    last_successful_created_date_str = last_processed_created_date_str
     try:
-        # Fetch new repositories
-        logging.info(f"Fetching new repositories since ID {last_repo_id}")
-        while github_client.request_count < MAX_REQUESTS:
-            repos = github_client.list_repositories(since=last_repo_id)
-            if not repos:
-                break
-            for repo in repos:
-                project_data = process_repository(repo, github_client)
-                if project_data:
-                    projects[str(repo['id'])] = project_data
-                last_repo_id = max(last_repo_id, repo['id'])
-            if not repos:
-                break
+        start_date = datetime.strptime(last_processed_created_date_str, '%Y-%m-%d').date()
+        end_date = datetime.now(timezone.utc).date()
+        pushed_date_str = (datetime.now(timezone.utc) - timedelta(days=180)).strftime('%Y-%m-%d')
+
+        current_date = start_date
+        while current_date <= end_date:
+            date_str = current_date.strftime('%Y-%m-%d')
+            logging.info(f"Processing repositories created on {date_str}...")
+            
+            page = 1
+            per_page = 100
+            while True: # Pagination loop
+                if github_client.request_count >= MAX_REQUESTS:
+                    raise Exception("Request limit reached for this run.")
+
+                repos = github_client.list_repositories(date_str, pushed_date_str, page=page, per_page=per_page)
+                if not repos:
+                    logging.info(f"No more repositories found for {date_str}.")
+                    break
+                
+                for repo in repos:
+                    if str(repo['id']) not in projects:
+                        project_data = process_repository(repo, github_client)
+                        if project_data:
+                            projects[str(repo['id'])] = project_data
+                
+                if len(repos) < per_page:
+                    break
+                
+                page += 1
+            
+            last_successful_created_date_str = date_str
+            current_date += timedelta(days=1)
 
     except Exception as e:
         logging.error(f"An error occurred: {e}")
     finally:
-        save_progress(last_repo_id, projects)
+        save_progress(last_successful_created_date_str)
+        logging.info(f"Successfully processed and saved progress for {last_successful_created_date_str}.")
         save_projects_to_json(projects, args.output)
 
 if __name__ == '__main__':
