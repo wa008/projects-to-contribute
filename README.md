@@ -4,7 +4,7 @@ This project is a dashboard that helps developers find open-source projects that
 
 ## Features
 
-- **Demand Index**: A metric calculated based on new stars and new open issues to identify projects that are popular but also need help.
+- **Demand Index**: A metric calculated based on new open issues and total stars to identify projects that are popular but also need help.
 - **Filter and Sort**: Filter projects by programming language or keyword, and sort them by various metrics like stars, new open issues, etc.
 - **Daily Data Updates**: The project data is updated daily via a GitHub Actions workflow.
 

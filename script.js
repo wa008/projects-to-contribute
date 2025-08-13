@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', () => {
     const projectsTable = document.querySelector('#projects-table tbody');
     const tableHeaders = document.querySelectorAll('#projects-table th');
@@ -30,6 +29,13 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function calculateDemandIndex(code_line_count, new_open_issues) {
+        if (code_line_count > 0) {
+            return new_open_issues / code_line_count;
+        }
+        return new_open_issues;
+    }
+
     function renderTable(sortedProjects) {
         projectsTable.innerHTML = '';
         if (sortedProjects.length === 0) {
@@ -40,6 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
         sortedProjects.slice(0, 100).forEach((project, index) => {
             const row = document.createElement('tr');
             const keywords = project.keywords.length > 0 ? project.keywords.join(', ') : 'N/A';
+            const demand_index = calculateDemandIndex(project.code_line_count, project.new_open_issues);
+            project.demand_index = demand_index; // Add to project object for sorting
+
             row.innerHTML = `
                 <td>${index + 1}</td>
                 <td><a href="${project.url}" target="_blank" rel="noopener noreferrer">${project.name}</a></td>
@@ -47,10 +56,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${project.new_stars_30d.toLocaleString()}</td>
                 <td>${project.new_open_issues.toLocaleString()}</td>
                 <td>${project.contributors.toLocaleString()}</td>
-                <td>${project.demand_index.toFixed(4)}</td>
+                <td>${demand_index.toFixed(4)}</td>
+                <td>${project.code_line_count.toLocaleString()}</td>
                 <td>${project.language}</td>
                 <td>${keywords}</td>
-                <td>${new Date(project.date_fetched).toLocaleDateString()}</td>
+                <td>${new Date(project.pushed_at).toLocaleDateString()}</td>
             `;
             projectsTable.appendChild(row);
         });
@@ -69,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         return projects.filter(p => {
             const langMatch = lang ? (p.language && p.language.toLowerCase().includes(lang)) : true;
-            const keywordMatch = keyword ? p.keywords.some(k => k.toLowerCase().includes(keyword)) : true;
+            const keywordMatch = keyword ? p.name.toLowerCase().includes(keyword) || p.keywords.some(k => k.toLowerCase().includes(keyword)) : true;
             const starsMatch = p.stars >= 100;
             return langMatch && keywordMatch && starsMatch;
         });
@@ -79,6 +89,11 @@ document.addEventListener('DOMContentLoaded', () => {
         return projects.sort((a, b) => {
             let valA = a[key];
             let valB = b[key];
+
+            if (key === 'demand_index') {
+                valA = a.demand_index;
+                valB = b.demand_index;
+            }
 
             if (typeof valA === 'string') {
                 valA = valA.toLowerCase();

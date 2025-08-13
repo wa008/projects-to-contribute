@@ -34,7 +34,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 12000
+MAX_REQUESTS = 100
 
 class GitHubAPI:
     """
@@ -97,7 +97,7 @@ class GitHubAPI:
         Gets the count of open issues created in the last N days for a repository.
         """
         date_since = (datetime.now(timezone.utc) - timedelta(days=days_ago)).strftime('%Y-%m-%d')
-        query = f"repo:{repo_full_name} is:issue is:open created:>{date_since}"
+        query = f"repo:{repo_full_name} is:issue is:open created:>{date_since} -author:app/bot"
         url = f"{self.BASE_URL}/search/issues"
         params = {'q': query, 'per_page': 1}
         response = self._make_request(url, params)
@@ -166,6 +166,17 @@ class GitHubAPI:
                 logging.info(f"Could not fetch or decode {readme_name} for {repo_full_name}: {e}")
         return ""
 
+    def get_code_line_count(self, repo_full_name):
+        """
+        Gets the line count of code in a repository.
+        """
+        repo_url = f'https://github.com/{repo_full_name}.git'
+        repo_name = repo_full_name.split('/')[1]
+        os.system(f'git clone {repo_url} --depth 1')
+        line_count = os.popen(f'find {repo_name} -type f -name "*.*" | xargs wc -l').read()
+        os.system(f'rm -rf {repo_name}')
+        return int(line_count.split()[-2])
+
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
         start_date = '2008-01-01'
@@ -196,14 +207,6 @@ def load_progress():
 def save_progress(last_processed_created_date):
     with open(PROGRESS_FILE, 'w') as f:
         json.dump({'last_processed_created_date': last_processed_created_date}, f, indent=4)
-
-def calculate_demand_index(new_stars, new_open_issues):
-    """
-    Calculates the demand index.
-    """
-    if new_stars > 0:
-        return new_open_issues / new_stars
-    return new_open_issues
 
 def generate_keywords(topics, description, readme_content, language):
     """
@@ -255,8 +258,8 @@ def process_repository(repo, github_client, days_ago=30):
     new_stars = github_client.get_new_stars_count(repo['full_name'], days_ago)
     readme_content = github_client.get_readme(repo['full_name'])
     keywords = generate_keywords(repo_details.get('topics', []), repo_details.get('description', ''), readme_content, repo_details.get('language'))
-    demand_index = calculate_demand_index(new_stars, new_open_issues)
-    
+    code_line_count = github_client.get_code_line_count(repo['full_name'])
+
     return {
         'id': repo_details['id'],
         'name': repo_details['full_name'],
@@ -267,8 +270,9 @@ def process_repository(repo, github_client, days_ago=30):
         'new_open_issues': new_open_issues,
         'new_stars_30d': new_stars,
         'contributors': contributors,
-        'demand_index': demand_index,
+        'code_line_count': code_line_count,
         'last_updated_repo': repo_details['updated_at'],
+        'pushed_at': repo_details['pushed_at'],
         'date_fetched': datetime.now(timezone.utc).isoformat()
     }
 
@@ -277,7 +281,6 @@ def save_projects_to_json(projects, filename):
     Saves the project data to a JSON file.
     """
     project_list = list(projects.values())
-    project_list.sort(key=lambda p: p['demand_index'], reverse=True)
     output = {
         'last_updated': datetime.now(timezone.utc).isoformat(),
         'projects': project_list
