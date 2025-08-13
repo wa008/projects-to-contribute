@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-13T07:27:22.258288+00:00",
+    "last_updated": "2025-08-13T07:38:54.462598+00:00",
     "projects": [
         {
             "id": 68,
@@ -6502,6 +6502,223 @@
             "last_updated_repo": "2025-07-15T12:16:59Z",
             "pushed_at": "2025-06-27T08:17:04Z",
             "date_fetched": "2025-08-13T07:23:37.069072+00:00"
+        },
+        {
+            "id": 165755,
+            "name": "kivanio/brcobranca",
+            "url": "https://github.com/kivanio/brcobranca",
+            "stars": 377,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 0,
+            "contributors": 66,
+            "code_line_count": 838883,
+            "last_updated_repo": "2025-07-24T19:55:49Z",
+            "pushed_at": "2025-04-21T14:15:41Z",
+            "date_fetched": "2025-08-13T07:36:58.038211+00:00"
+        },
+        {
+            "id": 167174,
+            "name": "jquery/jquery",
+            "url": "https://github.com/jquery/jquery",
+            "stars": 59544,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 2,
+            "new_stars_30d": 51,
+            "contributors": 342,
+            "code_line_count": 73856,
+            "last_updated_repo": "2025-08-13T04:07:25Z",
+            "pushed_at": "2025-08-12T20:06:59Z",
+            "date_fetched": "2025-08-13T07:37:08.925795+00:00"
+        },
+        {
+            "id": 168370,
+            "name": "jruby/jruby",
+            "url": "https://github.com/jruby/jruby",
+            "stars": 3837,
+            "language": "Ruby",
+            "keywords": [
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 523,
+            "code_line_count": 131119,
+            "last_updated_repo": "2025-08-12T22:05:18Z",
+            "pushed_at": "2025-08-12T22:05:12Z",
+            "date_fetched": "2025-08-13T07:37:22.830629+00:00"
+        },
+        {
+            "id": 169660,
+            "name": "atog/spreadsheet_on_rails",
+            "url": "https://github.com/atog/spreadsheet_on_rails",
+            "stars": 133,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "code_line_count": 2324,
+            "last_updated_repo": "2025-05-08T08:31:43Z",
+            "pushed_at": "2025-05-08T08:31:39Z",
+            "date_fetched": "2025-08-13T07:37:31.451006+00:00"
+        },
+        {
+            "id": 173496,
+            "name": "httpdss/collectd-web",
+            "url": "https://github.com/httpdss/collectd-web",
+            "stars": 249,
+            "language": "Perl",
+            "keywords": [
+                "Web",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 32,
+            "code_line_count": 26873,
+            "last_updated_repo": "2025-07-18T23:15:36Z",
+            "pushed_at": "2025-08-11T08:01:49Z",
+            "date_fetched": "2025-08-13T07:37:44.505918+00:00"
+        },
+        {
+            "id": 173950,
+            "name": "baldowl/rack_csrf",
+            "url": "https://github.com/baldowl/rack_csrf",
+            "stars": 192,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "code_line_count": 3069,
+            "last_updated_repo": "2025-08-12T06:48:01Z",
+            "pushed_at": "2025-08-12T06:47:58Z",
+            "date_fetched": "2025-08-13T07:37:52.825032+00:00"
+        },
+        {
+            "id": 173949,
+            "name": "libusual/libusual",
+            "url": "https://github.com/libusual/libusual",
+            "stars": 92,
+            "language": "C",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 25,
+            "code_line_count": 56054,
+            "last_updated_repo": "2025-07-06T17:39:00Z",
+            "pushed_at": "2025-06-28T08:34:33Z",
+            "date_fetched": "2025-08-13T07:38:00.515365+00:00"
+        },
+        {
+            "id": 174603,
+            "name": "samg/timetrap",
+            "url": "https://github.com/samg/timetrap",
+            "stars": 1493,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "CLI",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 42,
+            "code_line_count": 8586,
+            "last_updated_repo": "2025-08-13T01:22:06Z",
+            "pushed_at": "2025-03-12T20:07:55Z",
+            "date_fetched": "2025-08-13T07:38:09.787224+00:00"
+        },
+        {
+            "id": 176780,
+            "name": "alexreisner/geocoder",
+            "url": "https://github.com/alexreisner/geocoder",
+            "stars": 6408,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 415,
+            "code_line_count": 36299,
+            "last_updated_repo": "2025-08-11T20:14:12Z",
+            "pushed_at": "2025-06-26T16:39:43Z",
+            "date_fetched": "2025-08-13T07:38:19.476982+00:00"
+        },
+        {
+            "id": 177002,
+            "name": "ryanwood/slither",
+            "url": "https://github.com/ryanwood/slither",
+            "stars": 67,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "code_line_count": 3235,
+            "last_updated_repo": "2025-06-18T22:31:24Z",
+            "pushed_at": "2025-06-20T22:30:36Z",
+            "date_fetched": "2025-08-13T07:38:26.508720+00:00"
+        },
+        {
+            "id": 177438,
+            "name": "mnot/redbot",
+            "url": "https://github.com/mnot/redbot",
+            "stars": 541,
+            "language": "Python",
+            "keywords": [
+                "Web",
+                "CLI",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 27,
+            "code_line_count": 17400,
+            "last_updated_repo": "2025-08-12T00:14:57Z",
+            "pushed_at": "2025-08-12T00:14:55Z",
+            "date_fetched": "2025-08-13T07:38:34.736604+00:00"
+        },
+        {
+            "id": 178362,
+            "name": "DjangoAdminHackers/django-linkcheck",
+            "url": "https://github.com/DjangoAdminHackers/django-linkcheck",
+            "stars": 88,
+            "language": "Python",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 18,
+            "code_line_count": 7050,
+            "last_updated_repo": "2025-08-06T17:00:18Z",
+            "pushed_at": "2025-06-09T14:02:26Z",
+            "date_fetched": "2025-08-13T07:38:43.243639+00:00"
         }
     ]
 }
