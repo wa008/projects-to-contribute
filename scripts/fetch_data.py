@@ -34,7 +34,8 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 12000
+# MAX_REQUESTS = 12000
+MAX_REQUESTS = 100
 
 class GitHubAPI:
     """
@@ -173,7 +174,7 @@ class GitHubAPI:
         repo_url = f'https://github.com/{repo_full_name}.git'
         repo_name = repo_full_name.split('/')[1]
         os.system(f'git clone {repo_url} --depth 1')
-        line_count = os.popen(f'find {repo_name} -type f -name "*.*" | xargs wc -l').read()
+        line_count = os.popen(f'find {repo_name} -type f -print0 | xargs -0 wc -l').read()
         os.system(f'rm -rf {repo_name}')
         return int(line_count.split()[-2])
 
