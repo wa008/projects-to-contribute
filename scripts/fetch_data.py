@@ -167,10 +167,19 @@ class GitHubAPI:
                 logging.info(f"Could not fetch or decode {readme_name} for {repo_full_name}: {e}")
         return ""
 
-    def get_code_line_count(self, repo_full_name):
+    def get_code_line_count(self, repo_full_name, repo_size):
         """
         Gets the line count of code in a repository.
         """
+        try:
+            total, used, free = os.statvfs(".")
+            available_space = free * total.f_bsize
+            if repo_size * 1024 > available_space:
+                logging.warning(f"Skipping {repo_full_name} due to insufficient disk space.")
+                return 0
+        except Exception as e:
+            logging.warning(f"Could not check disk space: {e}")
+
         repo_url = f'https://github.com/{repo_full_name}.git'
         repo_name = repo_full_name.split('/')[1]
         os.system(f'git clone {repo_url} --depth 1')
@@ -259,7 +268,7 @@ def process_repository(repo, github_client, days_ago=30):
     new_stars = github_client.get_new_stars_count(repo['full_name'], days_ago)
     readme_content = github_client.get_readme(repo['full_name'])
     keywords = generate_keywords(repo_details.get('topics', []), repo_details.get('description', ''), readme_content, repo_details.get('language'))
-    code_line_count = github_client.get_code_line_count(repo['full_name'])
+    code_line_count = github_client.get_code_line_count(repo['full_name'], repo_details['size'])
 
     return {
         'id': repo_details['id'],
