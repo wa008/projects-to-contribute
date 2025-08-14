@@ -35,7 +35,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 100
+MAX_REQUESTS = 12000
 
 class GitHubAPI:
     """
