@@ -5,6 +5,7 @@ import argparse
 import time
 import re
 import base64
+import shutil
 from datetime import datetime, timedelta, timezone
 import requests
 from dotenv import load_dotenv
@@ -34,8 +35,7 @@ TOPIC_MAP = {
 
 ACRONYMS = ['AI', 'ML', 'NLP', 'API', 'CLI', 'CI-CD', 'SQL']
 PROGRESS_FILE = 'progress.json'
-MAX_REQUESTS = 12000
-# MAX_REQUESTS = 100
+MAX_REQUESTS = 100
 
 class GitHubAPI:
     """
@@ -172,9 +172,9 @@ class GitHubAPI:
         Gets the line count of code in a repository.
         """
         try:
-            total, used, free = os.statvfs(".")
-            available_space = free * total.f_bsize
-            if repo_size * 1024 > available_space:
+            _, _, free = shutil.disk_usage(".")
+            print (f"free: {free}, repo_size: {repo_size}")
+            if repo_size * 1024 > free:
                 logging.warning(f"Skipping {repo_full_name} due to insufficient disk space.")
                 return 0
         except Exception as e:
