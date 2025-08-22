@@ -167,7 +167,7 @@ class GitHubAPI:
                 logging.info(f"Could not fetch or decode {readme_name} for {repo_full_name}: {e}")
         return ""
 
-    def _count_code_lines(repo_path="."):
+    def _count_code_lines(self, repo_path="."):
         """
         Calculates the total number of lines in code files within a specified path.
 
