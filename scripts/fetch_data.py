@@ -167,6 +167,59 @@ class GitHubAPI:
                 logging.info(f"Could not fetch or decode {readme_name} for {repo_full_name}: {e}")
         return ""
 
+    def _count_code_lines(repo_path="."):
+        """
+        Calculates the total number of lines in code files within a specified path.
+
+        :param repo_path: str, The path to the repository or directory to scan.
+        """
+        include_extensions = {
+            # Web Development (Frontend)
+            '.html', '.htm', '.xhtml', '.vue', '.svelte',
+            '.css', '.scss', '.sass', '.less',
+            '.js', '.mjs', '.cjs', '.ts', '.jsx', '.tsx',
+
+            # Web Development (Backend)
+            '.go', '.php', '.rb', '.erb', '.java', '.jsp',
+            '.py', '.rs', '.ex', '.exs', '.pl', '.pm',
+
+            # Application & Systems Programming
+            '.c', '.h', '.cpp', '.hpp', '.cxx', '.hxx',
+            '.cs', '.swift', '.m', '.mm', '.kt', '.kts', '.scala',
+            '.dart', '.lua', '.groovy', '.clj', '.cljs', '.cljc',
+            '.hs', '.erl', '.hrl', '.vb', '.zig',
+            
+            # Scripting
+            '.sh', '.bash', '.ps1', '.bat', '.cmd', 'Makefile',
+
+            # Data & Configuration
+            '.xml', '.json', '.yaml', '.yml', '.toml', '.ini',
+            '.sql', '.graphql', '.gql', '.properties', 'Dockerfile',
+        }
+        exclude_dirs = {
+            '.git', '.idea', '.vscode', '__pycache__', 'node_modules', 
+            'vendor', 'build', 'dist', 'target', 'venv'
+        }
+        total_line_count = 0
+        for root, dirs, files in os.walk(repo_path, topdown=True):
+            # Remove excluded directories from the list of directories to traverse.
+            # Modifying dirs[:] in-place is necessary for os.walk to respect the changes.
+            dirs[:] = [d for d in dirs if d not in exclude_dirs]
+            
+            for file in files:
+                # Check if the file extension is in the include list
+                if any(file.endswith(ext) for ext in include_extensions):
+                    file_path = os.path.join(root, file)
+                    print (file_path)
+                    try:
+                        # Open file with 'utf-8' encoding, ignoring errors for binary files
+                        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                            total_line_count += sum(1 for line in f)
+                    except Exception as e:
+                        print(f"Could not read file {file_path}: {e}")
+                        
+        return total_line_count
+        
     def get_code_line_count(self, repo_full_name, repo_size):
         """
         Gets the line count of code in a repository.
@@ -174,8 +227,8 @@ class GitHubAPI:
         try:
             _, _, free = shutil.disk_usage(".")
             print (f"free: {free}, repo_size: {repo_size}")
-            if repo_size * 1024 > free:
-                logging.warning(f"Skipping {repo_full_name} due to insufficient disk space.")
+            if repo_size * 1024 > free and repo_size / 1024 > 500: # > 500MB
+                logging.warning(f"Skipping {repo_full_name} due to insufficient disk space or > 500MB.")
                 return 0
         except Exception as e:
             logging.warning(f"Could not check disk space: {e}")
@@ -183,7 +236,8 @@ class GitHubAPI:
         repo_url = f'https://github.com/{repo_full_name}.git'
         repo_name = repo_full_name.split('/')[1]
         os.system(f'git clone {repo_url} --depth 1')
-        line_count = os.popen(f'find {repo_name} -type f -print0 | xargs -0 wc -l').read()
+        line_count = self._count_code_lines(repo_name)
+        print (f"repo_full_name: {repo_full_name}, repo_name: {repo_name}, line_count: {line_count}")
         os.system(f'rm -rf {repo_name}')
         return int(line_count.split()[-2])
 
