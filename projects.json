@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-22T14:35:56.475039+00:00",
+    "last_updated": "2025-08-22T15:25:28.486193+00:00",
     "projects": [
         {
             "id": 68,
@@ -70510,6 +70510,5643 @@
             "last_updated_repo": "2025-07-31T13:19:25Z",
             "pushed_at": "2025-05-04T07:10:58Z",
             "date_fetched": "2025-08-22T14:35:52.919277+00:00"
+        },
+        {
+            "id": 2729606,
+            "name": "mate-desktop/pluma",
+            "url": "https://github.com/mate-desktop/pluma",
+            "stars": 176,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 60,
+            "code_line_count": 88269,
+            "last_updated_repo": "2025-08-10T07:16:13Z",
+            "pushed_at": "2025-08-12T09:41:22Z",
+            "date_fetched": "2025-08-22T14:36:24.345916+00:00"
+        },
+        {
+            "id": 2727039,
+            "name": "mate-desktop/mate-terminal",
+            "url": "https://github.com/mate-desktop/mate-terminal",
+            "stars": 138,
+            "language": "C",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 54,
+            "code_line_count": 22173,
+            "last_updated_repo": "2025-08-08T07:43:46Z",
+            "pushed_at": "2025-08-19T15:15:00Z",
+            "date_fetched": "2025-08-22T14:36:32.469209+00:00"
+        },
+        {
+            "id": 2723785,
+            "name": "kleinerm/Psychtoolbox-3",
+            "url": "https://github.com/kleinerm/Psychtoolbox-3",
+            "stars": 112,
+            "language": "C",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 64,
+            "code_line_count": 672997,
+            "last_updated_repo": "2025-08-22T02:56:37Z",
+            "pushed_at": "2025-08-22T02:56:34Z",
+            "date_fetched": "2025-08-22T14:36:48.210457+00:00"
+        },
+        {
+            "id": 2728053,
+            "name": "mate-desktop/eom",
+            "url": "https://github.com/mate-desktop/eom",
+            "stars": 65,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 58,
+            "code_line_count": 40987,
+            "last_updated_repo": "2025-08-05T18:42:58Z",
+            "pushed_at": "2025-08-12T08:37:45Z",
+            "date_fetched": "2025-08-22T14:36:56.716744+00:00"
+        },
+        {
+            "id": 2734482,
+            "name": "cobbler/cobbler",
+            "url": "https://github.com/cobbler/cobbler",
+            "stars": 2712,
+            "language": "Python",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 9,
+            "contributors": 392,
+            "code_line_count": 92268,
+            "last_updated_repo": "2025-08-19T12:25:54Z",
+            "pushed_at": "2025-08-19T10:11:48Z",
+            "date_fetched": "2025-08-22T14:37:05.926388+00:00"
+        },
+        {
+            "id": 2731301,
+            "name": "loomio/loomio",
+            "url": "https://github.com/loomio/loomio",
+            "stars": 2471,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 127,
+            "code_line_count": 179675,
+            "last_updated_repo": "2025-08-21T00:06:00Z",
+            "pushed_at": "2025-08-22T00:31:19Z",
+            "date_fetched": "2025-08-22T14:37:15.824407+00:00"
+        },
+        {
+            "id": 2737998,
+            "name": "monitoring-plugins/monitoring-plugins",
+            "url": "https://github.com/monitoring-plugins/monitoring-plugins",
+            "stars": 503,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 218,
+            "code_line_count": 131023,
+            "last_updated_repo": "2025-08-20T11:13:53Z",
+            "pushed_at": "2025-08-18T04:22:03Z",
+            "date_fetched": "2025-08-22T14:37:23.587389+00:00"
+        },
+        {
+            "id": 2731776,
+            "name": "imothee/tmpdisk",
+            "url": "https://github.com/imothee/tmpdisk",
+            "stars": 462,
+            "language": "Swift",
+            "keywords": [
+                "CLI",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 7,
+            "code_line_count": 3435,
+            "last_updated_repo": "2025-08-18T16:48:32Z",
+            "pushed_at": "2025-07-18T22:29:20Z",
+            "date_fetched": "2025-08-22T14:37:30.553725+00:00"
+        },
+        {
+            "id": 2731036,
+            "name": "instaclick/php-webdriver",
+            "url": "https://github.com/instaclick/php-webdriver",
+            "stars": 435,
+            "language": "PHP",
+            "keywords": [
+                "PHP"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 32,
+            "code_line_count": 6107,
+            "last_updated_repo": "2025-08-17T11:35:24Z",
+            "pushed_at": "2025-03-29T08:10:54Z",
+            "date_fetched": "2025-08-22T14:37:37.703946+00:00"
+        },
+        {
+            "id": 2737689,
+            "name": "mapfish/mapfish-print",
+            "url": "https://github.com/mapfish/mapfish-print",
+            "stars": 192,
+            "language": "Java",
+            "keywords": [
+                "Devops",
+                "CLI",
+                "Testing"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 1,
+            "contributors": 69,
+            "code_line_count": 265774,
+            "last_updated_repo": "2025-08-21T12:14:48Z",
+            "pushed_at": "2025-08-21T12:17:26Z",
+            "date_fetched": "2025-08-22T14:37:48.427519+00:00"
+        },
+        {
+            "id": 2737881,
+            "name": "travis-ci/travis-hub",
+            "url": "https://github.com/travis-ci/travis-hub",
+            "stars": 66,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 56,
+            "code_line_count": 11756,
+            "last_updated_repo": "2025-08-20T07:59:49Z",
+            "pushed_at": "2025-08-20T08:01:28Z",
+            "date_fetched": "2025-08-22T14:37:56.287914+00:00"
+        },
+        {
+            "id": 2730394,
+            "name": "casper-astro/mlib_devel",
+            "url": "https://github.com/casper-astro/mlib_devel",
+            "stars": 61,
+            "language": "VHDL",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 127,
+            "code_line_count": 1173878,
+            "last_updated_repo": "2025-07-26T19:35:02Z",
+            "pushed_at": "2025-07-26T19:59:10Z",
+            "date_fetched": "2025-08-22T14:38:17.481232+00:00"
+        },
+        {
+            "id": 2731242,
+            "name": "jehiah/git-open-pull",
+            "url": "https://github.com/jehiah/git-open-pull",
+            "stars": 55,
+            "language": "Go",
+            "keywords": [
+                "Go"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 13,
+            "code_line_count": 986,
+            "last_updated_repo": "2025-08-12T17:24:27Z",
+            "pushed_at": "2025-08-12T17:24:23Z",
+            "date_fetched": "2025-08-22T14:38:24.554493+00:00"
+        },
+        {
+            "id": 2744972,
+            "name": "websockets/ws",
+            "url": "https://github.com/websockets/ws",
+            "stars": 22389,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 48,
+            "contributors": 207,
+            "code_line_count": 15965,
+            "last_updated_repo": "2025-08-21T13:20:55Z",
+            "pushed_at": "2025-06-28T13:10:16Z",
+            "date_fetched": "2025-08-22T14:38:33.310284+00:00"
+        },
+        {
+            "id": 2742985,
+            "name": "andreafrancia/trash-cli",
+            "url": "https://github.com/andreafrancia/trash-cli",
+            "stars": 4020,
+            "language": "Python",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 33,
+            "contributors": 54,
+            "code_line_count": 13617,
+            "last_updated_repo": "2025-08-21T11:48:45Z",
+            "pushed_at": "2025-03-12T10:59:16Z",
+            "date_fetched": "2025-08-22T14:38:40.414617+00:00"
+        },
+        {
+            "id": 2743221,
+            "name": "pillarjs/iconv-lite",
+            "url": "https://github.com/pillarjs/iconv-lite",
+            "stars": 3133,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 9,
+            "contributors": 40,
+            "code_line_count": 7699,
+            "last_updated_repo": "2025-08-21T20:22:45Z",
+            "pushed_at": "2025-08-20T16:46:32Z",
+            "date_fetched": "2025-08-22T14:38:49.719546+00:00"
+        },
+        {
+            "id": 2742407,
+            "name": "mrdoob/glsl-sandbox",
+            "url": "https://github.com/mrdoob/glsl-sandbox",
+            "stars": 1633,
+            "language": "JavaScript",
+            "keywords": [
+                "Database",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 19,
+            "code_line_count": 15738,
+            "last_updated_repo": "2025-08-15T11:40:59Z",
+            "pushed_at": "2025-06-25T20:17:23Z",
+            "date_fetched": "2025-08-22T14:38:57.232230+00:00"
+        },
+        {
+            "id": 2740148,
+            "name": "apache/opennlp",
+            "url": "https://github.com/apache/opennlp",
+            "stars": 1532,
+            "language": "Java",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 70,
+            "code_line_count": 227921,
+            "last_updated_repo": "2025-08-18T18:11:47Z",
+            "pushed_at": "2025-08-22T03:28:13Z",
+            "date_fetched": "2025-08-22T14:39:04.996264+00:00"
+        },
+        {
+            "id": 2738731,
+            "name": "SOCI/soci",
+            "url": "https://github.com/SOCI/soci",
+            "stars": 1513,
+            "language": "C++",
+            "keywords": [
+                "Database",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 153,
+            "code_line_count": 77889,
+            "last_updated_repo": "2025-08-21T20:21:32Z",
+            "pushed_at": "2025-08-21T20:21:27Z",
+            "date_fetched": "2025-08-22T14:39:12.477645+00:00"
+        },
+        {
+            "id": 2740269,
+            "name": "KnpLabs/knp-components",
+            "url": "https://github.com/KnpLabs/knp-components",
+            "stars": 770,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 97,
+            "code_line_count": 7442,
+            "last_updated_repo": "2025-08-11T15:27:08Z",
+            "pushed_at": "2025-06-27T05:36:13Z",
+            "date_fetched": "2025-08-22T14:39:19.758405+00:00"
+        },
+        {
+            "id": 2743608,
+            "name": "mate-desktop/atril",
+            "url": "https://github.com/mate-desktop/atril",
+            "stars": 230,
+            "language": "C",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 92,
+            "code_line_count": 93331,
+            "last_updated_repo": "2025-08-10T07:15:58Z",
+            "pushed_at": "2025-05-20T01:46:26Z",
+            "date_fetched": "2025-08-22T14:39:27.685200+00:00"
+        },
+        {
+            "id": 2744360,
+            "name": "AccelerationNet/access",
+            "url": "https://github.com/AccelerationNet/access",
+            "stars": 90,
+            "language": "Common Lisp",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 9,
+            "code_line_count": 0,
+            "last_updated_repo": "2025-08-19T18:36:29Z",
+            "pushed_at": "2025-04-15T18:34:38Z",
+            "date_fetched": "2025-08-22T14:39:34.953978+00:00"
+        },
+        {
+            "id": 2742152,
+            "name": "loopwerk/django-generic-notifications",
+            "url": "https://github.com/loopwerk/django-generic-notifications",
+            "stars": 67,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 42,
+            "contributors": 5,
+            "code_line_count": 4859,
+            "last_updated_repo": "2025-08-21T22:31:15Z",
+            "pushed_at": "2025-08-13T11:22:25Z",
+            "date_fetched": "2025-08-22T14:39:43.542810+00:00"
+        },
+        {
+            "id": 2741371,
+            "name": "tomhanika/conexp-clj",
+            "url": "https://github.com/tomhanika/conexp-clj",
+            "stars": 58,
+            "language": "Clojure",
+            "keywords": [
+                "Tool",
+                "Data-science",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 24,
+            "code_line_count": 138353,
+            "last_updated_repo": "2025-08-12T12:52:44Z",
+            "pushed_at": "2025-08-12T13:15:14Z",
+            "date_fetched": "2025-08-22T14:39:51.628727+00:00"
+        },
+        {
+            "id": 2750721,
+            "name": "ckan/ckan",
+            "url": "https://github.com/ckan/ckan",
+            "stars": 4802,
+            "language": "Python",
+            "keywords": [
+                "Security"
+            ],
+            "new_open_issues": 11,
+            "new_stars_30d": 25,
+            "contributors": 416,
+            "code_line_count": 251277,
+            "last_updated_repo": "2025-08-21T20:14:57Z",
+            "pushed_at": "2025-08-21T15:49:02Z",
+            "date_fetched": "2025-08-22T14:40:05.553885+00:00"
+        },
+        {
+            "id": 2747590,
+            "name": "lincolnloop/python-qrcode",
+            "url": "https://github.com/lincolnloop/python-qrcode",
+            "stars": 4714,
+            "language": "Python",
+            "keywords": [
+                "Database",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 31,
+            "contributors": 64,
+            "code_line_count": 4531,
+            "last_updated_repo": "2025-08-22T08:38:51Z",
+            "pushed_at": "2025-07-26T12:14:43Z",
+            "date_fetched": "2025-08-22T14:40:14.218800+00:00"
+        },
+        {
+            "id": 2751199,
+            "name": "geoserver/geoserver",
+            "url": "https://github.com/geoserver/geoserver",
+            "stars": 4120,
+            "language": "Java",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 18,
+            "contributors": 518,
+            "code_line_count": 1797681,
+            "last_updated_repo": "2025-08-21T04:54:28Z",
+            "pushed_at": "2025-08-19T08:35:30Z",
+            "date_fetched": "2025-08-22T14:40:34.293171+00:00"
+        },
+        {
+            "id": 2752522,
+            "name": "geotools/geotools",
+            "url": "https://github.com/geotools/geotools",
+            "stars": 1837,
+            "language": "Java",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 402,
+            "code_line_count": 3960675,
+            "last_updated_repo": "2025-08-21T22:16:41Z",
+            "pushed_at": "2025-08-21T09:59:33Z",
+            "date_fetched": "2025-08-22T14:40:54.015404+00:00"
+        },
+        {
+            "id": 2747330,
+            "name": "CZ-NIC/pyoidc",
+            "url": "https://github.com/CZ-NIC/pyoidc",
+            "stars": 732,
+            "language": "Python",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 78,
+            "code_line_count": 131480,
+            "last_updated_repo": "2025-08-13T16:35:41Z",
+            "pushed_at": "2025-08-05T07:31:52Z",
+            "date_fetched": "2025-08-22T14:41:01.914786+00:00"
+        },
+        {
+            "id": 2752371,
+            "name": "wine-mono/wine-mono",
+            "url": "https://github.com/wine-mono/wine-mono",
+            "stars": 343,
+            "language": "C",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 3,
+            "contributors": 24,
+            "code_line_count": 907976,
+            "last_updated_repo": "2025-08-20T22:16:08Z",
+            "pushed_at": "2025-08-20T22:16:04Z",
+            "date_fetched": "2025-08-22T14:41:11.623361+00:00"
+        },
+        {
+            "id": 2750815,
+            "name": "CellProfiler/CellProfiler-Analyst",
+            "url": "https://github.com/CellProfiler/CellProfiler-Analyst",
+            "stars": 158,
+            "language": "Python",
+            "keywords": [
+                "Data-science",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 44,
+            "code_line_count": 29500,
+            "last_updated_repo": "2025-07-21T17:11:11Z",
+            "pushed_at": "2025-07-21T17:11:34Z",
+            "date_fetched": "2025-08-22T14:41:19.253633+00:00"
+        },
+        {
+            "id": 2745599,
+            "name": "mate-desktop/engrampa",
+            "url": "https://github.com/mate-desktop/engrampa",
+            "stars": 123,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 56,
+            "code_line_count": 41487,
+            "last_updated_repo": "2025-08-08T13:18:53Z",
+            "pushed_at": "2025-07-02T20:12:55Z",
+            "date_fetched": "2025-08-22T14:41:27.170523+00:00"
+        },
+        {
+            "id": 2749065,
+            "name": "pear/pear-core",
+            "url": "https://github.com/pear/pear-core",
+            "stars": 114,
+            "language": "PHP",
+            "keywords": [
+                "Tool",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 108,
+            "code_line_count": 209010,
+            "last_updated_repo": "2025-08-19T01:53:29Z",
+            "pushed_at": "2025-07-21T13:26:57Z",
+            "date_fetched": "2025-08-22T14:41:35.157782+00:00"
+        },
+        {
+            "id": 2755696,
+            "name": "mattn/go-sqlite3",
+            "url": "https://github.com/mattn/go-sqlite3",
+            "stars": 8660,
+            "language": "C",
+            "keywords": [
+                "Database",
+                "Mobile",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 70,
+            "contributors": 196,
+            "code_line_count": 291671,
+            "last_updated_repo": "2025-08-22T14:30:41Z",
+            "pushed_at": "2025-08-14T12:58:09Z",
+            "date_fetched": "2025-08-22T14:41:45.259748+00:00"
+        },
+        {
+            "id": 2753802,
+            "name": "jonthornton/jquery-timepicker",
+            "url": "https://github.com/jonthornton/jquery-timepicker",
+            "stars": 1884,
+            "language": "JavaScript",
+            "keywords": [
+                "Tool",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 67,
+            "code_line_count": 30499,
+            "last_updated_repo": "2025-08-13T18:59:36Z",
+            "pushed_at": "2025-03-23T03:53:53Z",
+            "date_fetched": "2025-08-22T14:41:52.345450+00:00"
+        },
+        {
+            "id": 2756918,
+            "name": "svg-net/SVG",
+            "url": "https://github.com/svg-net/SVG",
+            "stars": 1251,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 7,
+            "contributors": 108,
+            "code_line_count": 31170,
+            "last_updated_repo": "2025-08-19T09:41:47Z",
+            "pushed_at": "2025-08-19T09:41:47Z",
+            "date_fetched": "2025-08-22T14:42:00.352864+00:00"
+        },
+        {
+            "id": 2756223,
+            "name": "JetBrains/intellij-scala",
+            "url": "https://github.com/JetBrains/intellij-scala",
+            "stars": 1218,
+            "language": "Scala",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 288,
+            "code_line_count": 960828,
+            "last_updated_repo": "2025-08-21T23:00:38Z",
+            "pushed_at": "2025-08-22T12:22:27Z",
+            "date_fetched": "2025-08-22T14:42:20.040810+00:00"
+        },
+        {
+            "id": 2757253,
+            "name": "inducer/meshpy",
+            "url": "https://github.com/inducer/meshpy",
+            "stars": 558,
+            "language": "C++",
+            "keywords": [
+                "C++"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 23,
+            "code_line_count": 62405,
+            "last_updated_repo": "2025-08-21T21:32:32Z",
+            "pushed_at": "2025-08-18T13:05:14Z",
+            "date_fetched": "2025-08-22T14:42:27.688643+00:00"
+        },
+        {
+            "id": 2758208,
+            "name": "jpoliv/wakeonlan",
+            "url": "https://github.com/jpoliv/wakeonlan",
+            "stars": 372,
+            "language": "Perl",
+            "keywords": [
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 5,
+            "code_line_count": 26,
+            "last_updated_repo": "2025-08-08T13:07:27Z",
+            "pushed_at": "2025-07-14T22:05:47Z",
+            "date_fetched": "2025-08-22T14:42:34.795752+00:00"
+        },
+        {
+            "id": 2756704,
+            "name": "projectcypress/cypress",
+            "url": "https://github.com/projectcypress/cypress",
+            "stars": 86,
+            "language": "Ruby",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 75,
+            "code_line_count": 115218,
+            "last_updated_repo": "2025-08-19T13:30:33Z",
+            "pushed_at": "2025-08-21T16:56:56Z",
+            "date_fetched": "2025-08-22T14:42:43.572015+00:00"
+        },
+        {
+            "id": 2754306,
+            "name": "reustmd/DataAnnotationsValidatorRecursive",
+            "url": "https://github.com/reustmd/DataAnnotationsValidatorRecursive",
+            "stars": 57,
+            "language": "C#",
+            "keywords": [
+                "C#"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 8,
+            "code_line_count": 512,
+            "last_updated_repo": "2025-06-04T12:11:30Z",
+            "pushed_at": "2025-06-04T12:11:28Z",
+            "date_fetched": "2025-08-22T14:42:50.619812+00:00"
+        },
+        {
+            "id": 2761854,
+            "name": "msgpack/msgpack-javascript",
+            "url": "https://github.com/msgpack/msgpack-javascript",
+            "stars": 1443,
+            "language": "TypeScript",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 16,
+            "contributors": 21,
+            "code_line_count": 13839,
+            "last_updated_repo": "2025-08-22T05:00:45Z",
+            "pushed_at": "2025-05-25T01:09:34Z",
+            "date_fetched": "2025-08-22T14:42:59.063650+00:00"
+        },
+        {
+            "id": 2762105,
+            "name": "lighttpd/lighttpd1.4",
+            "url": "https://github.com/lighttpd/lighttpd1.4",
+            "stars": 659,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 53,
+            "code_line_count": 138173,
+            "last_updated_repo": "2025-08-21T22:32:20Z",
+            "pushed_at": "2025-08-17T06:59:06Z",
+            "date_fetched": "2025-08-22T14:43:06.653782+00:00"
+        },
+        {
+            "id": 2761912,
+            "name": "majorsilence/My-FyiReporting",
+            "url": "https://github.com/majorsilence/My-FyiReporting",
+            "stars": 362,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 48,
+            "code_line_count": 204892,
+            "last_updated_repo": "2025-08-21T23:18:16Z",
+            "pushed_at": "2025-08-21T23:18:12Z",
+            "date_fetched": "2025-08-22T14:43:15.174167+00:00"
+        },
+        {
+            "id": 2762014,
+            "name": "lighttpd/weighttp",
+            "url": "https://github.com/lighttpd/weighttp",
+            "stars": 355,
+            "language": "C",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 6,
+            "code_line_count": 2806,
+            "last_updated_repo": "2025-08-04T19:44:40Z",
+            "pushed_at": "2025-04-06T02:20:14Z",
+            "date_fetched": "2025-08-22T14:43:23.366936+00:00"
+        },
+        {
+            "id": 2762038,
+            "name": "lighttpd/spawn-fcgi",
+            "url": "https://github.com/lighttpd/spawn-fcgi",
+            "stars": 254,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "code_line_count": 759,
+            "last_updated_repo": "2025-07-29T02:32:51Z",
+            "pushed_at": "2025-03-01T19:46:19Z",
+            "date_fetched": "2025-08-22T14:43:30.444794+00:00"
+        },
+        {
+            "id": 2761992,
+            "name": "astrada/gapi-ocaml",
+            "url": "https://github.com/astrada/gapi-ocaml",
+            "stars": 95,
+            "language": "OCaml",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 11,
+            "code_line_count": 17597,
+            "last_updated_repo": "2025-08-05T01:44:44Z",
+            "pushed_at": "2025-05-17T11:22:08Z",
+            "date_fetched": "2025-08-22T14:43:37.790644+00:00"
+        },
+        {
+            "id": 2765899,
+            "name": "openpgpjs/openpgpjs",
+            "url": "https://github.com/openpgpjs/openpgpjs",
+            "stars": 5876,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 14,
+            "contributors": 140,
+            "code_line_count": 161447,
+            "last_updated_repo": "2025-08-21T09:38:55Z",
+            "pushed_at": "2025-08-21T09:38:56Z",
+            "date_fetched": "2025-08-22T14:43:46.624651+00:00"
+        },
+        {
+            "id": 2766273,
+            "name": "MidnightCommander/mc-old",
+            "url": "https://github.com/MidnightCommander/mc-old",
+            "stars": 2687,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 473,
+            "code_line_count": 163608,
+            "last_updated_repo": "2025-08-15T14:21:07Z",
+            "pushed_at": "2025-02-28T17:36:25Z",
+            "date_fetched": "2025-08-22T14:43:55.065975+00:00"
+        },
+        {
+            "id": 2767832,
+            "name": "libpd/libpd",
+            "url": "https://github.com/libpd/libpd",
+            "stars": 1173,
+            "language": "Objective-C",
+            "keywords": [
+                "Framework",
+                "Mobile",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 60,
+            "code_line_count": 44325,
+            "last_updated_repo": "2025-08-15T21:48:17Z",
+            "pushed_at": "2025-07-14T07:16:05Z",
+            "date_fetched": "2025-08-22T14:44:02.252262+00:00"
+        },
+        {
+            "id": 2766668,
+            "name": "jimeh/build-emacs-for-macos",
+            "url": "https://github.com/jimeh/build-emacs-for-macos",
+            "stars": 546,
+            "language": "Go",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 11,
+            "code_line_count": 6156,
+            "last_updated_repo": "2025-08-16T17:38:55Z",
+            "pushed_at": "2025-08-13T00:40:34Z",
+            "date_fetched": "2025-08-22T14:44:09.374281+00:00"
+        },
+        {
+            "id": 2767734,
+            "name": "frankosterfeld/qtkeychain",
+            "url": "https://github.com/frankosterfeld/qtkeychain",
+            "stars": 446,
+            "language": "C++",
+            "keywords": [
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 65,
+            "code_line_count": 6183,
+            "last_updated_repo": "2025-08-12T14:50:28Z",
+            "pushed_at": "2025-05-30T13:15:56Z",
+            "date_fetched": "2025-08-22T14:44:16.961811+00:00"
+        },
+        {
+            "id": 2767849,
+            "name": "libpd/pd-for-android",
+            "url": "https://github.com/libpd/pd-for-android",
+            "stars": 359,
+            "language": "Java",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 11,
+            "code_line_count": 6536,
+            "last_updated_repo": "2025-07-12T08:38:51Z",
+            "pushed_at": "2025-08-04T11:30:08Z",
+            "date_fetched": "2025-08-22T14:44:24.713719+00:00"
+        },
+        {
+            "id": 2766100,
+            "name": "bikalims/bika.lims.legacy",
+            "url": "https://github.com/bikalims/bika.lims.legacy",
+            "stars": 237,
+            "language": "Python",
+            "keywords": [
+                "Devops"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 41,
+            "code_line_count": 171352,
+            "last_updated_repo": "2025-08-21T09:04:00Z",
+            "pushed_at": "2025-08-03T08:47:31Z",
+            "date_fetched": "2025-08-22T14:44:32.656142+00:00"
+        },
+        {
+            "id": 2768026,
+            "name": "AndrewRadev/inline_edit.vim",
+            "url": "https://github.com/AndrewRadev/inline_edit.vim",
+            "stars": 155,
+            "language": "Vim Script",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 12,
+            "code_line_count": 690,
+            "last_updated_repo": "2025-08-08T21:25:54Z",
+            "pushed_at": "2025-08-08T10:18:10Z",
+            "date_fetched": "2025-08-22T14:44:39.716326+00:00"
+        },
+        {
+            "id": 2768917,
+            "name": "mate-desktop/mate-applets",
+            "url": "https://github.com/mate-desktop/mate-applets",
+            "stars": 79,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 59,
+            "code_line_count": 40417,
+            "last_updated_repo": "2025-08-17T04:47:07Z",
+            "pushed_at": "2025-07-23T20:01:41Z",
+            "date_fetched": "2025-08-22T14:44:48.397358+00:00"
+        },
+        {
+            "id": 2767925,
+            "name": "z0rc/dotfiles",
+            "url": "https://github.com/z0rc/dotfiles",
+            "stars": 68,
+            "language": "Shell",
+            "keywords": [
+                "CLI",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "code_line_count": 1338,
+            "last_updated_repo": "2025-08-21T21:31:37Z",
+            "pushed_at": "2025-08-21T21:31:34Z",
+            "date_fetched": "2025-08-22T14:44:57.137873+00:00"
+        },
+        {
+            "id": 2771544,
+            "name": "rq/rq",
+            "url": "https://github.com/rq/rq",
+            "stars": 10313,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 36,
+            "contributors": 342,
+            "code_line_count": 22310,
+            "last_updated_repo": "2025-08-22T00:57:56Z",
+            "pushed_at": "2025-08-20T19:48:02Z",
+            "date_fetched": "2025-08-22T14:45:07.148611+00:00"
+        },
+        {
+            "id": 2775785,
+            "name": "zanshin/dotfiles",
+            "url": "https://github.com/zanshin/dotfiles",
+            "stars": 318,
+            "language": "Shell",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "code_line_count": 1905,
+            "last_updated_repo": "2025-08-21T00:29:12Z",
+            "pushed_at": "2025-08-21T00:29:08Z",
+            "date_fetched": "2025-08-22T14:45:14.384318+00:00"
+        },
+        {
+            "id": 2774917,
+            "name": "FingerJetFXOSE/FingerJetFXOSE",
+            "url": "https://github.com/FingerJetFXOSE/FingerJetFXOSE",
+            "stars": 139,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 10,
+            "code_line_count": 229381,
+            "last_updated_repo": "2025-08-15T18:23:26Z",
+            "pushed_at": "2025-05-23T09:23:18Z",
+            "date_fetched": "2025-08-22T14:45:23.086937+00:00"
+        },
+        {
+            "id": 2784293,
+            "name": "php-amqplib/php-amqplib",
+            "url": "https://github.com/php-amqplib/php-amqplib",
+            "stars": 4558,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 7,
+            "contributors": 228,
+            "code_line_count": 22766,
+            "last_updated_repo": "2025-08-20T14:41:32Z",
+            "pushed_at": "2025-03-10T21:01:47Z",
+            "date_fetched": "2025-08-22T14:45:32.478913+00:00"
+        },
+        {
+            "id": 2784220,
+            "name": "hybridauth/hybridauth",
+            "url": "https://github.com/hybridauth/hybridauth",
+            "stars": 3364,
+            "language": "PHP",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 298,
+            "code_line_count": 14484,
+            "last_updated_repo": "2025-08-20T04:23:06Z",
+            "pushed_at": "2025-06-18T11:59:51Z",
+            "date_fetched": "2025-08-22T14:45:39.734603+00:00"
+        },
+        {
+            "id": 2781754,
+            "name": "kpu/kenlm",
+            "url": "https://github.com/kpu/kenlm",
+            "stars": 2657,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 12,
+            "contributors": 56,
+            "code_line_count": 14087,
+            "last_updated_repo": "2025-08-19T14:56:35Z",
+            "pushed_at": "2025-03-30T17:50:54Z",
+            "date_fetched": "2025-08-22T14:45:46.690591+00:00"
+        },
+        {
+            "id": 2781355,
+            "name": "zipmark/rspec_api_documentation",
+            "url": "https://github.com/zipmark/rspec_api_documentation",
+            "stars": 1458,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 98,
+            "code_line_count": 7651,
+            "last_updated_repo": "2025-07-27T09:52:17Z",
+            "pushed_at": "2025-07-24T16:39:18Z",
+            "date_fetched": "2025-08-22T14:45:53.886649+00:00"
+        },
+        {
+            "id": 2780842,
+            "name": "zzzprojects/EntityFramework.Extended",
+            "url": "https://github.com/zzzprojects/EntityFramework.Extended",
+            "stars": 1337,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 24,
+            "code_line_count": 36558,
+            "last_updated_repo": "2025-08-07T17:45:34Z",
+            "pushed_at": "2025-05-31T18:54:27Z",
+            "date_fetched": "2025-08-22T14:46:01.074207+00:00"
+        },
+        {
+            "id": 2782691,
+            "name": "forcedotcom/SalesforceMobileSDK-Android",
+            "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Android",
+            "stars": 354,
+            "language": "Java",
+            "keywords": [
+                "Web",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 85,
+            "code_line_count": 93274,
+            "last_updated_repo": "2025-08-20T20:41:40Z",
+            "pushed_at": "2025-08-20T20:41:35Z",
+            "date_fetched": "2025-08-22T14:46:10.049696+00:00"
+        },
+        {
+            "id": 2784335,
+            "name": "django-fluent/django-fluent-dashboard",
+            "url": "https://github.com/django-fluent/django-fluent-dashboard",
+            "stars": 339,
+            "language": "Python",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "code_line_count": 1620,
+            "last_updated_repo": "2025-07-05T18:17:01Z",
+            "pushed_at": "2025-07-03T11:12:17Z",
+            "date_fetched": "2025-08-22T14:46:17.137028+00:00"
+        },
+        {
+            "id": 2780369,
+            "name": "bbossgroups/bboss",
+            "url": "https://github.com/bbossgroups/bboss",
+            "stars": 316,
+            "language": "Java",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "code_line_count": 733597,
+            "last_updated_repo": "2025-08-21T09:34:19Z",
+            "pushed_at": "2025-08-21T09:34:15Z",
+            "date_fetched": "2025-08-22T14:46:26.250734+00:00"
+        },
+        {
+            "id": 2784124,
+            "name": "corecode/dma",
+            "url": "https://github.com/corecode/dma",
+            "stars": 246,
+            "language": "C",
+            "keywords": [
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 40,
+            "code_line_count": 4750,
+            "last_updated_repo": "2025-08-20T23:40:59Z",
+            "pushed_at": "2025-03-28T20:16:51Z",
+            "date_fetched": "2025-08-22T14:46:34.101128+00:00"
+        },
+        {
+            "id": 2791348,
+            "name": "jprichardson/node-fs-extra",
+            "url": "https://github.com/jprichardson/node-fs-extra",
+            "stars": 9586,
+            "language": "JavaScript",
+            "keywords": [
+                "CLI",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 15,
+            "contributors": 95,
+            "code_line_count": 10720,
+            "last_updated_repo": "2025-08-22T03:29:46Z",
+            "pushed_at": "2025-08-05T15:20:58Z",
+            "date_fetched": "2025-08-22T14:46:42.569793+00:00"
+        },
+        {
+            "id": 2788710,
+            "name": "ingokegel/jclasslib",
+            "url": "https://github.com/ingokegel/jclasslib",
+            "stars": 2912,
+            "language": "Kotlin",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 15,
+            "contributors": 9,
+            "code_line_count": 23884,
+            "last_updated_repo": "2025-08-22T11:07:42Z",
+            "pushed_at": "2025-08-05T09:51:25Z",
+            "date_fetched": "2025-08-22T14:46:49.768436+00:00"
+        },
+        {
+            "id": 2791470,
+            "name": "ladjs/lad",
+            "url": "https://github.com/ladjs/lad",
+            "stars": 2288,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Mobile",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 12,
+            "code_line_count": 7418,
+            "last_updated_repo": "2025-08-19T05:15:34Z",
+            "pushed_at": "2025-08-10T06:52:45Z",
+            "date_fetched": "2025-08-22T14:46:57.070392+00:00"
+        },
+        {
+            "id": 2790220,
+            "name": "openstack/devstack",
+            "url": "https://github.com/openstack/devstack",
+            "stars": 2106,
+            "language": "Shell",
+            "keywords": [
+                "CLI",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 984,
+            "code_line_count": 9722,
+            "last_updated_repo": "2025-08-20T21:08:56Z",
+            "pushed_at": "2025-08-20T21:08:50Z",
+            "date_fetched": "2025-08-22T14:47:04.404182+00:00"
+        },
+        {
+            "id": 2784866,
+            "name": "python-versioneer/python-versioneer",
+            "url": "https://github.com/python-versioneer/python-versioneer",
+            "stars": 1087,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 72,
+            "code_line_count": 10548,
+            "last_updated_repo": "2025-08-13T02:25:15Z",
+            "pushed_at": "2025-08-18T06:52:48Z",
+            "date_fetched": "2025-08-22T14:47:11.657539+00:00"
+        },
+        {
+            "id": 2786727,
+            "name": "JessicaTegner/pypandoc",
+            "url": "https://github.com/JessicaTegner/pypandoc",
+            "stars": 1028,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 12,
+            "contributors": 69,
+            "code_line_count": 2568,
+            "last_updated_repo": "2025-08-20T02:47:19Z",
+            "pushed_at": "2025-07-07T16:28:59Z",
+            "date_fetched": "2025-08-22T14:47:18.710042+00:00"
+        },
+        {
+            "id": 2790771,
+            "name": "ata4/bspsrc",
+            "url": "https://github.com/ata4/bspsrc",
+            "stars": 763,
+            "language": "Java",
+            "keywords": [
+                "Game"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 12,
+            "code_line_count": 27424,
+            "last_updated_repo": "2025-08-15T16:30:43Z",
+            "pushed_at": "2025-04-23T20:52:56Z",
+            "date_fetched": "2025-08-22T14:47:26.597484+00:00"
+        },
+        {
+            "id": 2789370,
+            "name": "openstack/python-novaclient",
+            "url": "https://github.com/openstack/python-novaclient",
+            "stars": 387,
+            "language": "Python",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 523,
+            "code_line_count": 36849,
+            "last_updated_repo": "2025-08-19T21:32:17Z",
+            "pushed_at": "2025-08-19T21:32:14Z",
+            "date_fetched": "2025-08-22T14:47:34.669030+00:00"
+        },
+        {
+            "id": 2787838,
+            "name": "geocoder-php/BazingaGeocoderBundle",
+            "url": "https://github.com/geocoder-php/BazingaGeocoderBundle",
+            "stars": 320,
+            "language": "PHP",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 76,
+            "code_line_count": 6340,
+            "last_updated_repo": "2025-07-30T09:40:55Z",
+            "pushed_at": "2025-05-30T11:03:14Z",
+            "date_fetched": "2025-08-22T14:47:41.913587+00:00"
+        },
+        {
+            "id": 2791179,
+            "name": "mosra/magnum-examples",
+            "url": "https://github.com/mosra/magnum-examples",
+            "stars": 307,
+            "language": "C++",
+            "keywords": [
+                "Web",
+                "Game",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 27,
+            "code_line_count": 32343,
+            "last_updated_repo": "2025-08-12T20:02:38Z",
+            "pushed_at": "2025-05-04T20:07:58Z",
+            "date_fetched": "2025-08-22T14:47:49.179245+00:00"
+        },
+        {
+            "id": 2788555,
+            "name": "whitequark/irclogger",
+            "url": "https://github.com/whitequark/irclogger",
+            "stars": 281,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 12,
+            "code_line_count": 1840,
+            "last_updated_repo": "2025-08-01T07:43:42Z",
+            "pushed_at": "2025-05-12T18:00:57Z",
+            "date_fetched": "2025-08-22T14:47:56.294555+00:00"
+        },
+        {
+            "id": 2789373,
+            "name": "newville/wxmplot",
+            "url": "https://github.com/newville/wxmplot",
+            "stars": 83,
+            "language": "Python",
+            "keywords": [
+                "Data-science"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 14,
+            "code_line_count": 14738,
+            "last_updated_repo": "2025-08-20T16:54:00Z",
+            "pushed_at": "2025-08-20T19:16:24Z",
+            "date_fetched": "2025-08-22T14:48:04.701041+00:00"
+        },
+        {
+            "id": 2786710,
+            "name": "fannheyward/init.vim",
+            "url": "https://github.com/fannheyward/init.vim",
+            "stars": 79,
+            "language": "Vim Script",
+            "keywords": [
+                "Vim Script"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "code_line_count": 136,
+            "last_updated_repo": "2025-08-21T03:57:07Z",
+            "pushed_at": "2025-08-21T03:57:04Z",
+            "date_fetched": "2025-08-22T14:48:11.915060+00:00"
+        },
+        {
+            "id": 2790830,
+            "name": "rentzsch/stressdrive",
+            "url": "https://github.com/rentzsch/stressdrive",
+            "stars": 61,
+            "language": "C",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "code_line_count": 706,
+            "last_updated_repo": "2025-07-28T21:52:56Z",
+            "pushed_at": "2025-07-28T18:48:53Z",
+            "date_fetched": "2025-08-22T14:48:19.056121+00:00"
+        },
+        {
+            "id": 2788503,
+            "name": "webdetails/cdf",
+            "url": "https://github.com/webdetails/cdf",
+            "stars": 56,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 172,
+            "code_line_count": 255055,
+            "last_updated_repo": "2025-07-30T13:58:35Z",
+            "pushed_at": "2025-08-22T05:16:17Z",
+            "date_fetched": "2025-08-22T14:48:26.917375+00:00"
+        },
+        {
+            "id": 2797951,
+            "name": "doctrine/DoctrineBundle",
+            "url": "https://github.com/doctrine/DoctrineBundle",
+            "stars": 4792,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 2,
+            "new_stars_30d": 11,
+            "contributors": 318,
+            "code_line_count": 17656,
+            "last_updated_repo": "2025-08-19T22:10:46Z",
+            "pushed_at": "2025-08-11T21:42:25Z",
+            "date_fetched": "2025-08-22T14:48:36.208480+00:00"
+        },
+        {
+            "id": 2792391,
+            "name": "gruns/furl",
+            "url": "https://github.com/gruns/furl",
+            "stars": 2710,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 12,
+            "contributors": 16,
+            "code_line_count": 4867,
+            "last_updated_repo": "2025-08-19T14:38:59Z",
+            "pushed_at": "2025-08-18T13:50:17Z",
+            "date_fetched": "2025-08-22T14:48:43.821488+00:00"
+        },
+        {
+            "id": 2793435,
+            "name": "r1chardj0n3s/parse",
+            "url": "https://github.com/r1chardj0n3s/parse",
+            "stars": 1765,
+            "language": "Python",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 35,
+            "code_line_count": 2479,
+            "last_updated_repo": "2025-08-21T11:46:24Z",
+            "pushed_at": "2025-07-06T16:08:32Z",
+            "date_fetched": "2025-08-22T14:48:50.821466+00:00"
+        },
+        {
+            "id": 2796453,
+            "name": "AddictedCS/soundfingerprinting",
+            "url": "https://github.com/AddictedCS/soundfingerprinting",
+            "stars": 1005,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 18,
+            "contributors": 9,
+            "code_line_count": 32640,
+            "last_updated_repo": "2025-08-14T17:20:28Z",
+            "pushed_at": "2025-08-08T12:30:27Z",
+            "date_fetched": "2025-08-22T14:48:58.096477+00:00"
+        },
+        {
+            "id": 2792774,
+            "name": "opentok/opentok-node",
+            "url": "https://github.com/opentok/opentok-node",
+            "stars": 164,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 48,
+            "code_line_count": 15853,
+            "last_updated_repo": "2025-08-15T19:43:00Z",
+            "pushed_at": "2025-08-15T19:47:55Z",
+            "date_fetched": "2025-08-22T14:49:05.342467+00:00"
+        },
+        {
+            "id": 2799461,
+            "name": "Bodigrim/smallcheck",
+            "url": "https://github.com/Bodigrim/smallcheck",
+            "stars": 136,
+            "language": "Haskell",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "code_line_count": 2583,
+            "last_updated_repo": "2025-07-25T22:26:33Z",
+            "pushed_at": "2025-07-25T22:26:29Z",
+            "date_fetched": "2025-08-22T14:49:12.413544+00:00"
+        },
+        {
+            "id": 2796081,
+            "name": "DataDog/chef-datadog",
+            "url": "https://github.com/DataDog/chef-datadog",
+            "stars": 97,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Web",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 218,
+            "code_line_count": 29064,
+            "last_updated_repo": "2025-08-16T23:06:40Z",
+            "pushed_at": "2025-04-29T20:46:38Z",
+            "date_fetched": "2025-08-22T14:49:19.968287+00:00"
+        },
+        {
+            "id": 2799064,
+            "name": "bumps/bumps",
+            "url": "https://github.com/bumps/bumps",
+            "stars": 55,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 23,
+            "code_line_count": 54340,
+            "last_updated_repo": "2025-08-20T18:23:36Z",
+            "pushed_at": "2025-08-21T20:59:39Z",
+            "date_fetched": "2025-08-22T14:49:27.529326+00:00"
+        },
+        {
+            "id": 2802565,
+            "name": "doorkeeper-gem/doorkeeper",
+            "url": "https://github.com/doorkeeper-gem/doorkeeper",
+            "stars": 5421,
+            "language": "Ruby",
+            "keywords": [
+                "Security",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 9,
+            "contributors": 333,
+            "code_line_count": 23771,
+            "last_updated_repo": "2025-08-21T07:25:52Z",
+            "pushed_at": "2025-08-19T12:08:58Z",
+            "date_fetched": "2025-08-22T14:49:36.365327+00:00"
+        },
+        {
+            "id": 2801094,
+            "name": "scalikejdbc/scalikejdbc",
+            "url": "https://github.com/scalikejdbc/scalikejdbc",
+            "stars": 1273,
+            "language": "Scala",
+            "keywords": [
+                "Database",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 110,
+            "code_line_count": 53391,
+            "last_updated_repo": "2025-08-22T02:27:25Z",
+            "pushed_at": "2025-08-22T02:27:22Z",
+            "date_fetched": "2025-08-22T14:49:46.120983+00:00"
+        },
+        {
+            "id": 2802022,
+            "name": "Exim/exim",
+            "url": "https://github.com/Exim/exim",
+            "stars": 763,
+            "language": "C",
+            "keywords": [
+                "Web",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 109,
+            "code_line_count": 197909,
+            "last_updated_repo": "2025-08-20T10:04:07Z",
+            "pushed_at": "2025-08-20T10:04:02Z",
+            "date_fetched": "2025-08-22T14:49:55.163164+00:00"
+        },
+        {
+            "id": 2802877,
+            "name": "openbibleinfo/Bible-Passage-Reference-Parser",
+            "url": "https://github.com/openbibleinfo/Bible-Passage-Reference-Parser",
+            "stars": 236,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "code_line_count": 1215442,
+            "last_updated_repo": "2025-07-31T10:55:46Z",
+            "pushed_at": "2025-07-31T10:55:41Z",
+            "date_fetched": "2025-08-22T14:50:04.078349+00:00"
+        },
+        {
+            "id": 2805778,
+            "name": "xmonad/X11",
+            "url": "https://github.com/xmonad/X11",
+            "stars": 112,
+            "language": "Haskell",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 58,
+            "code_line_count": 2645,
+            "last_updated_repo": "2025-08-20T19:34:13Z",
+            "pushed_at": "2025-08-16T03:34:09Z",
+            "date_fetched": "2025-08-22T14:50:11.352328+00:00"
+        },
+        {
+            "id": 2802545,
+            "name": "grails/fields",
+            "url": "https://github.com/grails/fields",
+            "stars": 83,
+            "language": null,
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 61,
+            "code_line_count": 0,
+            "last_updated_repo": "2025-03-10T11:56:01Z",
+            "pushed_at": "2025-03-09T22:57:27Z",
+            "date_fetched": "2025-08-22T14:50:18.482058+00:00"
+        },
+        {
+            "id": 2801982,
+            "name": "yakamara/ycom",
+            "url": "https://github.com/yakamara/ycom",
+            "stars": 58,
+            "language": "PHP",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 48,
+            "code_line_count": 6968,
+            "last_updated_repo": "2025-06-30T09:35:29Z",
+            "pushed_at": "2025-08-04T20:28:36Z",
+            "date_fetched": "2025-08-22T14:50:25.738050+00:00"
+        },
+        {
+            "id": 2805693,
+            "name": "editorconfig/editorconfig-gedit",
+            "url": "https://github.com/editorconfig/editorconfig-gedit",
+            "stars": 55,
+            "language": "Python",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 21,
+            "code_line_count": 1564,
+            "last_updated_repo": "2025-04-21T07:25:54Z",
+            "pushed_at": "2025-04-21T07:25:50Z",
+            "date_fetched": "2025-08-22T14:50:32.866909+00:00"
+        },
+        {
+            "id": 2810292,
+            "name": "pbatard/rufus",
+            "url": "https://github.com/pbatard/rufus",
+            "stars": 32356,
+            "language": "C",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 194,
+            "contributors": 211,
+            "code_line_count": 200685,
+            "last_updated_repo": "2025-08-22T13:34:45Z",
+            "pushed_at": "2025-07-29T17:00:05Z",
+            "date_fetched": "2025-08-22T14:50:44.884010+00:00"
+        },
+        {
+            "id": 2811323,
+            "name": "oauthlib/oauthlib",
+            "url": "https://github.com/oauthlib/oauthlib",
+            "stars": 2922,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 14,
+            "contributors": 200,
+            "code_line_count": 23424,
+            "last_updated_repo": "2025-08-19T13:47:20Z",
+            "pushed_at": "2025-08-17T20:01:11Z",
+            "date_fetched": "2025-08-22T14:50:53.040128+00:00"
+        },
+        {
+            "id": 2810261,
+            "name": "weavejester/ragtime",
+            "url": "https://github.com/weavejester/ragtime",
+            "stars": 626,
+            "language": "Clojure",
+            "keywords": [
+                "Database",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 34,
+            "code_line_count": 1993,
+            "last_updated_repo": "2025-08-19T15:54:54Z",
+            "pushed_at": "2025-08-01T15:15:27Z",
+            "date_fetched": "2025-08-22T14:51:00.720314+00:00"
+        },
+        {
+            "id": 2810709,
+            "name": "Vonage/vonage-node-sdk",
+            "url": "https://github.com/Vonage/vonage-node-sdk",
+            "stars": 393,
+            "language": "TypeScript",
+            "keywords": [
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 82,
+            "code_line_count": 52530,
+            "last_updated_repo": "2025-08-20T10:01:55Z",
+            "pushed_at": "2025-08-18T15:40:15Z",
+            "date_fetched": "2025-08-22T14:51:09.730575+00:00"
+        },
+        {
+            "id": 2806605,
+            "name": "forcedotcom/SalesforceMobileSDK-Shared",
+            "url": "https://github.com/forcedotcom/SalesforceMobileSDK-Shared",
+            "stars": 70,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 41,
+            "code_line_count": 181626,
+            "last_updated_repo": "2025-06-23T18:52:57Z",
+            "pushed_at": "2025-06-23T18:52:53Z",
+            "date_fetched": "2025-08-22T14:51:17.003404+00:00"
+        },
+        {
+            "id": 2813757,
+            "name": "PySlurm/pyslurm",
+            "url": "https://github.com/PySlurm/pyslurm",
+            "stars": 534,
+            "language": "Cython",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 45,
+            "code_line_count": 6382,
+            "last_updated_repo": "2025-08-13T16:44:24Z",
+            "pushed_at": "2025-07-18T14:23:01Z",
+            "date_fetched": "2025-08-22T14:51:25.523528+00:00"
+        },
+        {
+            "id": 2814789,
+            "name": "durs/node-activex",
+            "url": "https://github.com/durs/node-activex",
+            "stars": 337,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 16,
+            "code_line_count": 4833,
+            "last_updated_repo": "2025-08-08T19:22:44Z",
+            "pushed_at": "2025-03-25T06:26:21Z",
+            "date_fetched": "2025-08-22T14:51:32.455469+00:00"
+        },
+        {
+            "id": 2823326,
+            "name": "asciinema/asciinema",
+            "url": "https://github.com/asciinema/asciinema",
+            "stars": 15669,
+            "language": "Rust",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 148,
+            "contributors": 61,
+            "code_line_count": 10047,
+            "last_updated_repo": "2025-08-22T07:57:15Z",
+            "pushed_at": "2025-07-21T16:04:28Z",
+            "date_fetched": "2025-08-22T14:51:42.158852+00:00"
+        },
+        {
+            "id": 2823239,
+            "name": "rcrowley/go-metrics",
+            "url": "https://github.com/rcrowley/go-metrics",
+            "stars": 3472,
+            "language": "Go",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 84,
+            "code_line_count": 5957,
+            "last_updated_repo": "2025-08-21T14:01:00Z",
+            "pushed_at": "2025-04-01T21:45:20Z",
+            "date_fetched": "2025-08-22T14:51:49.329525+00:00"
+        },
+        {
+            "id": 2820413,
+            "name": "Ensembl/VEP_plugins",
+            "url": "https://github.com/Ensembl/VEP_plugins",
+            "stars": 159,
+            "language": "Perl",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 7,
+            "contributors": 51,
+            "code_line_count": 23858,
+            "last_updated_repo": "2025-08-20T23:05:32Z",
+            "pushed_at": "2025-08-22T14:18:30Z",
+            "date_fetched": "2025-08-22T14:51:57.117045+00:00"
+        },
+        {
+            "id": 2823473,
+            "name": "ayyi/samplecat",
+            "url": "https://github.com/ayyi/samplecat",
+            "stars": 58,
+            "language": "C",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "code_line_count": 91723,
+            "last_updated_repo": "2025-08-01T22:19:05Z",
+            "pushed_at": "2025-08-01T22:19:27Z",
+            "date_fetched": "2025-08-22T14:52:05.508886+00:00"
+        },
+        {
+            "id": 2828239,
+            "name": "TiddlyWiki/TiddlyWiki5",
+            "url": "https://github.com/TiddlyWiki/TiddlyWiki5",
+            "stars": 8381,
+            "language": "JavaScript",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 306,
+            "code_line_count": 142212,
+            "last_updated_repo": "2025-08-21T16:39:20Z",
+            "pushed_at": "2025-08-21T10:32:41Z",
+            "date_fetched": "2025-08-22T14:52:19.190481+00:00"
+        },
+        {
+            "id": 2828642,
+            "name": "zeroturnaround/zt-zip",
+            "url": "https://github.com/zeroturnaround/zt-zip",
+            "stars": 1389,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 34,
+            "code_line_count": 13403,
+            "last_updated_repo": "2025-08-22T11:07:42Z",
+            "pushed_at": "2025-04-08T20:55:54Z",
+            "date_fetched": "2025-08-22T14:52:26.459291+00:00"
+        },
+        {
+            "id": 2828464,
+            "name": "ethz-asl/ethzasl_msf",
+            "url": "https://github.com/ethz-asl/ethzasl_msf",
+            "stars": 1060,
+            "language": "C++",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 35,
+            "code_line_count": 16727,
+            "last_updated_repo": "2025-08-21T23:34:18Z",
+            "pushed_at": "2025-08-04T16:25:10Z",
+            "date_fetched": "2025-08-22T14:52:33.891293+00:00"
+        },
+        {
+            "id": 2824626,
+            "name": "faye/faye-websocket-ruby",
+            "url": "https://github.com/faye/faye-websocket-ruby",
+            "stars": 1054,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 23,
+            "code_line_count": 1768,
+            "last_updated_repo": "2025-08-01T10:08:32Z",
+            "pushed_at": "2025-05-25T17:47:27Z",
+            "date_fetched": "2025-08-22T14:52:40.970905+00:00"
+        },
+        {
+            "id": 2830628,
+            "name": "clojure/core.cache",
+            "url": "https://github.com/clojure/core.cache",
+            "stars": 459,
+            "language": "Clojure",
+            "keywords": [
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 15,
+            "code_line_count": 1815,
+            "last_updated_repo": "2025-07-22T00:12:57Z",
+            "pushed_at": "2025-06-09T01:34:56Z",
+            "date_fetched": "2025-08-22T14:52:48.119125+00:00"
+        },
+        {
+            "id": 2830637,
+            "name": "clojure/core.memoize",
+            "url": "https://github.com/clojure/core.memoize",
+            "stars": 275,
+            "language": "Clojure",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 12,
+            "code_line_count": 1278,
+            "last_updated_repo": "2025-07-26T08:52:31Z",
+            "pushed_at": "2025-05-30T19:25:02Z",
+            "date_fetched": "2025-08-22T14:52:55.315217+00:00"
+        },
+        {
+            "id": 2828851,
+            "name": "mmoreram/GearmanBundle",
+            "url": "https://github.com/mmoreram/GearmanBundle",
+            "stars": 236,
+            "language": "PHP",
+            "keywords": [
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 58,
+            "code_line_count": 7570,
+            "last_updated_repo": "2025-03-31T09:18:37Z",
+            "pushed_at": "2025-03-31T09:19:03Z",
+            "date_fetched": "2025-08-22T14:53:02.994011+00:00"
+        },
+        {
+            "id": 2824436,
+            "name": "open-iscsi/targetcli-fb",
+            "url": "https://github.com/open-iscsi/targetcli-fb",
+            "stars": 113,
+            "language": "Python",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 3,
+            "new_stars_30d": 1,
+            "contributors": 31,
+            "code_line_count": 3594,
+            "last_updated_repo": "2025-08-07T14:14:48Z",
+            "pushed_at": "2025-08-18T17:01:48Z",
+            "date_fetched": "2025-08-22T14:53:10.819257+00:00"
+        },
+        {
+            "id": 2824643,
+            "name": "mytardis/mytardis",
+            "url": "https://github.com/mytardis/mytardis",
+            "stars": 94,
+            "language": "Python",
+            "keywords": [
+                "Database",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 59,
+            "code_line_count": 96903,
+            "last_updated_repo": "2025-04-29T07:41:01Z",
+            "pushed_at": "2025-08-20T04:40:04Z",
+            "date_fetched": "2025-08-22T14:53:18.677780+00:00"
+        },
+        {
+            "id": 2824420,
+            "name": "open-iscsi/rtslib-fb",
+            "url": "https://github.com/open-iscsi/rtslib-fb",
+            "stars": 77,
+            "language": "Python",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 59,
+            "code_line_count": 5364,
+            "last_updated_repo": "2025-08-07T14:14:28Z",
+            "pushed_at": "2025-08-18T17:01:44Z",
+            "date_fetched": "2025-08-22T14:53:25.770531+00:00"
+        },
+        {
+            "id": 2827177,
+            "name": "openforis/collect",
+            "url": "https://github.com/openforis/collect",
+            "stars": 56,
+            "language": "Java",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 23,
+            "code_line_count": 759551,
+            "last_updated_repo": "2025-08-13T11:09:23Z",
+            "pushed_at": "2025-06-15T13:59:41Z",
+            "date_fetched": "2025-08-22T14:53:34.667324+00:00"
+        },
+        {
+            "id": 2835111,
+            "name": "pyinstaller/pyinstaller",
+            "url": "https://github.com/pyinstaller/pyinstaller",
+            "stars": 12569,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Data-science"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 47,
+            "contributors": 481,
+            "code_line_count": 107267,
+            "last_updated_repo": "2025-08-22T14:34:43Z",
+            "pushed_at": "2025-08-21T08:16:03Z",
+            "date_fetched": "2025-08-22T14:53:45.227850+00:00"
+        },
+        {
+            "id": 2833881,
+            "name": "beefproject/beef",
+            "url": "https://github.com/beefproject/beef",
+            "stars": 10405,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 64,
+            "contributors": 217,
+            "code_line_count": 196722,
+            "last_updated_repo": "2025-08-22T11:18:27Z",
+            "pushed_at": "2025-08-22T13:22:46Z",
+            "date_fetched": "2025-08-22T14:53:55.805103+00:00"
+        },
+        {
+            "id": 2832871,
+            "name": "sferik/t-ruby",
+            "url": "https://github.com/sferik/t-ruby",
+            "stars": 5409,
+            "language": "Ruby",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 63,
+            "code_line_count": 12580,
+            "last_updated_repo": "2025-08-20T07:05:53Z",
+            "pushed_at": "2025-04-30T18:33:15Z",
+            "date_fetched": "2025-08-22T14:54:02.905754+00:00"
+        },
+        {
+            "id": 2836059,
+            "name": "haskell-distributed/distributed-process",
+            "url": "https://github.com/haskell-distributed/distributed-process",
+            "stars": 735,
+            "language": "Haskell",
+            "keywords": [
+                "Haskell"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 1,
+            "contributors": 96,
+            "code_line_count": 41568,
+            "last_updated_repo": "2025-08-21T01:10:41Z",
+            "pushed_at": "2025-08-19T00:02:54Z",
+            "date_fetched": "2025-08-22T14:54:11.121079+00:00"
+        },
+        {
+            "id": 2833613,
+            "name": "ocaml-community/yojson",
+            "url": "https://github.com/ocaml-community/yojson",
+            "stars": 351,
+            "language": "OCaml",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 0,
+            "contributors": 44,
+            "code_line_count": 471,
+            "last_updated_repo": "2025-08-22T14:37:06Z",
+            "pushed_at": "2025-08-01T08:21:47Z",
+            "date_fetched": "2025-08-22T14:54:18.975557+00:00"
+        },
+        {
+            "id": 2835978,
+            "name": "ikkebr/PyBozoCrack",
+            "url": "https://github.com/ikkebr/PyBozoCrack",
+            "stars": 254,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 5,
+            "code_line_count": 1010,
+            "last_updated_repo": "2025-08-10T09:16:49Z",
+            "pushed_at": "2025-06-02T14:02:03Z",
+            "date_fetched": "2025-08-22T14:54:26.012927+00:00"
+        },
+        {
+            "id": 2834272,
+            "name": "Webador/SlmMail",
+            "url": "https://github.com/Webador/SlmMail",
+            "stars": 107,
+            "language": "PHP",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 33,
+            "code_line_count": 9854,
+            "last_updated_repo": "2025-04-10T07:11:09Z",
+            "pushed_at": "2025-04-10T07:11:05Z",
+            "date_fetched": "2025-08-22T14:54:33.059769+00:00"
+        },
+        {
+            "id": 2835969,
+            "name": "georgmartius/lpzrobots",
+            "url": "https://github.com/georgmartius/lpzrobots",
+            "stars": 53,
+            "language": "C++",
+            "keywords": [
+                "Devops",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 36,
+            "code_line_count": 422252,
+            "last_updated_repo": "2025-03-16T21:04:37Z",
+            "pushed_at": "2025-03-16T21:04:27Z",
+            "date_fetched": "2025-08-22T14:54:41.281094+00:00"
+        },
+        {
+            "id": 2843009,
+            "name": "emweb/wt",
+            "url": "https://github.com/emweb/wt",
+            "stars": 1775,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 94,
+            "code_line_count": 540185,
+            "last_updated_repo": "2025-08-22T07:38:09Z",
+            "pushed_at": "2025-07-23T13:08:41Z",
+            "date_fetched": "2025-08-22T14:54:51.404075+00:00"
+        },
+        {
+            "id": 2846384,
+            "name": "georgmartius/vid.stab",
+            "url": "https://github.com/georgmartius/vid.stab",
+            "stars": 905,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 31,
+            "code_line_count": 18170,
+            "last_updated_repo": "2025-08-22T13:50:57Z",
+            "pushed_at": "2025-08-21T15:55:50Z",
+            "date_fetched": "2025-08-22T14:54:58.379066+00:00"
+        },
+        {
+            "id": 2840189,
+            "name": "cbsd/cbsd",
+            "url": "https://github.com/cbsd/cbsd",
+            "stars": 730,
+            "language": "C",
+            "keywords": [
+                "Devops",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 47,
+            "code_line_count": 76001,
+            "last_updated_repo": "2025-08-21T18:08:11Z",
+            "pushed_at": "2025-08-21T18:08:06Z",
+            "date_fetched": "2025-08-22T14:55:06.625172+00:00"
+        },
+        {
+            "id": 2844179,
+            "name": "haven-jeon/KoNLP",
+            "url": "https://github.com/haven-jeon/KoNLP",
+            "stars": 160,
+            "language": "Java",
+            "keywords": [
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 16,
+            "code_line_count": 2988,
+            "last_updated_repo": "2025-08-13T11:09:23Z",
+            "pushed_at": "2025-05-02T04:42:46Z",
+            "date_fetched": "2025-08-22T14:55:14.215455+00:00"
+        },
+        {
+            "id": 2842219,
+            "name": "jrfonseca/memtrail",
+            "url": "https://github.com/jrfonseca/memtrail",
+            "stars": 86,
+            "language": "C++",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 3,
+            "code_line_count": 1909,
+            "last_updated_repo": "2025-07-23T03:22:35Z",
+            "pushed_at": "2025-03-30T09:23:36Z",
+            "date_fetched": "2025-08-22T14:55:21.927655+00:00"
+        },
+        {
+            "id": 2845694,
+            "name": "nvmd/libkdtree",
+            "url": "https://github.com/nvmd/libkdtree",
+            "stars": 73,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 10,
+            "code_line_count": 3696,
+            "last_updated_repo": "2025-08-17T12:50:40Z",
+            "pushed_at": "2025-02-24T20:07:00Z",
+            "date_fetched": "2025-08-22T14:55:28.931121+00:00"
+        },
+        {
+            "id": 2843063,
+            "name": "emweb/jwt",
+            "url": "https://github.com/emweb/jwt",
+            "stars": 58,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "code_line_count": 542911,
+            "last_updated_repo": "2025-08-13T11:09:23Z",
+            "pushed_at": "2025-07-23T14:28:33Z",
+            "date_fetched": "2025-08-22T14:55:37.743989+00:00"
+        },
+        {
+            "id": 2851691,
+            "name": "joemccann/dillinger",
+            "url": "https://github.com/joemccann/dillinger",
+            "stars": 8112,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 16,
+            "contributors": 125,
+            "code_line_count": 62698,
+            "last_updated_repo": "2025-08-21T07:19:16Z",
+            "pushed_at": "2025-04-21T21:52:58Z",
+            "date_fetched": "2025-08-22T14:55:46.706558+00:00"
+        },
+        {
+            "id": 2851574,
+            "name": "tute/merit",
+            "url": "https://github.com/tute/merit",
+            "stars": 1532,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 69,
+            "code_line_count": 3896,
+            "last_updated_repo": "2025-08-19T19:34:07Z",
+            "pushed_at": "2025-08-19T19:34:03Z",
+            "date_fetched": "2025-08-22T14:55:53.695556+00:00"
+        },
+        {
+            "id": 2847947,
+            "name": "jonreid/OCMockito",
+            "url": "https://github.com/jonreid/OCMockito",
+            "stars": 993,
+            "language": "Objective-C",
+            "keywords": [
+                "Mobile",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 38,
+            "code_line_count": 11789,
+            "last_updated_repo": "2025-08-12T16:10:49Z",
+            "pushed_at": "2025-08-12T16:10:45Z",
+            "date_fetched": "2025-08-22T14:56:00.972564+00:00"
+        },
+        {
+            "id": 2849855,
+            "name": "aspose-words/Aspose.Words-for-.NET",
+            "url": "https://github.com/aspose-words/Aspose.Words-for-.NET",
+            "stars": 530,
+            "language": "C#",
+            "keywords": [
+                "Devops",
+                "Framework",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 41,
+            "code_line_count": 251520,
+            "last_updated_repo": "2025-08-17T07:22:51Z",
+            "pushed_at": "2025-08-22T08:12:28Z",
+            "date_fetched": "2025-08-22T14:56:10.325436+00:00"
+        },
+        {
+            "id": 2850402,
+            "name": "emacsorphanage/quickrun",
+            "url": "https://github.com/emacsorphanage/quickrun",
+            "stars": 485,
+            "language": "Emacs Lisp",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 36,
+            "code_line_count": 632,
+            "last_updated_repo": "2025-08-20T10:17:41Z",
+            "pushed_at": "2025-08-12T11:36:50Z",
+            "date_fetched": "2025-08-22T14:56:18.495308+00:00"
+        },
+        {
+            "id": 2849872,
+            "name": "aspose-words/Aspose.Words-for-Java",
+            "url": "https://github.com/aspose-words/Aspose.Words-for-Java",
+            "stars": 421,
+            "language": "Java",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 33,
+            "code_line_count": 214215,
+            "last_updated_repo": "2025-08-22T09:34:21Z",
+            "pushed_at": "2025-08-22T09:34:15Z",
+            "date_fetched": "2025-08-22T14:56:28.452729+00:00"
+        },
+        {
+            "id": 2851634,
+            "name": "plk/biber",
+            "url": "https://github.com/plk/biber",
+            "stars": 365,
+            "language": "TeX",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 27,
+            "code_line_count": 29420,
+            "last_updated_repo": "2025-08-20T12:42:24Z",
+            "pushed_at": "2025-07-14T19:17:29Z",
+            "date_fetched": "2025-08-22T14:56:35.771264+00:00"
+        },
+        {
+            "id": 2849705,
+            "name": "aspose-cells/Aspose.Cells-for-.NET",
+            "url": "https://github.com/aspose-cells/Aspose.Cells-for-.NET",
+            "stars": 231,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 39,
+            "code_line_count": 392473,
+            "last_updated_repo": "2025-07-23T02:00:56Z",
+            "pushed_at": "2025-04-22T09:22:31Z",
+            "date_fetched": "2025-08-22T14:56:46.229021+00:00"
+        },
+        {
+            "id": 2849714,
+            "name": "aspose-cells/Aspose.Cells-for-Java",
+            "url": "https://github.com/aspose-cells/Aspose.Cells-for-Java",
+            "stars": 166,
+            "language": "Java",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 33,
+            "code_line_count": 216641,
+            "last_updated_repo": "2025-08-20T07:28:36Z",
+            "pushed_at": "2025-08-20T07:28:32Z",
+            "date_fetched": "2025-08-22T14:56:55.453291+00:00"
+        },
+        {
+            "id": 2849942,
+            "name": "aspose-slides/Aspose.Slides-for-.NET",
+            "url": "https://github.com/aspose-slides/Aspose.Slides-for-.NET",
+            "stars": 57,
+            "language": "C#",
+            "keywords": [
+                "Security",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 27,
+            "code_line_count": 73008,
+            "last_updated_repo": "2025-08-06T14:58:41Z",
+            "pushed_at": "2025-08-06T14:58:37Z",
+            "date_fetched": "2025-08-22T14:57:04.922136+00:00"
+        },
+        {
+            "id": 2850264,
+            "name": "aspose-imaging/Aspose.Imaging-for-.NET",
+            "url": "https://github.com/aspose-imaging/Aspose.Imaging-for-.NET",
+            "stars": 55,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 22,
+            "code_line_count": 407946,
+            "last_updated_repo": "2025-08-20T15:52:09Z",
+            "pushed_at": "2025-08-08T14:18:19Z",
+            "date_fetched": "2025-08-22T14:57:15.131195+00:00"
+        },
+        {
+            "id": 2857233,
+            "name": "nexe/nexe",
+            "url": "https://github.com/nexe/nexe",
+            "stars": 13300,
+            "language": "TypeScript",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 31,
+            "contributors": 68,
+            "code_line_count": 12699,
+            "last_updated_repo": "2025-08-21T18:17:30Z",
+            "pushed_at": "2025-07-22T04:30:44Z",
+            "date_fetched": "2025-08-22T14:57:24.239583+00:00"
+        },
+        {
+            "id": 2854337,
+            "name": "phalcon/cphalcon",
+            "url": "https://github.com/phalcon/cphalcon",
+            "stars": 10822,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 7,
+            "contributors": 356,
+            "code_line_count": 580733,
+            "last_updated_repo": "2025-08-21T13:43:04Z",
+            "pushed_at": "2025-08-19T23:49:19Z",
+            "date_fetched": "2025-08-22T14:57:34.230962+00:00"
+        },
+        {
+            "id": 2857373,
+            "name": "ConEmu/ConEmu",
+            "url": "https://github.com/ConEmu/ConEmu",
+            "stars": 8898,
+            "language": "C++",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 24,
+            "contributors": 60,
+            "code_line_count": 367069,
+            "last_updated_repo": "2025-08-22T09:44:14Z",
+            "pushed_at": "2025-04-07T22:10:41Z",
+            "date_fetched": "2025-08-22T14:57:42.394353+00:00"
+        },
+        {
+            "id": 2854367,
+            "name": "kputnam/stupidedi",
+            "url": "https://github.com/kputnam/stupidedi",
+            "stars": 281,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 47,
+            "code_line_count": 121797,
+            "last_updated_repo": "2025-08-10T22:59:30Z",
+            "pushed_at": "2025-08-10T23:04:39Z",
+            "date_fetched": "2025-08-22T14:57:49.760521+00:00"
+        },
+        {
+            "id": 2854129,
+            "name": "picandocodigo/List-Category-Posts",
+            "url": "https://github.com/picandocodigo/List-Category-Posts",
+            "stars": 244,
+            "language": "PHP",
+            "keywords": [
+                "Tool",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 39,
+            "code_line_count": 6766,
+            "last_updated_repo": "2025-06-15T18:38:53Z",
+            "pushed_at": "2025-05-14T20:28:30Z",
+            "date_fetched": "2025-08-22T14:57:56.924386+00:00"
+        },
+        {
+            "id": 2855356,
+            "name": "Gp2mv3/Syntheses",
+            "url": "https://github.com/Gp2mv3/Syntheses",
+            "stars": 100,
+            "language": "TeX",
+            "keywords": [
+                "TeX"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 119,
+            "code_line_count": 5948,
+            "last_updated_repo": "2025-07-16T12:44:58Z",
+            "pushed_at": "2025-05-21T12:19:56Z",
+            "date_fetched": "2025-08-22T14:58:10.889186+00:00"
+        },
+        {
+            "id": 2861056,
+            "name": "rails/jbuilder",
+            "url": "https://github.com/rails/jbuilder",
+            "stars": 4388,
+            "language": "Ruby",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 14,
+            "contributors": 147,
+            "code_line_count": 2954,
+            "last_updated_repo": "2025-08-22T14:00:11Z",
+            "pushed_at": "2025-08-12T15:38:12Z",
+            "date_fetched": "2025-08-22T14:58:19.330594+00:00"
+        },
+        {
+            "id": 2862212,
+            "name": "alrra/dotfiles",
+            "url": "https://github.com/alrra/dotfiles",
+            "stars": 1492,
+            "language": "Shell",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 15,
+            "code_line_count": 2876,
+            "last_updated_repo": "2025-08-21T05:31:17Z",
+            "pushed_at": "2025-08-20T12:54:39Z",
+            "date_fetched": "2025-08-22T14:58:26.997008+00:00"
+        },
+        {
+            "id": 2858655,
+            "name": "tacitknowledge/flip",
+            "url": "https://github.com/tacitknowledge/flip",
+            "stars": 52,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 9,
+            "code_line_count": 11119,
+            "last_updated_repo": "2025-08-13T11:09:23Z",
+            "pushed_at": "2025-07-12T16:50:37Z",
+            "date_fetched": "2025-08-22T14:58:34.637936+00:00"
+        },
+        {
+            "id": 2866041,
+            "name": "kivy/python-for-android",
+            "url": "https://github.com/kivy/python-for-android",
+            "stars": 8702,
+            "language": "Python",
+            "keywords": [
+                "Tool",
+                "Testing",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 44,
+            "contributors": 266,
+            "code_line_count": 26739,
+            "last_updated_repo": "2025-08-22T11:07:42Z",
+            "pushed_at": "2025-08-01T15:43:23Z",
+            "date_fetched": "2025-08-22T14:58:44.950371+00:00"
+        },
+        {
+            "id": 2870911,
+            "name": "MvvmCross/MvvmCross",
+            "url": "https://github.com/MvvmCross/MvvmCross",
+            "stars": 3900,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Mobile",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 416,
+            "code_line_count": 105961,
+            "last_updated_repo": "2025-08-16T08:48:24Z",
+            "pushed_at": "2025-08-16T08:48:21Z",
+            "date_fetched": "2025-08-22T14:58:52.956861+00:00"
+        },
+        {
+            "id": 2864002,
+            "name": "Nandaka/PixivUtil2",
+            "url": "https://github.com/Nandaka/PixivUtil2",
+            "stars": 2515,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 14,
+            "contributors": 75,
+            "code_line_count": 30615,
+            "last_updated_repo": "2025-08-20T17:17:16Z",
+            "pushed_at": "2025-05-25T01:58:40Z",
+            "date_fetched": "2025-08-22T14:59:00.310653+00:00"
+        },
+        {
+            "id": 2863909,
+            "name": "mosra/corrade",
+            "url": "https://github.com/mosra/corrade",
+            "stars": 510,
+            "language": "C++",
+            "keywords": [
+                "Tool",
+                "Framework",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 34,
+            "code_line_count": 180663,
+            "last_updated_repo": "2025-08-01T08:45:26Z",
+            "pushed_at": "2025-07-14T10:19:49Z",
+            "date_fetched": "2025-08-22T14:59:07.616640+00:00"
+        },
+        {
+            "id": 2867282,
+            "name": "doorkeeper-gem/doorkeeper-provider-app",
+            "url": "https://github.com/doorkeeper-gem/doorkeeper-provider-app",
+            "stars": 191,
+            "language": "Ruby",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 15,
+            "code_line_count": 3529,
+            "last_updated_repo": "2025-07-24T12:48:50Z",
+            "pushed_at": "2025-08-14T19:08:14Z",
+            "date_fetched": "2025-08-22T14:59:15.022030+00:00"
+        },
+        {
+            "id": 2866315,
+            "name": "aspiers/git-config",
+            "url": "https://github.com/aspiers/git-config",
+            "stars": 98,
+            "language": "Shell",
+            "keywords": [
+                "CLI",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "code_line_count": 0,
+            "last_updated_repo": "2025-08-15T00:01:54Z",
+            "pushed_at": "2025-08-15T00:01:50Z",
+            "date_fetched": "2025-08-22T14:59:22.134624+00:00"
+        },
+        {
+            "id": 2871998,
+            "name": "debug-js/debug",
+            "url": "https://github.com/debug-js/debug",
+            "stars": 11310,
+            "language": "JavaScript",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 2,
+            "new_stars_30d": 13,
+            "contributors": 118,
+            "code_line_count": 1155,
+            "last_updated_repo": "2025-08-21T14:46:25Z",
+            "pushed_at": "2025-05-13T20:55:56Z",
+            "date_fetched": "2025-08-22T14:59:31.412588+00:00"
+        },
+        {
+            "id": 2876618,
+            "name": "dkahle/ggmap",
+            "url": "https://github.com/dkahle/ggmap",
+            "stars": 775,
+            "language": "R",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 16,
+            "code_line_count": 60,
+            "last_updated_repo": "2025-08-08T19:57:08Z",
+            "pushed_at": "2025-04-07T15:01:43Z",
+            "date_fetched": "2025-08-22T14:59:39.437737+00:00"
+        },
+        {
+            "id": 2876688,
+            "name": "plk/biblatex-apa",
+            "url": "https://github.com/plk/biblatex-apa",
+            "stars": 99,
+            "language": "TeX",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 24,
+            "code_line_count": 94,
+            "last_updated_repo": "2025-08-20T19:59:00Z",
+            "pushed_at": "2025-08-20T19:58:57Z",
+            "date_fetched": "2025-08-22T14:59:46.640576+00:00"
+        },
+        {
+            "id": 2877080,
+            "name": "iron-io/iron_mq_php",
+            "url": "https://github.com/iron-io/iron_mq_php",
+            "stars": 88,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 22,
+            "code_line_count": 1394,
+            "last_updated_repo": "2025-08-05T08:51:15Z",
+            "pushed_at": "2025-08-05T08:51:12Z",
+            "date_fetched": "2025-08-22T14:59:53.833344+00:00"
+        },
+        {
+            "id": 2876552,
+            "name": "cuny-academic-commons/commons-in-a-box",
+            "url": "https://github.com/cuny-academic-commons/commons-in-a-box",
+            "stars": 72,
+            "language": "PHP",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 7,
+            "code_line_count": 11463,
+            "last_updated_repo": "2025-08-07T15:46:13Z",
+            "pushed_at": "2025-08-07T15:46:17Z",
+            "date_fetched": "2025-08-22T15:00:01.282629+00:00"
+        },
+        {
+            "id": 2881789,
+            "name": "geekcomputers/Python",
+            "url": "https://github.com/geekcomputers/Python",
+            "stars": 33774,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 133,
+            "contributors": 819,
+            "code_line_count": 277552,
+            "last_updated_repo": "2025-08-22T13:24:16Z",
+            "pushed_at": "2025-08-22T10:09:20Z",
+            "date_fetched": "2025-08-22T15:00:14.193507+00:00"
+        },
+        {
+            "id": 2884111,
+            "name": "magento/magento2",
+            "url": "https://github.com/magento/magento2",
+            "stars": 11905,
+            "language": "PHP",
+            "keywords": [
+                "Security",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 3098,
+            "code_line_count": 4062056,
+            "last_updated_repo": "2025-08-22T09:02:22Z",
+            "pushed_at": "2025-08-19T23:02:40Z",
+            "date_fetched": "2025-08-22T15:00:41.626418+00:00"
+        },
+        {
+            "id": 2880469,
+            "name": "Codeception/Codeception",
+            "url": "https://github.com/Codeception/Codeception",
+            "stars": 4830,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 2,
+            "new_stars_30d": 4,
+            "contributors": 843,
+            "code_line_count": 39531,
+            "last_updated_repo": "2025-08-17T14:34:08Z",
+            "pushed_at": "2025-06-09T18:22:41Z",
+            "date_fetched": "2025-08-22T15:00:49.719075+00:00"
+        },
+        {
+            "id": 2883574,
+            "name": "npgsql/npgsql",
+            "url": "https://github.com/npgsql/npgsql",
+            "stars": 3524,
+            "language": "C#",
+            "keywords": [
+                "Database",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 4,
+            "new_stars_30d": 14,
+            "contributors": 217,
+            "code_line_count": 102479,
+            "last_updated_repo": "2025-08-20T13:19:02Z",
+            "pushed_at": "2025-08-20T09:55:03Z",
+            "date_fetched": "2025-08-22T15:00:58.304419+00:00"
+        },
+        {
+            "id": 2881111,
+            "name": "Fluorohydride/ygopro",
+            "url": "https://github.com/Fluorohydride/ygopro",
+            "stars": 1945,
+            "language": "C++",
+            "keywords": [
+                "CLI",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 49,
+            "code_line_count": 36010,
+            "last_updated_repo": "2025-08-22T08:00:55Z",
+            "pushed_at": "2025-08-22T05:55:06Z",
+            "date_fetched": "2025-08-22T15:01:06.867912+00:00"
+        },
+        {
+            "id": 2884603,
+            "name": "kivy/kivy-ios",
+            "url": "https://github.com/kivy/kivy-ios",
+            "stars": 818,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Data-science",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 81,
+            "code_line_count": 6325,
+            "last_updated_repo": "2025-08-21T06:57:52Z",
+            "pushed_at": "2025-08-11T15:03:07Z",
+            "date_fetched": "2025-08-22T15:01:14.166030+00:00"
+        },
+        {
+            "id": 2882490,
+            "name": "Parchive/par2cmdline",
+            "url": "https://github.com/Parchive/par2cmdline",
+            "stars": 810,
+            "language": "C++",
+            "keywords": [
+                "Tool",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 37,
+            "code_line_count": 21497,
+            "last_updated_repo": "2025-08-20T01:20:47Z",
+            "pushed_at": "2025-08-01T11:39:16Z",
+            "date_fetched": "2025-08-22T15:01:21.547864+00:00"
+        },
+        {
+            "id": 2880217,
+            "name": "genetics-statistics/GEMMA",
+            "url": "https://github.com/genetics-statistics/GEMMA",
+            "stars": 370,
+            "language": "C++",
+            "keywords": [
+                "Devops",
+                "CLI",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 10,
+            "code_line_count": 43521,
+            "last_updated_repo": "2025-08-21T06:35:58Z",
+            "pushed_at": "2025-06-27T11:13:35Z",
+            "date_fetched": "2025-08-22T15:01:30.481249+00:00"
+        },
+        {
+            "id": 2887432,
+            "name": "kazysmaster/gnome-shell-extension-lockkeys",
+            "url": "https://github.com/kazysmaster/gnome-shell-extension-lockkeys",
+            "stars": 176,
+            "language": "JavaScript",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 42,
+            "code_line_count": 518,
+            "last_updated_repo": "2025-08-17T01:16:49Z",
+            "pushed_at": "2025-08-09T09:37:01Z",
+            "date_fetched": "2025-08-22T15:01:37.691960+00:00"
+        },
+        {
+            "id": 2887035,
+            "name": "aspiers/shell-env",
+            "url": "https://github.com/aspiers/shell-env",
+            "stars": 137,
+            "language": "Shell",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "code_line_count": 2625,
+            "last_updated_repo": "2025-08-13T16:46:24Z",
+            "pushed_at": "2025-08-13T16:47:23Z",
+            "date_fetched": "2025-08-22T15:01:44.779646+00:00"
+        },
+        {
+            "id": 2885808,
+            "name": "tallakt/modbus-cli",
+            "url": "https://github.com/tallakt/modbus-cli",
+            "stars": 112,
+            "language": "Ruby",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 9,
+            "code_line_count": 1060,
+            "last_updated_repo": "2025-07-26T19:35:54Z",
+            "pushed_at": "2025-04-20T21:47:05Z",
+            "date_fetched": "2025-08-22T15:01:52.500346+00:00"
+        },
+        {
+            "id": 2886918,
+            "name": "grml/zsh-lovers",
+            "url": "https://github.com/grml/zsh-lovers",
+            "stars": 86,
+            "language": "Makefile",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 10,
+            "code_line_count": 112,
+            "last_updated_repo": "2025-08-16T16:14:28Z",
+            "pushed_at": "2025-08-16T16:17:40Z",
+            "date_fetched": "2025-08-22T15:02:00.478172+00:00"
+        },
+        {
+            "id": 2889328,
+            "name": "WordPress/WordPress",
+            "url": "https://github.com/WordPress/WordPress",
+            "stars": 20417,
+            "language": "PHP",
+            "keywords": [
+                "Database",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 85,
+            "contributors": 126,
+            "code_line_count": 1133909,
+            "last_updated_repo": "2025-08-22T13:50:26Z",
+            "pushed_at": "2025-08-21T15:02:07Z",
+            "date_fetched": "2025-08-22T15:02:15.551892+00:00"
+        },
+        {
+            "id": 2888818,
+            "name": "scala/scala",
+            "url": "https://github.com/scala/scala",
+            "stars": 14403,
+            "language": "Scala",
+            "keywords": [
+                "Framework",
+                "AI",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 16,
+            "contributors": 720,
+            "code_line_count": 586336,
+            "last_updated_repo": "2025-08-22T09:50:35Z",
+            "pushed_at": "2025-08-22T09:50:30Z",
+            "date_fetched": "2025-08-22T15:02:27.307253+00:00"
+        },
+        {
+            "id": 2894555,
+            "name": "dustin10/VichUploaderBundle",
+            "url": "https://github.com/dustin10/VichUploaderBundle",
+            "stars": 1884,
+            "language": "PHP",
+            "keywords": [
+                "PHP"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 222,
+            "code_line_count": 12292,
+            "last_updated_repo": "2025-08-19T02:45:55Z",
+            "pushed_at": "2025-08-18T07:26:51Z",
+            "date_fetched": "2025-08-22T15:02:34.537746+00:00"
+        },
+        {
+            "id": 2890627,
+            "name": "ckan/ckanext-harvest",
+            "url": "https://github.com/ckan/ckanext-harvest",
+            "stars": 139,
+            "language": "Python",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 85,
+            "code_line_count": 11394,
+            "last_updated_repo": "2025-06-09T03:48:50Z",
+            "pushed_at": "2025-03-13T10:35:13Z",
+            "date_fetched": "2025-08-22T15:02:41.652012+00:00"
+        },
+        {
+            "id": 2893713,
+            "name": "chef/mixlib-shellout",
+            "url": "https://github.com/chef/mixlib-shellout",
+            "stars": 133,
+            "language": "Ruby",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 74,
+            "code_line_count": 4407,
+            "last_updated_repo": "2025-06-03T14:29:51Z",
+            "pushed_at": "2025-08-05T20:40:26Z",
+            "date_fetched": "2025-08-22T15:02:49.074880+00:00"
+        },
+        {
+            "id": 2890638,
+            "name": "ckan/ckanext-spatial",
+            "url": "https://github.com/ckan/ckanext-spatial",
+            "stars": 133,
+            "language": "XSLT",
+            "keywords": [
+                "XSLT"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 49,
+            "code_line_count": 33461,
+            "last_updated_repo": "2025-06-26T15:30:37Z",
+            "pushed_at": "2025-06-11T12:22:28Z",
+            "date_fetched": "2025-08-22T15:02:56.950444+00:00"
+        },
+        {
+            "id": 2897853,
+            "name": "burnash/gspread",
+            "url": "https://github.com/burnash/gspread",
+            "stars": 7367,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 25,
+            "contributors": 190,
+            "code_line_count": 173128,
+            "last_updated_repo": "2025-08-22T12:23:43Z",
+            "pushed_at": "2025-08-08T10:28:06Z",
+            "date_fetched": "2025-08-22T15:03:06.720814+00:00"
+        },
+        {
+            "id": 2899580,
+            "name": "AxonFramework/AxonFramework",
+            "url": "https://github.com/AxonFramework/AxonFramework",
+            "stars": 3474,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Web",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 247,
+            "code_line_count": 331336,
+            "last_updated_repo": "2025-08-22T09:15:32Z",
+            "pushed_at": "2025-08-22T14:44:15Z",
+            "date_fetched": "2025-08-22T15:03:18.366861+00:00"
+        },
+        {
+            "id": 2896461,
+            "name": "reactiveui/Akavache",
+            "url": "https://github.com/reactiveui/Akavache",
+            "stars": 2498,
+            "language": "C#",
+            "keywords": [
+                "Database",
+                "Testing",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 58,
+            "code_line_count": 27871,
+            "last_updated_repo": "2025-08-20T14:39:39Z",
+            "pushed_at": "2025-08-18T00:51:23Z",
+            "date_fetched": "2025-08-22T15:03:27.267114+00:00"
+        },
+        {
+            "id": 2899001,
+            "name": "clojure/clojure-clr",
+            "url": "https://github.com/clojure/clojure-clr",
+            "stars": 1597,
+            "language": "C#",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 14,
+            "code_line_count": 140149,
+            "last_updated_repo": "2025-08-15T11:38:44Z",
+            "pushed_at": "2025-07-27T15:03:00Z",
+            "date_fetched": "2025-08-22T15:03:34.891118+00:00"
+        },
+        {
+            "id": 2898239,
+            "name": "amatsuda/active_decorator",
+            "url": "https://github.com/amatsuda/active_decorator",
+            "stars": 1116,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 51,
+            "code_line_count": 1537,
+            "last_updated_repo": "2025-08-22T10:02:38Z",
+            "pushed_at": "2025-08-12T17:16:22Z",
+            "date_fetched": "2025-08-22T15:03:42.050406+00:00"
+        },
+        {
+            "id": 2901792,
+            "name": "yogthos/migratus",
+            "url": "https://github.com/yogthos/migratus",
+            "stars": 669,
+            "language": "Clojure",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 79,
+            "code_line_count": 3102,
+            "last_updated_repo": "2025-08-19T07:44:22Z",
+            "pushed_at": "2025-06-11T19:35:04Z",
+            "date_fetched": "2025-08-22T15:03:49.150555+00:00"
+        },
+        {
+            "id": 2895402,
+            "name": "mate-desktop/mate-desktop",
+            "url": "https://github.com/mate-desktop/mate-desktop",
+            "stars": 489,
+            "language": "C",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 61,
+            "code_line_count": 25829,
+            "last_updated_repo": "2025-08-18T11:01:18Z",
+            "pushed_at": "2025-07-05T04:06:15Z",
+            "date_fetched": "2025-08-22T15:03:56.986141+00:00"
+        },
+        {
+            "id": 2895569,
+            "name": "AcademySoftwareFoundation/openfx",
+            "url": "https://github.com/AcademySoftwareFoundation/openfx",
+            "stars": 472,
+            "language": "C++",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 2,
+            "new_stars_30d": 4,
+            "contributors": 25,
+            "code_line_count": 58084,
+            "last_updated_repo": "2025-08-21T15:50:20Z",
+            "pushed_at": "2025-08-21T15:50:14Z",
+            "date_fetched": "2025-08-22T15:04:05.341083+00:00"
+        },
+        {
+            "id": 2901814,
+            "name": "seveas/python-hpilo",
+            "url": "https://github.com/seveas/python-hpilo",
+            "stars": 332,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Web",
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 43,
+            "code_line_count": 3856,
+            "last_updated_repo": "2025-07-18T15:52:47Z",
+            "pushed_at": "2025-06-26T09:23:40Z",
+            "date_fetched": "2025-08-22T15:04:13.011929+00:00"
+        },
+        {
+            "id": 2895474,
+            "name": "mate-desktop/caja",
+            "url": "https://github.com/mate-desktop/caja",
+            "stars": 293,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 107,
+            "code_line_count": 191572,
+            "last_updated_repo": "2025-08-10T07:15:53Z",
+            "pushed_at": "2025-08-12T01:02:59Z",
+            "date_fetched": "2025-08-22T15:04:23.011023+00:00"
+        },
+        {
+            "id": 2895909,
+            "name": "mate-desktop/marco",
+            "url": "https://github.com/mate-desktop/marco",
+            "stars": 208,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 93,
+            "code_line_count": 94673,
+            "last_updated_repo": "2025-08-21T03:29:56Z",
+            "pushed_at": "2025-08-21T03:29:53Z",
+            "date_fetched": "2025-08-22T15:04:30.576689+00:00"
+        },
+        {
+            "id": 2895636,
+            "name": "mate-desktop/mate-panel",
+            "url": "https://github.com/mate-desktop/mate-panel",
+            "stars": 196,
+            "language": "C",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 95,
+            "code_line_count": 82259,
+            "last_updated_repo": "2025-08-12T13:36:57Z",
+            "pushed_at": "2025-08-14T13:38:35Z",
+            "date_fetched": "2025-08-22T15:04:38.365306+00:00"
+        },
+        {
+            "id": 2902362,
+            "name": "myint/perceptualdiff",
+            "url": "https://github.com/myint/perceptualdiff",
+            "stars": 173,
+            "language": "C++",
+            "keywords": [
+                "CLI",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 12,
+            "code_line_count": 1844,
+            "last_updated_repo": "2025-08-18T23:00:32Z",
+            "pushed_at": "2025-04-12T13:10:20Z",
+            "date_fetched": "2025-08-22T15:04:45.424126+00:00"
+        },
+        {
+            "id": 2895869,
+            "name": "mate-desktop/mate-themes",
+            "url": "https://github.com/mate-desktop/mate-themes",
+            "stars": 77,
+            "language": "CSS",
+            "keywords": [
+                "CSS"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 40,
+            "code_line_count": 153340,
+            "last_updated_repo": "2025-08-19T14:41:17Z",
+            "pushed_at": "2025-08-19T14:41:08Z",
+            "date_fetched": "2025-08-22T15:04:53.703462+00:00"
+        },
+        {
+            "id": 2895331,
+            "name": "mate-desktop/mate-control-center",
+            "url": "https://github.com/mate-desktop/mate-control-center",
+            "stars": 71,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 70,
+            "code_line_count": 50541,
+            "last_updated_repo": "2025-08-22T07:43:18Z",
+            "pushed_at": "2025-08-22T07:43:16Z",
+            "date_fetched": "2025-08-22T15:05:02.391487+00:00"
+        },
+        {
+            "id": 2907031,
+            "name": "Cockatrice/Cockatrice",
+            "url": "https://github.com/Cockatrice/Cockatrice",
+            "stars": 1678,
+            "language": "C++",
+            "keywords": [
+                "Web",
+                "Game",
+                "Testing"
+            ],
+            "new_open_issues": 5,
+            "new_stars_30d": 16,
+            "contributors": 172,
+            "code_line_count": 423768,
+            "last_updated_repo": "2025-08-21T22:33:13Z",
+            "pushed_at": "2025-08-18T22:16:37Z",
+            "date_fetched": "2025-08-22T15:05:15.559085+00:00"
+        },
+        {
+            "id": 2906359,
+            "name": "wikimedia/ws-export",
+            "url": "https://github.com/wikimedia/ws-export",
+            "stars": 83,
+            "language": "PHP",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 31,
+            "code_line_count": 16387,
+            "last_updated_repo": "2025-08-19T02:01:00Z",
+            "pushed_at": "2025-08-19T02:00:26Z",
+            "date_fetched": "2025-08-22T15:05:23.514737+00:00"
+        },
+        {
+            "id": 2909429,
+            "name": "nicolargo/glances",
+            "url": "https://github.com/nicolargo/glances",
+            "stars": 29604,
+            "language": "Python",
+            "keywords": [
+                "CLI",
+                "Web",
+                "Devops"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 199,
+            "contributors": 205,
+            "code_line_count": 48705,
+            "last_updated_repo": "2025-08-22T14:56:35Z",
+            "pushed_at": "2025-08-17T16:34:38Z",
+            "date_fetched": "2025-08-22T15:05:35.041888+00:00"
+        },
+        {
+            "id": 2908546,
+            "name": "jhurliman/node-rate-limiter",
+            "url": "https://github.com/jhurliman/node-rate-limiter",
+            "stars": 1546,
+            "language": "TypeScript",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 17,
+            "code_line_count": 625,
+            "last_updated_repo": "2025-08-08T10:28:21Z",
+            "pushed_at": "2025-05-08T04:16:29Z",
+            "date_fetched": "2025-08-22T15:05:42.152988+00:00"
+        },
+        {
+            "id": 2910860,
+            "name": "m-labs/migen",
+            "url": "https://github.com/m-labs/migen",
+            "stars": 1301,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 82,
+            "code_line_count": 7314,
+            "last_updated_repo": "2025-08-21T11:31:43Z",
+            "pushed_at": "2025-06-10T08:42:32Z",
+            "date_fetched": "2025-08-22T15:05:49.375910+00:00"
+        },
+        {
+            "id": 2909826,
+            "name": "stephpy/timeline-bundle",
+            "url": "https://github.com/stephpy/timeline-bundle",
+            "stars": 192,
+            "language": "PHP",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 38,
+            "code_line_count": 4647,
+            "last_updated_repo": "2025-07-24T22:10:39Z",
+            "pushed_at": "2025-07-24T22:12:06Z",
+            "date_fetched": "2025-08-22T15:05:56.469580+00:00"
+        },
+        {
+            "id": 2911292,
+            "name": "abantecart/abantecart-src",
+            "url": "https://github.com/abantecart/abantecart-src",
+            "stars": 149,
+            "language": "PHP",
+            "keywords": [
+                "Security",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 26,
+            "code_line_count": 1148133,
+            "last_updated_repo": "2025-08-15T04:35:42Z",
+            "pushed_at": "2025-08-22T11:32:36Z",
+            "date_fetched": "2025-08-22T15:06:07.511732+00:00"
+        },
+        {
+            "id": 2909723,
+            "name": "UweTrottmann/trakt-java",
+            "url": "https://github.com/UweTrottmann/trakt-java",
+            "stars": 100,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Mobile",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 25,
+            "code_line_count": 11123,
+            "last_updated_repo": "2025-08-13T11:09:25Z",
+            "pushed_at": "2025-04-01T10:43:13Z",
+            "date_fetched": "2025-08-22T15:06:15.175385+00:00"
+        },
+        {
+            "id": 2918243,
+            "name": "interconnectit/Search-Replace-DB",
+            "url": "https://github.com/interconnectit/Search-Replace-DB",
+            "stars": 4055,
+            "language": "PHP",
+            "keywords": [
+                "CLI",
+                "Security",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 48,
+            "code_line_count": 9406,
+            "last_updated_repo": "2025-08-22T12:07:13Z",
+            "pushed_at": "2025-04-11T18:06:07Z",
+            "date_fetched": "2025-08-22T15:06:24.290040+00:00"
+        },
+        {
+            "id": 2913579,
+            "name": "pymodbus-dev/pymodbus",
+            "url": "https://github.com/pymodbus-dev/pymodbus",
+            "stars": 2526,
+            "language": "Python",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 181,
+            "code_line_count": 23163,
+            "last_updated_repo": "2025-08-22T01:10:11Z",
+            "pushed_at": "2025-08-12T14:40:23Z",
+            "date_fetched": "2025-08-22T15:06:34.317375+00:00"
+        },
+        {
+            "id": 2915576,
+            "name": "tarantool/tarantool-python",
+            "url": "https://github.com/tarantool/tarantool-python",
+            "stars": 105,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 46,
+            "code_line_count": 23274,
+            "last_updated_repo": "2025-08-03T08:13:13Z",
+            "pushed_at": "2025-04-10T10:37:52Z",
+            "date_fetched": "2025-08-22T15:06:42.091814+00:00"
+        },
+        {
+            "id": 2923236,
+            "name": "lightbend/config",
+            "url": "https://github.com/lightbend/config",
+            "stars": 6257,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 9,
+            "contributors": 111,
+            "code_line_count": 30566,
+            "last_updated_repo": "2025-08-14T00:09:12Z",
+            "pushed_at": "2025-07-10T06:27:10Z",
+            "date_fetched": "2025-08-22T15:06:51.262362+00:00"
+        },
+        {
+            "id": 2928944,
+            "name": "Azure/azure-sdk-for-net",
+            "url": "https://github.com/Azure/azure-sdk-for-net",
+            "stars": 5840,
+            "language": "C#",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1947,
+            "code_line_count": 16732181,
+            "last_updated_repo": "2025-08-22T08:55:00Z",
+            "pushed_at": "2025-08-22T14:06:27Z",
+            "date_fetched": "2025-08-22T15:07:50.311401+00:00"
+        },
+        {
+            "id": 2928534,
+            "name": "HexFiend/HexFiend",
+            "url": "https://github.com/HexFiend/HexFiend",
+            "stars": 5663,
+            "language": "Objective-C",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 26,
+            "contributors": 82,
+            "code_line_count": 69256,
+            "last_updated_repo": "2025-08-22T06:36:16Z",
+            "pushed_at": "2025-06-29T18:26:33Z",
+            "date_fetched": "2025-08-22T15:07:58.246088+00:00"
+        },
+        {
+            "id": 2928164,
+            "name": "NixOS/patchelf",
+            "url": "https://github.com/NixOS/patchelf",
+            "stars": 3974,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "Testing",
+                "Framework"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 37,
+            "contributors": 99,
+            "code_line_count": 6421,
+            "last_updated_repo": "2025-08-22T11:07:42Z",
+            "pushed_at": "2025-08-21T07:48:45Z",
+            "date_fetched": "2025-08-22T15:08:07.745685+00:00"
+        },
+        {
+            "id": 2928948,
+            "name": "Azure/azure-sdk-for-java",
+            "url": "https://github.com/Azure/azure-sdk-for-java",
+            "stars": 2515,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 782,
+            "code_line_count": 16569725,
+            "last_updated_repo": "2025-08-22T06:54:01Z",
+            "pushed_at": "2025-08-22T08:23:02Z",
+            "date_fetched": "2025-08-22T15:09:00.148009+00:00"
+        },
+        {
+            "id": 2925862,
+            "name": "adafruit/Fritzing-Library",
+            "url": "https://github.com/adafruit/Fritzing-Library",
+            "stars": 1862,
+            "language": null,
+            "keywords": [
+                "Framework",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 10,
+            "contributors": 18,
+            "code_line_count": 44,
+            "last_updated_repo": "2025-08-20T01:13:02Z",
+            "pushed_at": "2025-08-14T14:03:58Z",
+            "date_fetched": "2025-08-22T15:09:11.186361+00:00"
+        },
+        {
+            "id": 2925284,
+            "name": "fent/randexp.js",
+            "url": "https://github.com/fent/randexp.js",
+            "stars": 1858,
+            "language": "JavaScript",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 12,
+            "code_line_count": 6876,
+            "last_updated_repo": "2025-08-09T08:01:24Z",
+            "pushed_at": "2025-03-05T22:11:07Z",
+            "date_fetched": "2025-08-22T15:09:18.714213+00:00"
+        },
+        {
+            "id": 2925338,
+            "name": "audacious-media-player/audacious",
+            "url": "https://github.com/audacious-media-player/audacious",
+            "stars": 1031,
+            "language": "C++",
+            "keywords": [
+                "C++"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 10,
+            "contributors": 123,
+            "code_line_count": 13495,
+            "last_updated_repo": "2025-08-21T14:16:43Z",
+            "pushed_at": "2025-08-20T10:44:51Z",
+            "date_fetched": "2025-08-22T15:09:28.257790+00:00"
+        },
+        {
+            "id": 2928790,
+            "name": "ms-ati/docile",
+            "url": "https://github.com/ms-ati/docile",
+            "stars": 423,
+            "language": "Ruby",
+            "keywords": [
+                "Ruby"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 24,
+            "code_line_count": 1098,
+            "last_updated_repo": "2025-08-16T21:09:55Z",
+            "pushed_at": "2025-08-21T11:31:00Z",
+            "date_fetched": "2025-08-22T15:09:35.498487+00:00"
+        },
+        {
+            "id": 2924861,
+            "name": "gramoli/synchrobench",
+            "url": "https://github.com/gramoli/synchrobench",
+            "stars": 344,
+            "language": "Java",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 16,
+            "code_line_count": 161848,
+            "last_updated_repo": "2025-08-09T06:12:19Z",
+            "pushed_at": "2025-07-03T11:45:52Z",
+            "date_fetched": "2025-08-22T15:09:42.911026+00:00"
+        },
+        {
+            "id": 2926406,
+            "name": "LxMLS/lxmls-toolkit",
+            "url": "https://github.com/LxMLS/lxmls-toolkit",
+            "stars": 226,
+            "language": "Jupyter Notebook",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 49,
+            "code_line_count": 8818,
+            "last_updated_repo": "2025-07-30T14:04:42Z",
+            "pushed_at": "2025-07-25T11:36:39Z",
+            "date_fetched": "2025-08-22T15:09:52.197456+00:00"
+        },
+        {
+            "id": 2926159,
+            "name": "audacious-media-player/audacious-plugins",
+            "url": "https://github.com/audacious-media-player/audacious-plugins",
+            "stars": 198,
+            "language": "C++",
+            "keywords": [
+                "C++"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 156,
+            "code_line_count": 35103,
+            "last_updated_repo": "2025-08-13T08:33:59Z",
+            "pushed_at": "2025-08-12T23:18:23Z",
+            "date_fetched": "2025-08-22T15:10:02.059165+00:00"
+        },
+        {
+            "id": 2928893,
+            "name": "npm/read",
+            "url": "https://github.com/npm/read",
+            "stars": 194,
+            "language": "TypeScript",
+            "keywords": [
+                "TypeScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 13,
+            "code_line_count": 1631,
+            "last_updated_repo": "2025-07-26T03:26:57Z",
+            "pushed_at": "2025-07-09T15:06:58Z",
+            "date_fetched": "2025-08-22T15:10:10.035364+00:00"
+        },
+        {
+            "id": 2924708,
+            "name": "own-pt/openWordnet-PT",
+            "url": "https://github.com/own-pt/openWordnet-PT",
+            "stars": 156,
+            "language": "Shell",
+            "keywords": [
+                "Framework",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 8,
+            "code_line_count": 67,
+            "last_updated_repo": "2025-07-24T22:41:24Z",
+            "pushed_at": "2025-07-24T22:41:10Z",
+            "date_fetched": "2025-08-22T15:11:58.614530+00:00"
+        },
+        {
+            "id": 2926106,
+            "name": "nelmio/NelmioSolariumBundle",
+            "url": "https://github.com/nelmio/NelmioSolariumBundle",
+            "stars": 149,
+            "language": "PHP",
+            "keywords": [
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 28,
+            "code_line_count": 1303,
+            "last_updated_repo": "2025-02-25T07:26:45Z",
+            "pushed_at": "2025-02-25T07:27:08Z",
+            "date_fetched": "2025-08-22T15:12:06.334091+00:00"
+        },
+        {
+            "id": 2924705,
+            "name": "JetBrains/teamcity-messages",
+            "url": "https://github.com/JetBrains/teamcity-messages",
+            "stars": 138,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 42,
+            "code_line_count": 7379,
+            "last_updated_repo": "2025-06-30T09:54:27Z",
+            "pushed_at": "2025-06-30T09:54:22Z",
+            "date_fetched": "2025-08-22T15:12:14.094405+00:00"
+        },
+        {
+            "id": 2928883,
+            "name": "erikd/http-proxy",
+            "url": "https://github.com/erikd/http-proxy",
+            "stars": 56,
+            "language": "Haskell",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 6,
+            "code_line_count": 1245,
+            "last_updated_repo": "2025-07-09T02:35:38Z",
+            "pushed_at": "2025-07-09T02:35:34Z",
+            "date_fetched": "2025-08-22T15:12:21.128500+00:00"
+        },
+        {
+            "id": 2931111,
+            "name": "chaijs/chai",
+            "url": "https://github.com/chaijs/chai",
+            "stars": 8234,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 14,
+            "contributors": 191,
+            "code_line_count": 31027,
+            "last_updated_repo": "2025-08-22T09:25:05Z",
+            "pushed_at": "2025-08-22T09:26:25Z",
+            "date_fetched": "2025-08-22T15:12:29.820466+00:00"
+        },
+        {
+            "id": 2934512,
+            "name": "mpmath/mpmath",
+            "url": "https://github.com/mpmath/mpmath",
+            "stars": 1038,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 70,
+            "code_line_count": 62843,
+            "last_updated_repo": "2025-08-20T11:57:22Z",
+            "pushed_at": "2025-08-20T02:27:40Z",
+            "date_fetched": "2025-08-22T15:12:37.270029+00:00"
+        },
+        {
+            "id": 2930503,
+            "name": "sumoheavy/jira-ruby",
+            "url": "https://github.com/sumoheavy/jira-ruby",
+            "stars": 666,
+            "language": "Ruby",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 126,
+            "code_line_count": 11765,
+            "last_updated_repo": "2025-07-27T09:21:23Z",
+            "pushed_at": "2025-03-11T23:16:07Z",
+            "date_fetched": "2025-08-22T15:12:44.557834+00:00"
+        },
+        {
+            "id": 2935891,
+            "name": "zed-0xff/pedump",
+            "url": "https://github.com/zed-0xff/pedump",
+            "stars": 318,
+            "language": "Ruby",
+            "keywords": [
+                "CLI",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 6,
+            "code_line_count": 12653,
+            "last_updated_repo": "2025-07-31T05:43:03Z",
+            "pushed_at": "2025-07-28T01:54:57Z",
+            "date_fetched": "2025-08-22T15:12:51.922066+00:00"
+        },
+        {
+            "id": 2930875,
+            "name": "tristandunn/pusher-fake",
+            "url": "https://github.com/tristandunn/pusher-fake",
+            "stars": 174,
+            "language": "Ruby",
+            "keywords": [
+                "Devops",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 15,
+            "code_line_count": 4096,
+            "last_updated_repo": "2025-08-19T02:08:50Z",
+            "pushed_at": "2025-07-02T03:07:58Z",
+            "date_fetched": "2025-08-22T15:12:59.027402+00:00"
+        },
+        {
+            "id": 2930244,
+            "name": "aspiers/smooth-scrolling",
+            "url": "https://github.com/aspiers/smooth-scrolling",
+            "stars": 107,
+            "language": "Emacs Lisp",
+            "keywords": [
+                "Emacs Lisp"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "code_line_count": 0,
+            "last_updated_repo": "2025-03-01T19:01:42Z",
+            "pushed_at": "2025-03-01T17:35:25Z",
+            "date_fetched": "2025-08-22T15:13:06.151616+00:00"
+        },
+        {
+            "id": 2932773,
+            "name": "camptocamp/c2cgeoportal",
+            "url": "https://github.com/camptocamp/c2cgeoportal",
+            "stars": 65,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Web"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 0,
+            "contributors": 60,
+            "code_line_count": 83557,
+            "last_updated_repo": "2025-08-21T23:36:44Z",
+            "pushed_at": "2025-08-22T07:37:31Z",
+            "date_fetched": "2025-08-22T15:13:17.790471+00:00"
+        },
+        {
+            "id": 2938270,
+            "name": "tardis-sn/tardis",
+            "url": "https://github.com/tardis-sn/tardis",
+            "stars": 222,
+            "language": "Python",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 8,
+            "new_stars_30d": 1,
+            "contributors": 118,
+            "code_line_count": 90988,
+            "last_updated_repo": "2025-08-19T16:33:16Z",
+            "pushed_at": "2025-08-22T13:49:36Z",
+            "date_fetched": "2025-08-22T15:13:31.072374+00:00"
+        },
+        {
+            "id": 2940635,
+            "name": "capensis/canopsis",
+            "url": "https://github.com/capensis/canopsis",
+            "stars": 102,
+            "language": "Go",
+            "keywords": [
+                "Go"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 43,
+            "code_line_count": 545296,
+            "last_updated_repo": "2025-08-13T23:08:14Z",
+            "pushed_at": "2025-08-13T23:08:08Z",
+            "date_fetched": "2025-08-22T15:13:43.504419+00:00"
+        },
+        {
+            "id": 2939969,
+            "name": "amitdev/PMD-Intellij",
+            "url": "https://github.com/amitdev/PMD-Intellij",
+            "stars": 73,
+            "language": "Java",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 20,
+            "code_line_count": 7884,
+            "last_updated_repo": "2025-08-10T05:22:48Z",
+            "pushed_at": "2025-08-21T12:34:52Z",
+            "date_fetched": "2025-08-22T15:13:50.700497+00:00"
+        },
+        {
+            "id": 2943077,
+            "name": "mat/dotfiles",
+            "url": "https://github.com/mat/dotfiles",
+            "stars": 70,
+            "language": "Shell",
+            "keywords": [
+                "Shell"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "code_line_count": 367,
+            "last_updated_repo": "2025-07-19T18:50:43Z",
+            "pushed_at": "2025-07-19T18:50:39Z",
+            "date_fetched": "2025-08-22T15:13:59.873209+00:00"
+        },
+        {
+            "id": 2948347,
+            "name": "db-migrate/node-db-migrate",
+            "url": "https://github.com/db-migrate/node-db-migrate",
+            "stars": 2344,
+            "language": "JavaScript",
+            "keywords": [
+                "Database",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 123,
+            "code_line_count": 13065,
+            "last_updated_repo": "2025-08-17T09:22:24Z",
+            "pushed_at": "2025-08-04T08:05:33Z",
+            "date_fetched": "2025-08-22T15:14:08.532124+00:00"
+        },
+        {
+            "id": 2944302,
+            "name": "wiredtiger/wiredtiger",
+            "url": "https://github.com/wiredtiger/wiredtiger",
+            "stars": 2322,
+            "language": "C",
+            "keywords": [
+                "C"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 106,
+            "code_line_count": 537174,
+            "last_updated_repo": "2025-08-22T10:31:41Z",
+            "pushed_at": "2025-08-22T10:31:38Z",
+            "date_fetched": "2025-08-22T15:14:21.601310+00:00"
+        },
+        {
+            "id": 2948949,
+            "name": "BroadleafCommerce/BroadleafCommerce",
+            "url": "https://github.com/BroadleafCommerce/BroadleafCommerce",
+            "stars": 1798,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 129,
+            "code_line_count": 498991,
+            "last_updated_repo": "2025-08-21T03:13:02Z",
+            "pushed_at": "2025-08-15T20:04:43Z",
+            "date_fetched": "2025-08-22T15:14:31.055944+00:00"
+        },
+        {
+            "id": 2948043,
+            "name": "resteasy/resteasy",
+            "url": "https://github.com/resteasy/resteasy",
+            "stars": 1124,
+            "language": "Java",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 292,
+            "code_line_count": 346226,
+            "last_updated_repo": "2025-08-13T20:20:20Z",
+            "pushed_at": "2025-08-21T07:46:07Z",
+            "date_fetched": "2025-08-22T15:14:39.485530+00:00"
+        },
+        {
+            "id": 2945543,
+            "name": "editorconfig/editorconfig-notepad-plus-plus",
+            "url": "https://github.com/editorconfig/editorconfig-notepad-plus-plus",
+            "stars": 206,
+            "language": "C++",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 11,
+            "code_line_count": 4038,
+            "last_updated_repo": "2025-07-09T14:43:54Z",
+            "pushed_at": "2025-04-21T07:25:35Z",
+            "date_fetched": "2025-08-22T15:14:46.643036+00:00"
+        },
+        {
+            "id": 2944707,
+            "name": "muffinista/gopher2000",
+            "url": "https://github.com/muffinista/gopher2000",
+            "stars": 80,
+            "language": "Ruby",
+            "keywords": [
+                "CLI",
+                "Web",
+                "Devops"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 4,
+            "code_line_count": 3883,
+            "last_updated_repo": "2025-08-03T19:35:02Z",
+            "pushed_at": "2025-06-30T00:03:51Z",
+            "date_fetched": "2025-08-22T15:14:53.775231+00:00"
+        },
+        {
+            "id": 2945916,
+            "name": "apache/james-mime4j",
+            "url": "https://github.com/apache/james-mime4j",
+            "stars": 55,
+            "language": "Java",
+            "keywords": [
+                "Devops",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 44,
+            "code_line_count": 59478,
+            "last_updated_repo": "2025-08-13T11:09:25Z",
+            "pushed_at": "2025-07-18T06:16:33Z",
+            "date_fetched": "2025-08-22T15:15:01.191576+00:00"
+        },
+        {
+            "id": 2951284,
+            "name": "schweikert/fping",
+            "url": "https://github.com/schweikert/fping",
+            "stars": 1122,
+            "language": "C",
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 10,
+            "contributors": 57,
+            "code_line_count": 8094,
+            "last_updated_repo": "2025-08-22T06:29:49Z",
+            "pushed_at": "2025-08-22T06:29:46Z",
+            "date_fetched": "2025-08-22T15:15:09.675362+00:00"
+        },
+        {
+            "id": 2954583,
+            "name": "camptocamp/tilecloud",
+            "url": "https://github.com/camptocamp/tilecloud",
+            "stars": 232,
+            "language": "Python",
+            "keywords": [
+                "Tool",
+                "Web",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 25,
+            "code_line_count": 7066,
+            "last_updated_repo": "2025-08-22T12:50:09Z",
+            "pushed_at": "2025-08-22T07:04:06Z",
+            "date_fetched": "2025-08-22T15:15:17.069951+00:00"
+        },
+        {
+            "id": 2954827,
+            "name": "sous-chefs/ruby_build",
+            "url": "https://github.com/sous-chefs/ruby_build",
+            "stars": 122,
+            "language": "Ruby",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 30,
+            "code_line_count": 768,
+            "last_updated_repo": "2025-07-27T09:51:23Z",
+            "pushed_at": "2025-08-20T14:54:54Z",
+            "date_fetched": "2025-08-22T15:15:24.918200+00:00"
+        },
+        {
+            "id": 2956839,
+            "name": "snoyberg/conduit",
+            "url": "https://github.com/snoyberg/conduit",
+            "stars": 919,
+            "language": "Haskell",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 166,
+            "code_line_count": 18867,
+            "last_updated_repo": "2025-08-16T12:50:27Z",
+            "pushed_at": "2025-06-26T05:53:23Z",
+            "date_fetched": "2025-08-22T15:15:34.039163+00:00"
+        },
+        {
+            "id": 2959446,
+            "name": "sous-chefs/elasticsearch",
+            "url": "https://github.com/sous-chefs/elasticsearch",
+            "stars": 877,
+            "language": "Ruby",
+            "keywords": [
+                "CLI",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 56,
+            "code_line_count": 3170,
+            "last_updated_repo": "2025-07-17T16:49:20Z",
+            "pushed_at": "2025-08-20T14:54:07Z",
+            "date_fetched": "2025-08-22T15:15:41.270829+00:00"
+        },
+        {
+            "id": 2958142,
+            "name": "fsprojects/FsUnit",
+            "url": "https://github.com/fsprojects/FsUnit",
+            "stars": 442,
+            "language": "F#",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 43,
+            "code_line_count": 259,
+            "last_updated_repo": "2025-08-07T20:29:50Z",
+            "pushed_at": "2025-07-11T09:10:57Z",
+            "date_fetched": "2025-08-22T15:15:48.514605+00:00"
+        },
+        {
+            "id": 2960310,
+            "name": "m-labs/misoc",
+            "url": "https://github.com/m-labs/misoc",
+            "stars": 333,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 38,
+            "code_line_count": 57260,
+            "last_updated_repo": "2025-08-13T10:03:06Z",
+            "pushed_at": "2025-08-13T10:03:02Z",
+            "date_fetched": "2025-08-22T15:15:55.838465+00:00"
+        },
+        {
+            "id": 2960493,
+            "name": "ankane/anomaly",
+            "url": "https://github.com/ankane/anomaly",
+            "stars": 103,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 3,
+            "code_line_count": 274,
+            "last_updated_repo": "2025-08-10T05:06:30Z",
+            "pushed_at": "2025-04-20T09:58:19Z",
+            "date_fetched": "2025-08-22T15:16:02.986035+00:00"
+        },
+        {
+            "id": 2958353,
+            "name": "dimitri/pgextwlist",
+            "url": "https://github.com/dimitri/pgextwlist",
+            "stars": 97,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 17,
+            "code_line_count": 1395,
+            "last_updated_repo": "2025-07-06T17:37:32Z",
+            "pushed_at": "2025-06-12T12:54:39Z",
+            "date_fetched": "2025-08-22T15:16:10.076211+00:00"
+        },
+        {
+            "id": 2957873,
+            "name": "mate-desktop/mate-power-manager",
+            "url": "https://github.com/mate-desktop/mate-power-manager",
+            "stars": 62,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "AI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 56,
+            "code_line_count": 23762,
+            "last_updated_repo": "2025-06-10T19:55:02Z",
+            "pushed_at": "2025-07-22T13:57:26Z",
+            "date_fetched": "2025-08-22T15:16:18.395520+00:00"
+        },
+        {
+            "id": 2960985,
+            "name": "gka/chroma.js",
+            "url": "https://github.com/gka/chroma.js",
+            "stars": 10434,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 20,
+            "contributors": 40,
+            "code_line_count": 29031,
+            "last_updated_repo": "2025-08-22T11:35:13Z",
+            "pushed_at": "2025-07-21T05:37:49Z",
+            "date_fetched": "2025-08-22T15:16:27.527707+00:00"
+        },
+        {
+            "id": 2965621,
+            "name": "marionettejs/backbone.marionette",
+            "url": "https://github.com/marionettejs/backbone.marionette",
+            "stars": 7047,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 373,
+            "code_line_count": 22707,
+            "last_updated_repo": "2025-08-15T20:08:09Z",
+            "pushed_at": "2025-04-03T17:55:22Z",
+            "date_fetched": "2025-08-22T15:16:35.641288+00:00"
+        },
+        {
+            "id": 2968000,
+            "name": "snarfed/bridgy",
+            "url": "https://github.com/snarfed/bridgy",
+            "stars": 797,
+            "language": "Python",
+            "keywords": [
+                "CLI",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 25,
+            "code_line_count": 27069,
+            "last_updated_repo": "2025-08-19T22:02:49Z",
+            "pushed_at": "2025-08-14T21:07:13Z",
+            "date_fetched": "2025-08-22T15:16:42.873577+00:00"
+        },
+        {
+            "id": 2967233,
+            "name": "DataDog/documentation",
+            "url": "https://github.com/DataDog/documentation",
+            "stars": 537,
+            "language": "HTML",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 2585,
+            "code_line_count": 4674421,
+            "last_updated_repo": "2025-08-22T14:49:57Z",
+            "pushed_at": "2025-08-22T15:08:10Z",
+            "date_fetched": "2025-08-22T15:17:59.747345+00:00"
+        },
+        {
+            "id": 2966609,
+            "name": "zzzprojects/System.Linq.Dynamic",
+            "url": "https://github.com/zzzprojects/System.Linq.Dynamic",
+            "stars": 423,
+            "language": null,
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 13,
+            "code_line_count": 2,
+            "last_updated_repo": "2025-07-24T13:21:12Z",
+            "pushed_at": "2025-06-01T15:18:27Z",
+            "date_fetched": "2025-08-22T15:18:07.460615+00:00"
+        },
+        {
+            "id": 2966071,
+            "name": "jeremyevans/ruby-american_date",
+            "url": "https://github.com/jeremyevans/ruby-american_date",
+            "stars": 108,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 4,
+            "code_line_count": 464,
+            "last_updated_repo": "2025-08-08T17:00:49Z",
+            "pushed_at": "2025-05-22T03:41:47Z",
+            "date_fetched": "2025-08-22T15:18:15.107897+00:00"
+        },
+        {
+            "id": 2963310,
+            "name": "Kazade/simulant-engine",
+            "url": "https://github.com/Kazade/simulant-engine",
+            "stars": 82,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Game",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 12,
+            "code_line_count": 128261,
+            "last_updated_repo": "2025-08-09T22:44:31Z",
+            "pushed_at": "2025-08-06T21:18:29Z",
+            "date_fetched": "2025-08-22T15:18:26.008321+00:00"
+        },
+        {
+            "id": 2970982,
+            "name": "laruence/yaf",
+            "url": "https://github.com/laruence/yaf",
+            "stars": 4522,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 36,
+            "code_line_count": 21577,
+            "last_updated_repo": "2025-08-21T18:36:17Z",
+            "pushed_at": "2025-08-15T08:49:53Z",
+            "date_fetched": "2025-08-22T15:18:34.499251+00:00"
+        },
+        {
+            "id": 2976235,
+            "name": "linkeddata/rdflib.js",
+            "url": "https://github.com/linkeddata/rdflib.js",
+            "stars": 579,
+            "language": "HTML",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 61,
+            "code_line_count": 52935,
+            "last_updated_repo": "2025-08-05T03:24:58Z",
+            "pushed_at": "2025-08-21T15:14:51Z",
+            "date_fetched": "2025-08-22T15:18:41.812899+00:00"
+        },
+        {
+            "id": 2974920,
+            "name": "bahamas10/dotfiles",
+            "url": "https://github.com/bahamas10/dotfiles",
+            "stars": 204,
+            "language": "Vim Script",
+            "keywords": [
+                "Vim Script"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 7,
+            "contributors": 2,
+            "code_line_count": 0,
+            "last_updated_repo": "2025-08-18T13:57:12Z",
+            "pushed_at": "2025-06-27T15:54:40Z",
+            "date_fetched": "2025-08-22T15:18:48.851481+00:00"
+        },
+        {
+            "id": 2971493,
+            "name": "thewca/wca-regulations",
+            "url": "https://github.com/thewca/wca-regulations",
+            "stars": 117,
+            "language": null,
+            "keywords": [
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 47,
+            "code_line_count": 103,
+            "last_updated_repo": "2025-07-27T09:33:43Z",
+            "pushed_at": "2025-07-19T15:12:23Z",
+            "date_fetched": "2025-08-22T15:18:55.994579+00:00"
+        },
+        {
+            "id": 2974834,
+            "name": "qbwc/qbwc",
+            "url": "https://github.com/qbwc/qbwc",
+            "stars": 102,
+            "language": "Ruby",
+            "keywords": [
+                "Database",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 13,
+            "code_line_count": 2652,
+            "last_updated_repo": "2025-08-02T04:49:07Z",
+            "pushed_at": "2025-06-04T17:45:21Z",
+            "date_fetched": "2025-08-22T15:19:03.102703+00:00"
+        },
+        {
+            "id": 2968696,
+            "name": "liferay/git-tools",
+            "url": "https://github.com/liferay/git-tools",
+            "stars": 88,
+            "language": "Python",
+            "keywords": [
+                "Python"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 13,
+            "code_line_count": 2187,
+            "last_updated_repo": "2025-06-10T22:07:24Z",
+            "pushed_at": "2025-03-11T11:29:29Z",
+            "date_fetched": "2025-08-22T15:19:10.823265+00:00"
+        },
+        {
+            "id": 2975554,
+            "name": "opennorth/represent-canada",
+            "url": "https://github.com/opennorth/represent-canada",
+            "stars": 70,
+            "language": "HTML",
+            "keywords": [
+                "Database",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 7,
+            "code_line_count": 2599,
+            "last_updated_repo": "2025-07-17T00:30:40Z",
+            "pushed_at": "2025-06-16T14:45:43Z",
+            "date_fetched": "2025-08-22T15:19:18.594076+00:00"
+        },
+        {
+            "id": 2981455,
+            "name": "github/gemoji",
+            "url": "https://github.com/github/gemoji",
+            "stars": 4467,
+            "language": "Ruby",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 6,
+            "contributors": 45,
+            "code_line_count": 24406,
+            "last_updated_repo": "2025-08-18T09:05:19Z",
+            "pushed_at": "2025-08-18T08:18:00Z",
+            "date_fetched": "2025-08-22T15:19:27.796140+00:00"
+        },
+        {
+            "id": 2984156,
+            "name": "AltraMayor/f3",
+            "url": "https://github.com/AltraMayor/f3",
+            "stars": 2908,
+            "language": "C",
+            "keywords": [
+                "Tool",
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 22,
+            "contributors": 42,
+            "code_line_count": 6584,
+            "last_updated_repo": "2025-08-22T15:17:28Z",
+            "pushed_at": "2025-03-27T13:21:37Z",
+            "date_fetched": "2025-08-22T15:19:34.809292+00:00"
+        },
+        {
+            "id": 2981351,
+            "name": "erickt/rust-zmq",
+            "url": "https://github.com/erickt/rust-zmq",
+            "stars": 966,
+            "language": "Rust",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 7,
+            "contributors": 60,
+            "code_line_count": 6011,
+            "last_updated_repo": "2025-08-20T02:11:52Z",
+            "pushed_at": "2025-05-30T18:49:18Z",
+            "date_fetched": "2025-08-22T15:19:41.880174+00:00"
+        },
+        {
+            "id": 2980827,
+            "name": "nose-devs/nose2",
+            "url": "https://github.com/nose-devs/nose2",
+            "stars": 806,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 80,
+            "code_line_count": 17621,
+            "last_updated_repo": "2025-08-11T20:19:56Z",
+            "pushed_at": "2025-08-18T16:53:58Z",
+            "date_fetched": "2025-08-22T15:19:49.152398+00:00"
+        },
+        {
+            "id": 2977472,
+            "name": "yetibot/yetibot",
+            "url": "https://github.com/yetibot/yetibot",
+            "stars": 355,
+            "language": "Clojure",
+            "keywords": [
+                "Devops",
+                "Database",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 31,
+            "code_line_count": 8378,
+            "last_updated_repo": "2025-08-05T12:30:19Z",
+            "pushed_at": "2025-03-11T16:03:05Z",
+            "date_fetched": "2025-08-22T15:19:56.308878+00:00"
+        },
+        {
+            "id": 2979925,
+            "name": "FriendsOfSymfony1/symfony1",
+            "url": "https://github.com/FriendsOfSymfony1/symfony1",
+            "stars": 345,
+            "language": "PHP",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 71,
+            "code_line_count": 120492,
+            "last_updated_repo": "2025-07-09T11:38:22Z",
+            "pushed_at": "2025-05-05T21:02:34Z",
+            "date_fetched": "2025-08-22T15:20:03.938014+00:00"
+        },
+        {
+            "id": 2977028,
+            "name": "s3-wagon-private/s3-wagon-private",
+            "url": "https://github.com/s3-wagon-private/s3-wagon-private",
+            "stars": 218,
+            "language": "Java",
+            "keywords": [
+                "Tool",
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 26,
+            "code_line_count": 199,
+            "last_updated_repo": "2025-08-06T08:50:43Z",
+            "pushed_at": "2025-06-27T15:37:04Z",
+            "date_fetched": "2025-08-22T15:20:11.068790+00:00"
+        },
+        {
+            "id": 2981988,
+            "name": "michael-lehn/FLENS",
+            "url": "https://github.com/michael-lehn/FLENS",
+            "stars": 127,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 18,
+            "code_line_count": 135759,
+            "last_updated_repo": "2025-08-11T16:04:11Z",
+            "pushed_at": "2025-06-10T14:30:09Z",
+            "date_fetched": "2025-08-22T15:20:19.336544+00:00"
+        },
+        {
+            "id": 2982886,
+            "name": "mosra/magnum-plugins",
+            "url": "https://github.com/mosra/magnum-plugins",
+            "stars": 103,
+            "language": "C++",
+            "keywords": [
+                "Framework",
+                "Game",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 30,
+            "code_line_count": 223118,
+            "last_updated_repo": "2025-07-14T13:39:03Z",
+            "pushed_at": "2025-07-14T13:38:58Z",
+            "date_fetched": "2025-08-22T15:20:27.771910+00:00"
+        },
+        {
+            "id": 2983118,
+            "name": "dlindahl/omniauth-cas",
+            "url": "https://github.com/dlindahl/omniauth-cas",
+            "stars": 88,
+            "language": "Ruby",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 16,
+            "code_line_count": 1223,
+            "last_updated_repo": "2025-07-26T11:39:34Z",
+            "pushed_at": "2025-07-26T11:39:53Z",
+            "date_fetched": "2025-08-22T15:20:34.893657+00:00"
+        },
+        {
+            "id": 2990192,
+            "name": "signalapp/Signal-Android",
+            "url": "https://github.com/signalapp/Signal-Android",
+            "stars": 27472,
+            "language": "Kotlin",
+            "keywords": [
+                "Security",
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 63,
+            "contributors": 378,
+            "code_line_count": 1384682,
+            "last_updated_repo": "2025-08-22T13:56:34Z",
+            "pushed_at": "2025-08-21T19:13:03Z",
+            "date_fetched": "2025-08-22T15:20:57.622761+00:00"
+        },
+        {
+            "id": 2985492,
+            "name": "GothenburgBitFactory/bugwarrior",
+            "url": "https://github.com/GothenburgBitFactory/bugwarrior",
+            "stars": 780,
+            "language": "Python",
+            "keywords": [
+                "Devops",
+                "Tool",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 3,
+            "contributors": 143,
+            "code_line_count": 16895,
+            "last_updated_repo": "2025-08-21T14:34:01Z",
+            "pushed_at": "2025-08-21T14:33:56Z",
+            "date_fetched": "2025-08-22T15:21:06.266331+00:00"
+        },
+        {
+            "id": 2988101,
+            "name": "nuxeo/nuxeo",
+            "url": "https://github.com/nuxeo/nuxeo",
+            "stars": 675,
+            "language": "Java",
+            "keywords": [
+                "Devops",
+                "Web",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 210,
+            "code_line_count": 1499782,
+            "last_updated_repo": "2025-08-22T01:14:57Z",
+            "pushed_at": "2025-08-22T01:29:46Z",
+            "date_fetched": "2025-08-22T15:21:20.361580+00:00"
+        },
+        {
+            "id": 2989987,
+            "name": "zendesk/zendesk_api_client_rb",
+            "url": "https://github.com/zendesk/zendesk_api_client_rb",
+            "stars": 393,
+            "language": "Ruby",
+            "keywords": [
+                "Web",
+                "AI",
+                "Testing"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 1,
+            "contributors": 104,
+            "code_line_count": 11048,
+            "last_updated_repo": "2025-08-12T14:21:50Z",
+            "pushed_at": "2025-08-14T12:13:10Z",
+            "date_fetched": "2025-08-22T15:21:28.411324+00:00"
+        },
+        {
+            "id": 2993595,
+            "name": "infinilabs/analysis-ik",
+            "url": "https://github.com/infinilabs/analysis-ik",
+            "stars": 17163,
+            "language": "Java",
+            "keywords": [
+                "CLI",
+                "Tool",
+                "Web"
+            ],
+            "new_open_issues": 1,
+            "new_stars_30d": 43,
+            "contributors": 48,
+            "code_line_count": 5331,
+            "last_updated_repo": "2025-08-22T11:18:49Z",
+            "pushed_at": "2025-06-06T01:20:28Z",
+            "date_fetched": "2025-08-22T15:21:38.381556+00:00"
+        },
+        {
+            "id": 2997204,
+            "name": "openwall/john",
+            "url": "https://github.com/openwall/john",
+            "stars": 11793,
+            "language": "C",
+            "keywords": [
+                "CLI",
+                "Database",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 121,
+            "contributors": 205,
+            "code_line_count": 505943,
+            "last_updated_repo": "2025-08-22T13:29:23Z",
+            "pushed_at": "2025-08-22T08:18:39Z",
+            "date_fetched": "2025-08-22T15:21:53.350378+00:00"
+        },
+        {
+            "id": 2994517,
+            "name": "i18next/i18next",
+            "url": "https://github.com/i18next/i18next",
+            "stars": 8244,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 28,
+            "contributors": 254,
+            "code_line_count": 37397,
+            "last_updated_repo": "2025-08-22T10:49:29Z",
+            "pushed_at": "2025-08-20T14:16:20Z",
+            "date_fetched": "2025-08-22T15:22:00.626265+00:00"
+        },
+        {
+            "id": 2997310,
+            "name": "pallets-eco/flask-debugtoolbar",
+            "url": "https://github.com/pallets-eco/flask-debugtoolbar",
+            "stars": 964,
+            "language": "JavaScript",
+            "keywords": [
+                "JavaScript"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 60,
+            "code_line_count": 37727,
+            "last_updated_repo": "2025-08-07T03:02:17Z",
+            "pushed_at": "2025-08-04T19:35:28Z",
+            "date_fetched": "2025-08-22T15:22:07.944431+00:00"
+        },
+        {
+            "id": 2996672,
+            "name": "lemenkov/libyuv",
+            "url": "https://github.com/lemenkov/libyuv",
+            "stars": 881,
+            "language": "C++",
+            "keywords": [
+                "Mobile"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 107,
+            "code_line_count": 23022,
+            "last_updated_repo": "2025-08-21T22:00:34Z",
+            "pushed_at": "2025-08-21T22:00:30Z",
+            "date_fetched": "2025-08-22T15:22:15.325776+00:00"
+        },
+        {
+            "id": 2991730,
+            "name": "fabiensanglard/Another-World-Bytecode-Interpreter",
+            "url": "https://github.com/fabiensanglard/Another-World-Bytecode-Interpreter",
+            "stars": 878,
+            "language": "C++",
+            "keywords": [
+                "Game"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 13,
+            "code_line_count": 4944,
+            "last_updated_repo": "2025-08-20T12:22:06Z",
+            "pushed_at": "2025-03-05T18:08:25Z",
+            "date_fetched": "2025-08-22T15:22:22.381516+00:00"
+        },
+        {
+            "id": 2996995,
+            "name": "restlet/restlet-framework-java",
+            "url": "https://github.com/restlet/restlet-framework-java",
+            "stars": 661,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 67,
+            "code_line_count": 164261,
+            "last_updated_repo": "2025-08-17T18:21:45Z",
+            "pushed_at": "2025-07-02T23:02:43Z",
+            "date_fetched": "2025-08-22T15:22:30.648536+00:00"
+        },
+        {
+            "id": 2996011,
+            "name": "imglib/imglib2",
+            "url": "https://github.com/imglib/imglib2",
+            "stars": 312,
+            "language": "Java",
+            "keywords": [
+                "Framework",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 43,
+            "code_line_count": 136702,
+            "last_updated_repo": "2025-08-15T21:18:15Z",
+            "pushed_at": "2025-08-08T15:51:07Z",
+            "date_fetched": "2025-08-22T15:22:38.597267+00:00"
+        },
+        {
+            "id": 2994736,
+            "name": "haskell-github-trust/ekg",
+            "url": "https://github.com/haskell-github-trust/ekg",
+            "stars": 256,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 22,
+            "code_line_count": 15903,
+            "last_updated_repo": "2025-07-03T23:06:19Z",
+            "pushed_at": "2025-04-22T16:03:02Z",
+            "date_fetched": "2025-08-22T15:22:45.811323+00:00"
+        },
+        {
+            "id": 2995368,
+            "name": "mikejsavage/lua-bcrypt",
+            "url": "https://github.com/mikejsavage/lua-bcrypt",
+            "stars": 56,
+            "language": "C",
+            "keywords": [
+                "Framework",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 5,
+            "code_line_count": 1380,
+            "last_updated_repo": "2025-08-18T19:08:32Z",
+            "pushed_at": "2025-08-18T19:08:29Z",
+            "date_fetched": "2025-08-22T15:22:52.744426+00:00"
+        },
+        {
+            "id": 3003488,
+            "name": "anvaka/VivaGraphJS",
+            "url": "https://github.com/anvaka/VivaGraphJS",
+            "stars": 3846,
+            "language": "JavaScript",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 5,
+            "contributors": 20,
+            "code_line_count": 21287,
+            "last_updated_repo": "2025-08-15T11:26:18Z",
+            "pushed_at": "2025-03-08T05:17:39Z",
+            "date_fetched": "2025-08-22T15:23:01.188523+00:00"
+        },
+        {
+            "id": 3003137,
+            "name": "python-greenlet/greenlet",
+            "url": "https://github.com/python-greenlet/greenlet",
+            "stars": 1744,
+            "language": "C++",
+            "keywords": [
+                "C++"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 11,
+            "contributors": 79,
+            "code_line_count": 16700,
+            "last_updated_repo": "2025-08-20T20:42:40Z",
+            "pushed_at": "2025-08-07T13:13:54Z",
+            "date_fetched": "2025-08-22T15:23:08.414391+00:00"
+        },
+        {
+            "id": 2999982,
+            "name": "Pylons/waitress",
+            "url": "https://github.com/Pylons/waitress",
+            "stars": 1522,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 56,
+            "code_line_count": 15440,
+            "last_updated_repo": "2025-08-22T03:57:48Z",
+            "pushed_at": "2025-08-12T06:39:33Z",
+            "date_fetched": "2025-08-22T15:23:15.568077+00:00"
+        },
+        {
+            "id": 3003791,
+            "name": "geventhttpclient/geventhttpclient",
+            "url": "https://github.com/geventhttpclient/geventhttpclient",
+            "stars": 557,
+            "language": "Python",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 54,
+            "code_line_count": 6085,
+            "last_updated_repo": "2025-07-28T17:41:21Z",
+            "pushed_at": "2025-06-11T12:39:44Z",
+            "date_fetched": "2025-08-22T15:23:22.734406+00:00"
+        },
+        {
+            "id": 3006066,
+            "name": "milessabin/shapeless",
+            "url": "https://github.com/milessabin/shapeless",
+            "stars": 3399,
+            "language": "Scala",
+            "keywords": [
+                "Framework",
+                "Testing",
+                "Tool"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 156,
+            "code_line_count": 46496,
+            "last_updated_repo": "2025-08-16T20:34:30Z",
+            "pushed_at": "2025-08-12T15:41:13Z",
+            "date_fetched": "2025-08-22T15:23:31.917790+00:00"
+        },
+        {
+            "id": 3007569,
+            "name": "tahoe-lafs/tahoe-lafs",
+            "url": "https://github.com/tahoe-lafs/tahoe-lafs",
+            "stars": 1350,
+            "language": "Python",
+            "keywords": [
+                "Database",
+                "Web",
+                "Security"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 8,
+            "contributors": 110,
+            "code_line_count": 158608,
+            "last_updated_repo": "2025-08-22T01:33:51Z",
+            "pushed_at": "2025-08-21T17:55:29Z",
+            "date_fetched": "2025-08-22T15:23:40.402644+00:00"
+        },
+        {
+            "id": 3007859,
+            "name": "disruptor-net/Disruptor-net",
+            "url": "https://github.com/disruptor-net/Disruptor-net",
+            "stars": 1245,
+            "language": "C#",
+            "keywords": [
+                "Framework"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 10,
+            "contributors": 12,
+            "code_line_count": 36211,
+            "last_updated_repo": "2025-08-20T07:02:58Z",
+            "pushed_at": "2025-08-16T17:15:47Z",
+            "date_fetched": "2025-08-22T15:23:47.602115+00:00"
+        },
+        {
+            "id": 3004851,
+            "name": "wangp/bower",
+            "url": "https://github.com/wangp/bower",
+            "stars": 141,
+            "language": "Mercury",
+            "keywords": [
+                "CLI",
+                "Database",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 11,
+            "code_line_count": 34880,
+            "last_updated_repo": "2025-08-13T20:20:00Z",
+            "pushed_at": "2025-06-04T08:28:17Z",
+            "date_fetched": "2025-08-22T15:23:54.815244+00:00"
+        },
+        {
+            "id": 3008704,
+            "name": "qnikst/HaskellNet",
+            "url": "https://github.com/qnikst/HaskellNet",
+            "stars": 88,
+            "language": "Haskell",
+            "keywords": [
+                "Framework",
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 36,
+            "code_line_count": 3318,
+            "last_updated_repo": "2025-06-08T08:29:20Z",
+            "pushed_at": "2025-06-08T08:31:00Z",
+            "date_fetched": "2025-08-22T15:24:01.804740+00:00"
+        },
+        {
+            "id": 3006481,
+            "name": "postgres/pgweb",
+            "url": "https://github.com/postgres/pgweb",
+            "stars": 76,
+            "language": "HTML",
+            "keywords": [
+                "Framework",
+                "Web",
+                "Database"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 34,
+            "code_line_count": 78865,
+            "last_updated_repo": "2025-08-18T08:38:21Z",
+            "pushed_at": "2025-08-18T08:38:18Z",
+            "date_fetched": "2025-08-22T15:24:09.460152+00:00"
+        },
+        {
+            "id": 3010630,
+            "name": "jbosstm/narayana",
+            "url": "https://github.com/jbosstm/narayana",
+            "stars": 253,
+            "language": "Java",
+            "keywords": [
+                "Tool",
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 2,
+            "contributors": 74,
+            "code_line_count": 546993,
+            "last_updated_repo": "2025-08-19T13:10:32Z",
+            "pushed_at": "2025-07-29T13:08:23Z",
+            "date_fetched": "2025-08-22T15:24:19.478903+00:00"
+        },
+        {
+            "id": 3011455,
+            "name": "happypeter/haoduoshipin",
+            "url": "https://github.com/happypeter/haoduoshipin",
+            "stars": 249,
+            "language": "CSS",
+            "keywords": [
+                "CSS"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 4,
+            "contributors": 7,
+            "code_line_count": 538,
+            "last_updated_repo": "2025-08-09T16:40:08Z",
+            "pushed_at": "2025-05-19T15:28:25Z",
+            "date_fetched": "2025-08-22T15:24:26.657904+00:00"
+        },
+        {
+            "id": 3014099,
+            "name": "spree/spree_gateway",
+            "url": "https://github.com/spree/spree_gateway",
+            "stars": 231,
+            "language": "Ruby",
+            "keywords": [
+                "Testing"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 1,
+            "contributors": 119,
+            "code_line_count": 4916,
+            "last_updated_repo": "2025-08-14T13:18:17Z",
+            "pushed_at": "2025-06-05T10:38:19Z",
+            "date_fetched": "2025-08-22T15:24:34.352057+00:00"
+        },
+        {
+            "id": 3014803,
+            "name": "raceintospace/raceintospace",
+            "url": "https://github.com/raceintospace/raceintospace",
+            "stars": 192,
+            "language": "C++",
+            "keywords": [
+                "Tool",
+                "Game"
+            ],
+            "new_open_issues": 4,
+            "new_stars_30d": 1,
+            "contributors": 23,
+            "code_line_count": 225289,
+            "last_updated_repo": "2025-08-21T01:32:42Z",
+            "pushed_at": "2025-08-16T15:34:36Z",
+            "date_fetched": "2025-08-22T15:24:46.155021+00:00"
+        },
+        {
+            "id": 3015257,
+            "name": "openframeworks/ofSite",
+            "url": "https://github.com/openframeworks/ofSite",
+            "stars": 160,
+            "language": "Python",
+            "keywords": [
+                "Web"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 202,
+            "code_line_count": 59547,
+            "last_updated_repo": "2025-08-19T17:55:12Z",
+            "pushed_at": "2025-08-19T17:55:08Z",
+            "date_fetched": "2025-08-22T15:24:54.942553+00:00"
+        },
+        {
+            "id": 3015879,
+            "name": "mpereira/.emacs.d",
+            "url": "https://github.com/mpereira/.emacs.d",
+            "stars": 76,
+            "language": "Emacs Lisp",
+            "keywords": [
+                "Emacs Lisp"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 1,
+            "code_line_count": 209,
+            "last_updated_repo": "2025-04-19T13:36:47Z",
+            "pushed_at": "2025-04-19T13:36:44Z",
+            "date_fetched": "2025-08-22T15:25:02.040565+00:00"
+        },
+        {
+            "id": 3009276,
+            "name": "Wizmann/ACM-ICPC",
+            "url": "https://github.com/Wizmann/ACM-ICPC",
+            "stars": 63,
+            "language": "C++",
+            "keywords": [
+                "C++"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 0,
+            "contributors": 11,
+            "code_line_count": 167485,
+            "last_updated_repo": "2025-08-22T10:54:29Z",
+            "pushed_at": "2025-08-22T10:54:26Z",
+            "date_fetched": "2025-08-22T15:25:09.916507+00:00"
+        },
+        {
+            "id": 3019537,
+            "name": "linuxmint/cinnamon",
+            "url": "https://github.com/linuxmint/cinnamon",
+            "stars": 5005,
+            "language": "JavaScript",
+            "keywords": [
+                "CLI"
+            ],
+            "new_open_issues": 0,
+            "new_stars_30d": 42,
+            "contributors": 390,
+            "code_line_count": 187573,
+            "last_updated_repo": "2025-08-20T06:04:42Z",
+            "pushed_at": "2025-08-12T17:02:50Z",
+            "date_fetched": "2025-08-22T15:25:22.073541+00:00"
         }
     ]
 }
