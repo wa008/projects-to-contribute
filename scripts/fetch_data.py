@@ -239,7 +239,7 @@ class GitHubAPI:
         line_count = self._count_code_lines(repo_name)
         print (f"repo_full_name: {repo_full_name}, repo_name: {repo_name}, line_count: {line_count}")
         os.system(f'rm -rf {repo_name}')
-        return int(line_count.split()[-2])
+        return int(line_count)
 
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
